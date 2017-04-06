@@ -1,0 +1,1085 @@
+Ann. N.Y. Acad. Sci. ISSN 0077-8923
+ANNALS OF THE NEW YORK ACADEMY OF SCIENCES
+Issue: Resveratrol and Health
+Resveratrol in cardiovascular health and disease
+Goran Petrovski,1 Narasimman Gurusamy,2 and Dipak K. Das2
+1Department of Biochemistry and Molecular Biology, The Apoptosis and Genomics Research Group of the Hungarian
+Academy of Sciences, University of Debrecen, Hungary. 2Cardiovascular Research Center, University of Connecticut School
+of Medicine, Farmington, Connecticut
+Address for correspondence: Dipak K. Das, Ph.D., Sc.D., M.D. (hon), FAHA, Cardiovascular Research Center, University of
+Connecticut, School of Medicine, Farmington, CT 06030-1110. ddas@neuron.uchc.edu
+Resveratrol, initiallyused for cancer therapy, has shownbeneficial effects againstmostdegenerative andcardiovascular
+diseases from atherosclerosis, hypertension, ischemia/reperfusion, and heart failure to diabetes, obesity, and aging.
+The cardioprotective effects of resveratrol are associated with its preconditioning-like action potentiated by its
+adaptive response.During preconditioning, small doses of resveratrol can exert an adaptive stress response, forcing the
+expression of cardioprotective genes and proteins such as heat shock and antioxidant proteins. Similarly, resveratrol
+can induce autophagy, another formof stress adaptation for degrading damaged or long-lived proteins, as a first line
+of protection against oxidative stress. Resveratrol¡¦s interactionwithmultiple molecular targets of diverse intracellular
+pathways (e.g., action on sirtuins and FoxOs through multiple transcription factors and protein targets) intertwines
+with those of the autophagic pathway to give support in the modified redox environment after stem cell therapy,
+which leads to prolonged survival of cells. The successful application of resveratrol in therapy is based upon its
+hormetic action similar to any toxin: exerting beneficial effects at lower doses and cytotoxic effects at higher doses.
+Keywords: resveratrol; autophagy; cardiovascular disease; atherosclerosis; angiogenesis; myocardial regeneration; hypertension;
+stem cells; longevity genes; hormesis
+Introduction
+Cardiovascular diseases (CVDs) are the major
+causes of morbidity and mortality in the developed
+nations, including the United States.1 About 100
+million Americans suffer from some kind of CVD
+including highblood pressure, atherosclerosis, coronary
+heart disease, or stroke. Thirty-nine percent of
+all deaths¡Xor one in every three deaths¡Xis claimed
+to be caused by a heart disease. Although proper
+medicines are abundant in developing countries to
+combat CVDs, preventive measures appear to be
+necessary to lower the incidence of heart problems.
+Maintaining a healthy heart is particularly important
+for thosewith a family history of coronary heart
+disease including hypertension, heart attack, and
+atherosclerosis. Fortunately, a number of natural
+cures are available that appear to maintain cardiovascular
+health. For example,maintaining a healthy
+lifestyle, daily exercise, and choosing proper diets
+certainly help maintain a healthy heart.2,3 Certain
+mineral-rich foods including those high in potassium,
+calcium, and magnesium can control blood
+pressure. Low-fat milks are rich sources of calcium,
+while magnesium and potassium can be found in
+green vegetables and fish oil. Among the fatty foods,
+limiting saturated, polyunsaturated, monounsaturated,
+and trans- fats would help reduce cholesterol
+and associated forms of coronary heart diseases.
+Major sources of saturated fat include beef, butter,
+cheese, whole milk, and coconut and palm oils.
+In contrast, polyunsaturated fats like omega-3-fatty
+acids containing foods including fish oil, flax seed
+oil, and canola oil may reduce the risk of heart attack.
+Someof the examples formaintaining a healthy
+heart include garlic, olive oil, broccoli, capsicum,
+coenzyme Q10, Terminalia arjuna, Ashwagandha
+(Withania somnifera), cocoa, and fish oil, most of
+which are included in the Mediterranean diet. Numerous
+reports are available in the literature about
+heart healthy diet from Mediterranean foods.4,5
+First published in 1992 as the French Paradox, the
+health benefits of daily drinking of wine in moderation
+has been proven by most of the scientists and
+doi: 10.1111/j.1749-6632.2010.05843.x
+22 Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences.
+Petrovski et al. Resveratrol in heart health
+clinicians all over the world.6 Wine contains 11¡V
+14% alcohol and many polyphenolic compounds,
+most of which possess antioxidant properties. Although
+alcohol possesses cardioprotective properties,
+it is universally believed that it is not the alcohol
+but some of the polyphenols present in wine
+that are responsible for the cardioprotective properties
+of wine.7 Among the polyphenols present in
+wine, especially red wine, resveratrol has drawn major
+attention. Resveratrol is present in the skins of
+grapes and thus in red wine. In addition to grapes,
+resveratrol is present in a large variety of fruits including
+cranberry, mulberry, lingonberry, bilberry,
+partridgeberry, sparkleberry, deerberry, blueberry,
+jackfruit, peanut, as well as in a wide variety of
+flowers and leaves including gnetum, butterfly orchid
+tree, white hellebore, scots pine, corn lily, eucalyptus,
+and spruce. Commercially, resveratrol is
+extracted from the dried roots of Polygonum cuspidatum,
+mainly found in Japan and China. Polygonum
+extract has been used in Japanese and Chinese
+traditional medicine to treat fungal infections,
+various skin inflammations, liver disease, and cardiovascular
+problems.8 Resveratrol is also an antifungal
+compound that is synthesized in response
+to environmental stressors including water deprivation,
+UV radiation, and especially fungal infection.9
+A growing body of evidence now supports the
+notion that resveratrol is the major factor responsible
+for the cardioprotective effects of wine. In
+the heart, resveratrol blocks low-density lipoprotein
+(LDL) peroxidation, increases high-density
+lipoprotein (HDL) levels, induces vasorelaxation
+presumably through the induction of nitric oxide
+(NO) synthesis, inhibits endothelin (ET), modifies
+angiogenic response, reduces ventricular arrhythmias,
+possesses antithrombin activity and prevents
+platelet aggregation, inhibits formation of soluble
+adhesion molecules, reduces reactive oxygen species
+(ROS), reduces blood pressure, and ameliorates ischemic
+reperfusion injury (Fig. 1).8,10¡V12 It is believed
+that resveratrol-mediated cardioprotection is
+not due to its direct drug-like effect on the diseased
+heart, rather, it potentiates a preconditioning
+(PC)-like effect, a state-of-the art for cardioprotection.
+The PC effect results from an adaptive
+response, which receives further support from a recent
+discovery that resveratrol promotes autophagy
+(Fig. 2).13,14 More recently, resveratrol has been
+found to regenerate the infracted myocardium.11
+Figure 1. Effects of resveratrol on cardiovascular health and
+other diseases. Granulocyte-macrophage colony-stimulating
+factor (GM-CSF), interleukin (IL), low-density lipoprotein
+(LDL), nitric oxide (NO), and reactive oxygen species (ROS).
+Resveratrol appears to maintain a healthy heart in
+numerous ways, and can provide numerous health
+benefits, which will be the subject of discussion in
+this review.
+Resveratrol and cardiovascular health
+As mentioned earlier, CVDs¡Xbeing the leading
+cause of death and illness worldwide¡Xare greatly
+dependent not only on nonmodifiable predisposing
+factors (age, sex, and genetic composition),
+but also on a modifiable factor¡Xthe lifestyle. Indeed,
+risk factors other than increased plasma
+cholesterol15 and obesity,16 such as oxidative stress,
+inflammation, and endothelial damage, all have
+great relevance in the development of CVD. One
+of the most well-known benefits of resveratrol is
+improvement of cardiovascular health (Fig. 1).17
+Resveratrol, in physiologic concentrations after red
+wine consumption, increases the expression of
+NO synthase, an enzyme responsible for synthesizing
+the potent vasodilator NO in human vascular
+endothelial cells.18 Resveratrol also decreases
+the expression of the potent vasoconstrictor ET.18
+Cerebral ischemic damage in rat brains can be prevented
+via pretreatment with resveratrol19 by activating
+sirtuin (Sirt) 1, coupled with a decrease
+in mitochondrial uncoupling protein 2 and an
+increase in mitochondrial ATP synthesizing efficiency.
+19 Resveratrol can also exert cardioprotection
+Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences. 23
+Resveratrol in heart health Petrovski et al.
+Figure 2. Cardioprotective pathways of resveratrol.
+by inhibiting platelet aggregation, similar to how aspirin
+works.17 In the following sections, the beneficial
+effects of resveratrol, as summarized inFigure 1,
+will be briefly discussed in relation to some major
+heart problems.
+Atherosclerosis
+Atherosclerosis is an inflammatory disease of the
+arterial wall caused by endothelial wall damage
+during continuous hemodynamic and redox stress
+conditions.20 Under such conditions, modified
+LDLs, lipids, and fibrous elements can accumulate
+in the wall. Its progression into plaque disruption
+can lead to local thrombosis and acute coronary
+syndrome.21,22 As previously mentioned, resveratrol
+can regulate the production of NO, a potent
+vasodilator, by counterbalancing the effect of the
+vasoconstrictor ET-1,18,23¡V25 thus providing
+thromboresistance and preventing atherogenesis.24
+Resveratrol can potentially inhibit stress-induced
+ET-1 gene expression by interferingwith its promoting
+extracellular-signal-regulated kinases (ERK)
+1/2 pathway26 and therefore improve endothelial
+function.27
+Inflammation mediates all stages of atherosclerosis
+from initiation to progression and, eventually,
+plaque rupture. Prostaglandin E2 (PGE2) plays a
+key role in inflammation¡Xits synthesis is catalyzed
+by cyclooxygenase (COX) 2. Resveratrol can inhibit
+the atherosclerosis-associated inflammation via regulating
+the COX-2 activity at a transcriptional level,
+thereby inhibiting the production of PGE2.28 In culturedmurine
+macrophages, resveratrol can suppress
+the proinflammatory interleukin (IL)-6 gene expression,
+protein synthesis, and secretion,29,30 and
+inhibit the release of both IL-8 and granulocytemacrophage
+colony-stimulating factor.31 Oxidation
+of LDL and uptake into the vascular wall as a
+main cause of endothelial injury and inflammation
+can be prevented by resveratrol.32 Endothelial
+cell injury, platelet aggregation, and adherence to
+the injured cell surface can be blocked by this stilbene,
+inhibiting further the adhesion of collagen to
+platelets33 and ADP-induced platelet aggregation34
+in a concentration-dependent manner.35 Low concentrations
+of resveratrol can significantly inhibit
+intracellular and extracellular ROS production36 by
+enhancing the intracellular free radical scavenger
+glutathione.37
+Oxidized lipids, metabolic stress, and inflammation
+in atherosclerotic plaques can also induce
+autophagy as a safeguard against cellular distress
+by degrading damaged intracellular material. Basal
+autophagy can be enhanced by certain drugs for
+cardioprotection, which can reach damaging and
+autophagic cell death levels under excessive stimulation.
+38 Loss of smooth muscle cells may lead to
+plaque destabilization and rupture under excessive
+cell death and autophagy conditions.39 However,
+therapeutic induction of autophagy in atherosclerotic
+plaque resolution may have a counterbalancing
+effect on other survival or cell death pathways
+such as apoptosis and necrosis.
+Hypertension
+Higher systemic blood pressure (SBP) associates
+with increased heart weight, serum ET-1, angiotensin
+II (AngII) concentrations, and decreased
+serum NO. Resveratrol decreases SBP, heart weight,
+ET-1, and AngII concentrations while increases
+the vasodilator NO concentration, which protects
+against increased SBP and subsequent cardiac hypertrophy
+in mice.40,41 Mean arterial pressure after
+resveratrol treatment dropped significantly in
+spontaneously hypertensive rats.42 In another study
+on rats treated with resveratrol, echocardiographic
+24 Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences.
+Petrovski et al. Resveratrol in heart health
+analysis of cardiac structure and function after
+hypertensive stress showed improvement in the interventricular
+septal wall thickness and left ventricular
+posterior wall thickness, as well as isovolumetric
+relaxation time at systole and diastole.
+Endothelial NO synthase (eNOS), inducible nitric
+oxide synthase (iNOS), and redox factor-1 (ref-1)
+were significantly decreased under these stress conditions.
+Resveratrol may therefore be beneficial
+against certain types of cardiac hypertrophy found
+in clinical settings of hypertension and aortic valve
+stenosis.
+For the last 30 years it has been know that lysosomal
+pathways are involved in the different models
+of heart disease.43¡V47 More recently, advances in
+our understanding of autophagy have revealed that
+hemodynamic load-induced aggregation of intracellular
+proteins may have a protective role.48 However,
+excessive pressure overload may elicit a robust
+autophagic response in cardiomycytes that is maladaptive
+and contributes to disease progression.
+Ischemia/reperfusion injury and PC
+PC is a protective and adaptive phenomenon
+whereby brief episodes of ischemia and reperfusion
+(I/R) render the heart resistant to subsequent
+ischemic injury or stress. A large number of stimuli
+such as short cyclic episodes of I/R, a number
+of pharmacological agents (agonists of adenosine,
+bradykinin, adrenergic and muscarinic receptor,
+NOdonors, and phosphodiesterase inhibitors), and
+various noxious stimuli (endotoxins, cytokines, and
+ROS) have been found to generate PC-like phenotype.
+49 Resveratrol can similarly precondition the
+heart in a NO-dependent manner (Fig. 3), inducing
+the expression of iNOS, eNOS, and vascular
+endothelial growth factor (VEGF) in rats.50
+Resveratrol provided cardioprotection as evidenced
+by superior postischemic ventricular recovery, reduced
+myocardial infarct size, and decreased number
+of apoptotic cardiomyocytes. Resveratrol likely
+activates both adenosine A1 and A3 receptors
+that phosphorylate phosphatidylinositol-3 kinase
+(PI3K), which then phosphorylates protein kinase
+B (Akt) and thus preconditions the heart by producing
+NO, as well as by the activation of antioxidant
+Bcl-2.50,51 Activation of adenosineA3 receptors
+could also precondition the heart by a survival signal
+through the cAMP response element-binding
+protein (CREB) phosphorylation via PI3K/Akt and
+via MERK (mitogen-activated extracellular signalregulated
+protein kinase)/CREB pathways.52 Recent
+studies have also demonstrated that NO can induce
+the expression of heme oxygenase-1. Tin protoporphyrin
+(SnPP), a heme oxygenase-1 (HO-1)
+inhibitor, abolished increased cardiac function parameters,
+reduced myocardial infarct size, and decreased
+cardiomyocyte apoptosis that characterize
+the cardioprotection with resveratrol.53 The HO-
+1¡Vmediated mechanisms were related to the p38
+MAP kinase and Akt survival signaling but independent
+of nuclear factor-kappaB (NF-B) activation.
+A polyphenol, resveratrol, protects the heart
+by its antioxidative properties through various redox
+signaling mechanisms. The ability of resveratrol
+to modulate redox signaling has been extensively reviewed,
+54,55 but the role of Sirt activation in the heart
+is yet to be determined.Whitewine lacking polyphenols
+but containing antioxidant compounds such
+as caffeic acid and tyrosol mediated cardioprotection
+against I/R injury in rat hearts work via similar
+survival pathway involving Akt/FOXO3a/NF-
+B.56 Our recent results also indicate that at lower
+doses, resveratrol-mediated survival of cardiac myoblasts
+is, in part, mediated through the induction
+of autophagy,57 which, along other enhanced
+survival signals, helps to recover the cells from
+injury.58
+Angiogenesis
+Resveratrol in general has angiosuppressive
+effects¡Xrat gliomas significantly decrease in size
+upon resveratrol treatment.59 Proliferation and migration
+of vascular endothelial cells under resveratrol
+treatment activates eukaryotic elongation
+factor-2 kinase, which in turn inactivates elongation
+factor-2, an important factor in protein translation.
+60 In mice that develop abnormal angiogenesis
+in the retina after laser treatment, when given
+resveratrol, the abnormal blood vessels began to disappear.
+Similarly, resveratrol suppressed the growth
+of new blood vessels in animals by directly inhibiting
+capillary endothelial cell growth61¡Xit blocked
+the VEGF and fibroblast growth factor (FGF)
+receptor-mediated angiogenic responses and significantly
+delayed angiogenesis-dependent wound
+healing. Exposure of human umbilical vein endothelial
+cells (HUVECs) to low doses of resveratrol
+significantly blocks VEGF-mediated migration
+and tube formation but not cell proliferation.26
+Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences. 25
+Resveratrol in heart health Petrovski et al.
+Figure 3. (A) Typical electron spin resonance (ESR) spectra recorded from the reduction of nitroxide during ischemia of the
+isolated heart. The reduction in nitroxide resulted in a decrease in the ESR signal intensity over time during the ischemic phase.
+(B) The decrease in signal intensity over time was fit to determine the rate of decay of the ischemic heart in control and resveratroltreated
+hearts. (C) The rate of decay of the TEMPO nitroxide (2, 2, 6, 6-tetramethyl-piperidine-1-oxyl) during ischemic challenge
+in control and resveratrol-pretreated isolated hearts. Results are shown as mean ¡Ó SEM of 4 hearts per group.
+Under the same concentrations, resveratrol fails to
+affect VEGF-stimulated activation of VEGF receptor,
+extracellular signal-regulated protein kinase 1/2,
+p38 mitogen-activated protein kinase, and Akt. Interestingly,
+at low micromolar doses, resveratrol effectively
+abrogates VEGF-mediated tyrosine phosphorylation
+of vascular endothelial cadherin and its
+complex partner, -catenin.
+Insufficient angiogenesis can result in nutritional
+andmetabolic deficiency, igniting prosurvival pathways
+of autophagy in cells and tissues. In this case
+as well, the double-edged sword of autophagy is evident,
+since low-level induction of this pathway may
+be prosurviving for the deficiently supplied tissue,
+but excessive autophagy in cells can be destructive
+and possibly proinflammatory.62,63
+Metabolic syndrome: diabetes and obesity
+Although most of the research done on the positive
+effect of resveratrol and its antidiabetic potential has
+been conducted on animals, the results from our
+own laboratory show that injecting streptozotosin
+diabetic rats with this compound results in a significant
+decrease in the levels of blood glucose.64 Similarly,
+direct injection of resveratrol into the brains of
+diabetic rats resulted in reduction of insulin levels
+like it does in hyperinsulinemic rats. A recent study
+reported that long-term intracerebroventricular infusion
+of resveratrol-normalized hyperglycemia and
+greatly improved hyperinsulinemia in diet-induced
+obese and diabetic mice65 independent of changes
+in body weight, food intake, and circulating leptin
+levels. In addition, central nervous system resveratrol
+delivery improves hypothalamicNF-B inflammatory
+signaling by reducing acetylated-RelA/p65
+and total RelA/p65 protein contents and inhibitor
+of NF-B alpha and beta mRNA levels. Furthermore,
+this treatment leads to reduced hepatic
+phosphoenolpyruvate carboxykinase 1 mRNA and
+protein levels and ameliorates pyruvate-induced hyperglycemia
+in this mouse model of type 2 diabetes.
+The mechanism of resveratrol¡¦s action is by
+26 Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences.
+Petrovski et al. Resveratrol in heart health
+far complex and still evolving.Obesity studies in our
+laboratory demonstrate that resveratrol renders the
+hearts of ob/ob mice resistant to ischemic reperfusion
+injury.66 The antidiabetic potential of resveratrol
+appears to warrant further promise of imposing
+the same effect on humans.
+Insulin signaling,which enhances protein synthesis,
+also inhibits autophagy in insulin target tissues.67
+Thus, there is the potential for alterations in this
+control in insulin-resistant states such as diabetes,
+and defects in autophagy may adversely affect cell
+function in diabetes. Such defects may lead to inappropriate
+accumulation of dysfunctional mitochondria,
+insulin granules, or activation of apoptotic
+pathways. Furthermore, various cellular stresses can
+induce dysfunctional protein folding, which can
+cause the accumulation of misfolded and aggregated
+proteins in cells.68,69 Inability of the autophagy pathway
+to clear protein aggregates may be intimately
+related to cell death in diabetes.
+Longevity
+The first revolutionary discovery that resveratrol can
+activate the antiaging gene SIRT170 has been followed
+by recent studies supporting this antiaging
+function. However, animal studies of the dose effect
+of resveratrol would mean that one needs to consumeseveral
+bottles of redwine perday to reachsuch
+a dose.71 More recently, low dose of resveratrol has
+been found to activate not only SIRT1, but also SIRT
+3 and SIRT 4 as well as FoxOs and pre-B cell colonyenhancing
+factor (PBEF)¡Xall being proteins linked
+or associated with longevity.72 In addition, white
+wine and its components tyrosol and hydroxytyrosol
+have been found to activate same longevity
+genes, suggesting that activation of SIRT1 could be
+a nonspecific phenomenon. Resveratrol prevented
+age-related and obesity-related cardiovascular functional
+decline in mice, but did not affect the overall
+survival or maximum life span for mice on a standard
+diet, compared to mice on the same diet with
+resveratrol.73 Different species appear to increase
+their life span upon resveratrol, from yeast and nematodes
+toflies (Drosophila melanogaster), aswell as
+mice kept on a high fat diet. In another related study,
+SIRT1 overexpression enhanced the autophagic flux
+in cancer cells, and this effect was blocked by inhibitors
+of its catalytic activity. Resveratrol induced
+autophagy in Caenorhabditis elegans also via activation
+of SIRT2; this effect was abolished by siRNA
+mediated depletion of SIRT2.74 Autophagy, in turn,
+increases life expectancy of the worm.
+A substantial amount of evidence suggests that
+resveratrol mimics calorie restriction and increases
+the life span. Ongoing research to identify an ideal
+antiaging compound has not been successful. To
+date, calorie restriction remains the only effective
+mean to increase the life span,75 although the
+mechanisms whereby calorie restriction increases
+life span remain speculative. Several reports can be
+found in the literature supporting the role of exercise
+and certain chemicals such as rapamycin and resveratrol
+in expanding life span.76 A study using microarray
+revealed that out of 6,347 modified genes by
+calorie restriction, about 58 genes displayed at least
+twofold alterations in gene expression.77 There is a
+striking similarity between resveratrol and calorie
+restriction on the alteration of metabolic pathways.
+For example, both resveratrol and calorie restriction
+improve insulin sensitivity thereby reducing the insulin
+and glucose levels in the body,78 which in turn
+reduce the life-threatening cardiovascular risk factors.
+Both resveratrol and calorie restriction can potentiate
+the expression of Glucose transporter type 4
+(GLUT4).66 As mentioned earlier, the most important
+antiaging gene that is upregulated by calorie restriction
+and resveratrol is SIRT1, although it works
+in coordination with the FoxOs. Indeed, resveratrol
+and red wine containing significant amount of
+resveratrol that can inactivate the FoxOs by phosphorylation.
+72
+In a recent study, life extension of fish by resveratrol
+was associated with the change in the slope
+of mortality trajectory,79 indicating lowering of the
+time-dependent increase in death risk with resveratrol.
+In the same study, the authors noticed an initial
+increase in death rate after resveratrol treatment,
+suggesting that the weak toxic effect of resveratrol
+was associated with a stress response that ultimately
+increased the expression of longevity genes, thereby
+increasing the life span. A similar effect was observed
+in Drosophila, when hypothermia was associated
+with a reduction in the accumulation of agedependent
+irreversible injury.80 This effect was quite
+different from the life extension induced by calorie
+restriction, which is reflected in time-dependent reduction
+in acute risk of death without changing the
+slope of mortality rate.80
+Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences. 27
+Resveratrol in heart health Petrovski et al.
+Resveratrol and autophagy
+On the basis of our previous observation that cardioprotection
+induced by ischemic PC induces autophagy
+and that resveratrol induces PC-like effects,
+we sought to determine if resveratrol could induce
+autophagy. Macroautophagy, commonly known as
+autophagy, involves a bulk degradation process
+clearing organelles, long-lived proteins, and protein
+complexes. Cytosolic constituents destined to
+be degraded become enclosed by double membrane
+structures, known as autophagosomes or autophagic
+vacuoles, which are fused with lysosomes
+followed by the degradation of its contents. In fact,
+the name explains the term autophagy, a housekeeping
+process through self-cannibalism or eating
+inside-out.
+Three types of autophagy are known: (i) microautophagy
+involving ¡§dumping¡¨ of cytosolic
+constituents into the lysosome by direct invagination
+of the lysosomal membrane followed by
+budding of vesicles into the lysosomal lumen; (ii)
+macroautophagy, or autophagy involving the formation
+of a double membrane structure known as
+an autophagosome, which sequesters cytosolic constituents
+to be delivered into the lysosomes for digestion;
+and (iii) chaperone-mediated autophagy characterized
+by selectivity of cytosolic proteins to be
+degraded. Any autophagic process undergoes four
+stages: (i) induction by external stress, such as environmental
+stress (e.g., oxidative stress), nutritional
+stress (e.g., nutritional deprivation), and physical
+stress (e.g., ischemia or hypoxia)¡Xthe gatekeeper
+for induction is mTOR, which regulates transcriptional
+activation of downstreamtarget genes; (ii) autophagosome
+formation, as described earlier, where
+a number of autophagy (Atg) genes participate and
+recruit beclin-1 and microtubule-associated protein
+light-chain 3 (LC3); (iii) autophagosomes undergo
+docking and fusion with the lysosome; and finally
+(iv) autophagic vesicles are broken down by lysosomal
+proteases, where lysosomal-associated membrane
+protein 2 (LAMP-2) plays a crucial role in the
+degradation process.
+In a recent publication, we demonstrated that
+resveratrol at lower doses (0.1 and 1 M in H9c2
+cardiac myoblast cells and 2.5 mg/kg/day in rats)
+induced cardiac autophagy shown by enhanced
+formation of autophagosomes and its component
+LC3-II after hypoxia-reoxygenation or ischaemiareperfusion.
+11 Autophagy was attenuated with the
+higher dose of resveratrol, suggesting hormetic
+action of resveratrol, and the induction of autophagy
+was correlated with enhanced cell survival
+and decreased apoptosis. Treatmentwith rapamycin
+(100 nM), a known inducer of autophagy, did not
+further increase autophagy compared with resveratrol
+alone.11 Autophagic inhibitors, wortmannin
+(2M), and 3-methyladenine (10mM)significantly
+attenuated resveratrol-induced autophagy and induced
+cell death.11 The activation of mammalian
+target of rapamycin (mTOR) was differentially regulated
+by low-dose resveratrol, i.e., the phosphorylation
+of mTOR at serine 2448 was inhibited, whereas
+the phosphorylation of mTOR at serine 2481 was
+increased, which was attenuated with a higher dose
+of resveratrol.11 Although resveratrol attenuated the
+activation of mTOR complex 1, low-dose resveratrol
+significantly induced the expression of rictor, a
+component of mTOR complex 2, and activated its
+downstream survival kinase Akt (Ser 473).11
+Resveratrol-induced rictor was found to bind
+with mTOR. Furthermore, treatment with rictor
+siRNA attenuated the resveratrol-induced autophagy.
+These results indicate that at lower doses,
+resveratrol-mediated cell survival is, in part, mediated
+through the induction of autophagy involving
+the mTOR-rictor survival pathway.11
+It appears that resveratrol can generate a survival
+signal through autophagy. The important question
+is, ¡§can we use such autophagy clinically for the
+health benefits?¡¨ The simple answer is yes, if the
+amount of stress can be controlled. There is no
+doubt that a small amount of stress induced by
+resveratrol can induce autophagy generating a survival
+signal, while the same autophagy (induced
+by higher doses of resveratrol) will potentiate a
+death signal if the amount of such stress is large
+and becomes cytotoxic to the cells. Thus, a ¡§therapeutic
+amount of stress¡¨ (5¡V10 mM resveratrol)
+must be defined for the induction of autophagy, the
+same amount that has been known to induce an
+¡§adaptive response¡¨ for the cells subjected to hostile
+environment.
+Resveratrol in regeneration of infracted
+myocardium
+Another recent study from our laboratory using
+cardiac stem cells demonstrated that resveratrol
+can potentiate the regeneration of infracted myocardium.
+57 A major problem in the effectiveness
+28 Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences.
+Petrovski et al. Resveratrol in heart health
+of stem cell therapy is the death of stem cells due
+to the oxidative environment present in the normal
+tissue. Reduction of oxidative stress or maintaining
+a reduced environment in the target tissue
+can enhance stem cell survival and cardiac regeneration
+after stem cell therapy. In the study mentioned,
+57 we pretreated ratswith resveratrol (2.5mg/
+kg/day gavaged for 2 weeks) after which a left anterior
+descending coronary artery (LAD) occlusion
+was carried, followed by direct injection of
+adult cardiac stem cells stably expressing enhanced
+green-fluorescent protein (EGFP) on the border
+zone of the myocardium through survival surgery.
+The prevalence of cardiac-reduced environment was
+seen in resveratrol-treated rat hearts via significantly
+enhanced redox signaling observed through the nuclear
+factor-E2-related factor-2 (Nrf2), stromal cellderived
+factor-1 (SDF1), andNF-B, aswell as ref-1,
+seven days after LAD occlusion.57 Significantly improved
+cardiac functional parameters (left ventricular
+ejection fraction and fractional shortening),
+enhanced stem cell survival and proliferation (expression
+of cell proliferation marker Ki67), and differentiation
+of stem cells toward the regeneration
+of the myocardium (expression of EGFP) was evident
+28 days after LADocclusion in rats treatedwith
+resveratrol, compared to control rats.57 Our study
+clearly demonstrated that resveratrol canmodify the
+physiological redox environment within the myocardium.
+Maintaining a reduced tissue environment
+by treatment with resveratrol in rats enhanced
+the cardiac regeneration by adult cardiac stem cells
+via improved cell survival, proliferation, and differentiation,
+leading to improved cardiac function.
+This study is the first demonstrating that nutritional
+modification of the redox environment with resveratrol
+can prolong the regeneration of the infracted
+myocardium.57
+In addition cardiac stemcells were modified with
+resveratrol by preincubating the cells stably expressing
+EGFP with 10 mM resveratrol for 60 min followed
+by washing the cells with buffer to get rid of
+any free resveratrol.57 Rats were anesthetized, their
+hearts were opened, and LAD was occluded to induce
+a heart attack. The animals were divided into
+two groups: one group was treated with resveratrolmodified
+stem cells, while the other group was
+treated with stem cells alone. One week after the
+LAD occlusion, the cardiac-reduced environment
+was confirmed in resveratrol-treated rat hearts by
+the enhanced expression ofNrf2 andRef-1.M-mode
+echocardiography was performed to determine cardiac
+function up to three months after the stem
+cell therapy. Initially (after 72 h), both groups revealed
+improvement in cardiac function, but only
+the resveratrol-modified stem cell group revealed
+improvement in cardiac function (left ventricular
+ejection fraction, fractional shortening, and cardiac
+output) at the end of the 1, 2, and 4 months period.
+The improvement in cardiac functionwas accompanied
+by the enhanced stem cell survival and proliferation
+as evidenced by the expression of cell proliferation
+marker Ki67 and differentiation of stem cells
+toward the regeneration of the myocardium as evidenced
+by the expression of EGFP up to six months
+after LAD occlusion in the resveratrol-treated stem
+cell group of hearts.57 Again, our results demonstrate
+that resveratrol maintained a reduced tissue
+environment by overexpressing Nrf2 and Ref-1 in
+rat hearts up to four months, resulting in an enhancement
+of the regeneration of the adult cardiac
+stem cells as evidenced by increased cell survival
+anddifferentiation leading to improved cardiac
+function.
+Resveratrol and hormones
+Several recent studies implicate that resveratrol displays
+hormetic action, protecting the cells at lower
+doses while killing them at relatively higher doses.
+Since such a hormetic behavior might have significant
+impact on epidemiological and clinical studies,
+we sought to determine the dose¡Vresponse curve for
+resveratrol action.We fed by gavaging up to 30 days a
+group of rats three different doses of resveratrol 2.5,
+and 100 mg/kg while the control group was given
+vehicles only. Our results indeed showed hormesis
+for resveratrol, being cardioprotective at lower doses
+only and detrimental for higher doses (D. Das, J.
+Clin. Exp. Cardiol., in press). At 100 mg/kg dose,
+100% of the hearts died in case of resveratrol.a The
+results clearly demonstrate that resveratrol is beneficial
+to the heart only at low doses and is detrimental
+at higher doses. Also, the action of resveratrol is
+quickly realized, in most cases within 14 days; up
+to 30 days, resveratrol does not add any additional
+benefit. Such hormesis has been known for more
+aDudley et al. 2009, J. Nutr. Biochem., 20(6), 2009, 443¡V
+452.
+Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences. 29
+Resveratrol in heart health Petrovski et al.
+Figure 4. Hormetic action of resveratrol. Dose of resveratrol
+[X-axis] is plotted against the values of cardiac function, infarct
+size, and apoptosis. Resveratrol at a dose of 2.5 mg/kg provided
+maximum protection [peak], which then progressively
+and steadily declined.
+than 100 years and frequently observed among the
+toxins. As mentioned earlier, resveratrol is a phytoalexin,
+whose growth is stimulated by environmental
+stress such as fungal infection, ultraviolet
+(UV) radiation, and water deprivation.81 Cardioprotective
+effects of resveratrol are exerted through
+its ability to precondition a heart through adaptive
+response, which causes the development of intracellular
+stress leading to the upregulation of intracellular
+defense system such as antioxidants and heat
+shock protein.82 Preconditioning is another example
+of hormesis, which is potentiated by subjecting
+an organ like heart to cyclic episodes of short durations
+of ischemia, each followed by another short
+durations of reperfusion.83 Such small but therapeutic
+amount of stress renders the heart resistant
+to subsequent lethal ischemic injury. Such an adaptive
+response is commonly observed with aging. Autophagy
+also constitutes another form of adaptive
+response. Consistent with this idea, resveratrol has
+been found to stimulate longevity genes, and at least
+in prokaryotic species extend the life span. In this
+respect, resveratrol may fulfill the definition of a
+hormetin.84 There is no doubt that alcohol, wine,
+and wine-derived resveratrol all display hormesis. It
+has been known for quite some time that cardioprotective
+effects of alcohol or wine intake follow a
+J-shaped curve.85 This study (D. Das, J. Clin. Exp.
+Cardiol. in press) echoed this concept that cardioprotective
+effects of resveratrol follow a J-shaped
+curve and display hormesis (Fig. 4). At lower doses,
+resveratrol acts as an antiapoptotic agent, providing
+cardioprotection as evidenced by increased
+expression in cell survival proteins, improvedpostischemic
+ventricular recovery, and reduction of myocardial
+infarct size and cardiomyocyte apoptosis
+by maintaining a stable redox environment compared
+to control. At higher doses, however, resveratrol
+depresses cardiac function, elevates levels of
+apoptotic protein expressions, results in an unstable
+redox environment, and increases myocardial
+infarct size and number of apoptotic cells. A significant
+number of reports are available in the literature
+to show that at a high dose, resveratrol not only hinders
+tumor growth, but also inhibits the synthesis of
+RNA, DNA, and protein; causes structural chromosome
+abberrations, chromatin breaks, chromatin
+exchanges, weak aneuploidy, and higher S-phase arrest;
+blocks cell proliferation; and decreases wound
+healing, endothelial cell growth by VEGF and FGF-
+2, and angiogenesis in healthy tissue cells leading to
+cell death.86¡V89
+Summary and conclusion
+Resveratrol, a grape- and wine-derived phytoalexin
+polyphenol, provides diverse health benefits, the
+most prominent being the best natural medicine
+to cure diverse CVDs including atherosclerosis,
+hypertension, ischemia/reperfusion, heart failure,
+diabetes, obesity, and aging. Resveratrol-mediated
+cardioprotection is not due to its drug-like action
+neutralizing the toxins introduced by the disease;
+rather, the protection is realized from its PC-like
+effects potentiated by its adaptive response. During
+the PC, a small amount of resveratrol (defined
+as therapeutic dose) exerts adaptive stress response
+thereby enabling the cardiac cells to make cardioprotective
+genes and proteins such as heat shock
+and antioxidant proteins. The ability of resveratrol
+toexert adaptive response is further supportedby its
+ability to induce autophagy, another form of adaptation
+to stress. In that context, autophagy may be
+viewed as ¡§cry for survival,¡¨ and such survival is a
+result of adaptive response to fight against stress.
+If the stress¡Xsuch as oxidative stress¡Xis mild, it
+generates an adaptive response to survive against it.
+Autophagy results in a survival signal by inducing a
+30 Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences.
+Petrovski et al. Resveratrol in heart health
+number of genes and transcription factors that alter
+the stress-induced death signal into a survival signal,
+leading to production of antiapoptotic or antideath
+proteins. On the other hand, if the stress is overwhelming,
+the adaptive response fails and the cells
+die due to induction of apoptotic signals. It is important
+to remember that to survive, cellsmust get rid of
+damaged, detrimental, and unwanted components,
+and they do so through autophagy. Thus, resveratrol
+may be used clinically to induce autophagy leading
+to cardioprotection. Finally, resveratrol can modify
+the redox environment within the cells through its
+ability to induce redox protein thioredoxin, which
+can pave the way for stem cell survival. Recent studies
+documented its ability to regenerate the infracted
+myocardium up to four months after the cell therapy.
+An important thing to remember is that for
+successful application of resveratrol in therapy, one
+must recognize the fact that resveratrol possesses
+hormetic action similar to any toxins, exerts beneficial
+action at lower doses, and becomes cytotoxic
+at higher doses, generating a J-shaped or inverted
+U-shape curve like wine and alcohol.
+Further research and more clinical studies are
+necessary in order to ensure the safety of resveratrol
+and also for ascertaining the optimum doses and
+ways of inducing low-level autophagy for prevention
+and treatment.The findings that resveratrol can
+potentiate diverse health benefits from chemoprevention
+to cardioprotection¡Xthrough its ability to
+induce autophagy and cardiac regeneration through
+prolonging the stem cell survival¡Xcertainly warrants
+an opening of a new era of pharmaceutical
+intervention in cardiovascular medicine.
+Conflicts of interest
+The authors declare no conflicts of interest.
+References
+1. Murray, C.J.&A.D. Lopez. 1997. Global mortality, disability,
+and the contribution of risk factors: global burden of disease
+study. Lancet 349: 1436¡V1442.
+2. Fontana, L. et al. 2007. Calorie restriction or exercise: effects
+on coronary heart disease risk factors. A randomized,
+controlled trial.Am. J. Physiol. Endocrinol.Metab. 293: E197¡V
+E202.
+3. Twisk, J.W. et al. 1997. Which lifestyle parameters discriminate
+high- from low-risk participants for coronary heart
+disease risk factors. Longitudinal analysis covering adolescence
+and young adulthood. J. Cardiovasc. Risk 4: 393¡V
+400.
+4. Bellisle, F. 2009. Infrequently asked questions about the
+Mediterranean diet. Public Health Nutr. 12: 1644¡V1647.
+5. Willett, W.C. et al. 1995. Mediterranean diet pyramid: a
+cultural model for healthy eating. Am. J. Clin. Nutr. 61:
+1402S¡V1406S.
+6. Renaud, S. & M. de Lorgeril. 1992. Wine, alcohol, platelets,
+and the French paradox for coronary heart disease. Lancet
+339: 1523¡V1526.
+7. Sato,M., N.Maulik&D.K. Das. 2002. Cardioprotectionwith
+alcohol: role of both alcohol and polyphenolic antioxidants.
+Ann. N.Y. Acad. Sci. 957: 122¡V135.
+8. Ghanim, H. et al. 2010. An antiinflammatory and reactive
+oxygen species suppressive effects of an extract of
+polygonum cuspidatum containing resveratrol. J. Clin. Endocrinol.
+Metab. 91: E1¡VE8.
+9. Roupe, K.A. et al. 2006. Pharmacometrics of stilbenes: seguing
+towards the clinic. Curr. Clin. Pharmacol. 1: 81¡V101.
+10. Berrougui, H. et al. 2009. A new insight into resveratrol as an
+atheroprotective compound: inhibition of lipid peroxidation
+and enhancement of cholesterol efflux. Atherosclerosis 207:
+420¡V427.
+11. Gurusamy, N. et al. Cardioprotection by resveratrol: a novel
+mechanism via autophagy involving the mTORC2 pathway.
+Cardiovasc. Res. 86: 103¡V112.
+12. Holthoff, J.H. et al. 2010. Resveratrol, a dietary polyphenolic
+phytoalexin, is a functional scavenger of peroxynitrite.
+Biochem. Pharmacol. 80: 1260¡V1265.
+13. Gurusamy,N. et al. 2009. Cardioprotection by adaptation to
+ischaemia augments autophagy in association with BAG-1
+protein. J. Cell Mol. Med. 13: 373¡V387.
+14. Morselli, E. et al. 2009. Autophagy mediates pharmacological
+lifespan extension by spermidine and resveratrol. Aging
+(Albany NY). 1: 961¡V970.
+15. Abeywardena, M.Y. 2003. Dietary fats, carbohydrates and
+vascular disease: Sri Lankan perspectives. Atherosclerosis.
+171: 157¡V161.
+16. Wildman, R.P. et al. Cardiovascular disease risk of abdominal
+obesity vs. metabolic abnormalities. Obesity (Silver
+Spring). 2010 Aug 19 [Epub ahead of print] doi:10.1038/
+oby.2010.168.
+17. Markus,M.A. & B.J.Morris. 2008. Resveratrol in prevention
+and treatment of common clinical conditions of aging. Clin.
+Interv. Aging 3: 331¡V339.
+18. Nicholson, S.K., G.A.Tucker&J.M.Brameld. 2008. Effects of
+dietary polyphenols on gene expression in human vascular
+endothelial cells. Proc. Nutr. Soc. 67: 42¡V47.
+19. Della-Morte, D. et al. 2009. Resveratrol pretreatment protects
+rat brain fromcerebral ischemic damage via a sirtuin 1-
+uncoupling protein 2 pathway. Neuroscience 159: 993¡V1002.
+20. Altman, R. 2003. Risk factors in coronary atherosclerosis
+athero-inflammation: the meeting point. Thromb. J. 1: 4.
+21. Ross, R. 1999. Atherosclerosis¡Xan inflammatory disease.
+N. Engl. J. Med. 340: 115¡V126.
+22. Vorchheimer,D.A.& V. Fuster. 2001. Inflammatory markers
+in coronary artery disease: let prevention douse the flames.
+JAMA 286: 2154¡V2156.
+23. Kinlay, S. et al. 2001. Role of endothelin-1 in the active constriction
+of human atherosclerotic coronary arteries. Circulation
+104: 1114¡V1118.
+Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences. 31
+Resveratrol in heart health Petrovski et al.
+24. Davignon, J.&P. Ganz. 2004.Role of endothelial dysfunction
+in atherosclerosis. Circulation 109: III27¡VIII32.
+25. Rubbo, H. et al. 2002. Antioxidant and diffusion properties
+of nitric oxide in low-density lipoprotein. Methods Enzymol.
+359: 200¡V209.
+26. Lin, M.T. et al. 2003. Inhibition of vascular endothelial
+growth factor-induced angiogenesis by resveratrol through
+interruption of Src-dependent vascular endothelial cadherin
+tyrosine phosphorylation. Mol. Pharmacol. 64: 1029¡V1036.
+27. Zou, J.G. et al. 2003. Effect of red wine and wine polyphenol
+resveratrol on endothelial function in hypercholesterolemic
+rabbits. Int. J. Mol. Med. 11: 317¡V320.
+28. O¡¦Leary, K.A. et al. 2004. Effect of flavonoids and vitamin
+E on cyclooxygenase-2 (COX-2) transcription. Mutat. Res.
+551: 245¡V254.
+29. Wang, M.J. et al. 2001. Resveratrol inhibits interleukin-
+6 production in cortical mixed glial cells under hypoxia/
+hypoglycemia followed by reoxygenation. J. Neuroimmunol.
+112: 28¡V34.
+30. Zhong, M. et al. 1999. Inhibitory effect of resveratrol on
+interleukin 6 release by stimulated peritoneal macrophages
+of mice. Phytomedicine 6: 79¡V84.
+31. Culpitt, S.V. et al. 2003. Inhibition by red wine extract,
+resveratrol, of cytokine release by alveolar macrophages in
+COPD. Thorax 58: 942¡V946.
+32. Fremont, L., L. Belguendouz & S. Delpal. 1999. Antioxidant
+activity of resveratrol and alcohol-free wine polyphenols
+related to LDL oxidation and polyunsaturated fatty acids.
+Life Sci. 64: 2511¡V2521.
+33. Godichaud, S. et al. 2000. Deactivation of cultured human
+liver myofibroblasts by trans-resveratrol, a grapevinederived
+polyphenol. Hepatology 31: 922¡V931.
+34. Olas,B. et al. 2002. Effect of resveratrol, a natural polyphenolic
+compound, on platelet activation induced by endotoxin
+or thrombin. Thromb. Res. 107: 141¡V145.
+35. Wang, Z. et al. 2002. Effects of redwine andwine polyphenol
+resveratrol on platelet aggregation in vivo and in vitro. Int. J.
+Mol. Med. 9: 77¡V79.
+36. Jang, J.H. & Y.J. Surh. 2001. Protective effects of resveratrol
+on hydrogen peroxide-induced apoptosis in rat pheochromocytoma
+(PC12) cells. Mutat. Res. 496: 181¡V190.
+37. Jang,D.S. et al. 1999. Inhibitory effects of resveratrol analogs
+on unopsonized zymosan-induced oxygen radical production.
+Biochem. Pharmacol. 57: 705¡V712.
+38. Martinet, W. & G.R. De Meyer. 2009. Autophagy in
+atherosclerosis: a cell survival and death phenomenon with
+therapeutic potential. Circ. Res. 104: 304¡V317.
+39. Clarke, M.C. et al. 2006. Apoptosis of vascular smooth
+muscle cells induces features of plaque vulnerability in
+atherosclerosis. Nat. Med. 12: 1075¡V1080.
+40. Liu, Z. et al. 2005. Effects of trans-resveratrol on
+hypertension-induced cardiac hypertrophy using the partially
+nephrectomized ratmodel.Clin. Exp. Pharmacol. Physiol.
+32: 1049¡V1054.
+41. Miatello, R., M. Cruzado & N. Risler. 2004. Mechanisms
+of cardiovascular changes in an experimental model of
+syndrome X and pharmacological intervention on the
+renin-angiotensin-system. Curr. Vasc. Pharmacol. 2: 371¡V
+377.
+42. Miatello,R. et al. 2005. Chronic administration of resveratrol
+prevents biochemical cardiovascular changes in fructose-fed
+rats. Am. J. Hypertens 18: 864¡V870.
+43. Dammrich, J.&U. Pfeifer. 1983. Cardiac hypertrophy in rats
+after supravalvular aortic constriction. II. Inhibition of cellular
+autophagy in hypertrophying cardiomyocytes. Virchows
+Arch. B Cell Pathol. Incl. Mol. Pathol. 43: 287¡V307.
+44. Decker, R.S. et al. 1980. Lysosomal vacuolar apparatus of
+cardiac myocytes in heart of starved and refed rabbits.
+J. Mol. Cell. Cardiol. 12: 1175¡V1189.
+45. Pfeifer, U. et al. 1987. Short-term inhibition of cardiac cellular
+autophagy by isoproterenol. J. Mol. Cell Cardiol. 19:
+1179¡V1184.
+46. Sybers, H.D., J. Ingwall & M. DeLuca. 1976. Autophagy in
+cardiac myocytes. Recent Adv. Stud. Cardiac. Struct. Metab.
+12: 453¡V463.
+47. Yamamoto, S. et al. 2000. On the nature of cell death during
+remodeling of hypertrophied human myocardium. J. Mol.
+Cell Cardiol. 32: 161¡V175.
+48. Rothermel, B.A. & J.A. Hill. 2008. Autophagy in loadinduced
+heart disease. Circ. Res. 103: 1363¡V1369.
+49. Bolli, R. 2000. The late phase of preconditioning. Circ. Res.
+87: 972¡V983.
+50. Das, S. et al. 2005. Coordinated induction of iNOSVEGF-
+KDR-eNOS after resveratrol consumption: a potential
+mechanism for resveratrol preconditioning of the heart.
+Vascul Pharmacol. 42: 281¡V289.
+51. Das, S. et al. 2005. Resveratrol-mediated activation of cAMP
+response element-binding protein through adenosine A3
+receptor by Akt-dependent and -independent pathways.
+J. Pharmacol. Exp. Ther. 314: 762¡V769.
+52. Das, S. et al. 2005. Pharmacological preconditioning with
+resveratrol: role of CREB-dependent Bcl-2 signaling via
+adenosine A3 receptor activation. Am. J. Physiol. HeartCirc.
+Physiol. 288: H328¡VH335.
+53. Das, S., C.G. Fraga &D.K.Das. 2006. Cardioprotective effect
+of resveratrol via HO-1 expression involves p38 map kinase
+and PI-3-kinase signaling, but does not involve NFkappaB.
+Free Radic. Res. 40: 1066¡V1075.
+54. Das, D.K. & N. Maulik. 2006. Resveratrol in cardioprotection:
+a therapeutic promise of alternative medicine. Mol.
+Interv. 6: 36¡V47.
+55. Vidavalur, R. et al. 2006. Significance of wine and resveratrol
+in cardiovascular disease: French paradox revisited. Exp.
+Clin. Cardiol. 11: 217¡V225.
+56. Thirunavukkarasu, M. et al. 2008. White wine induced
+cardioprotection against ischemia-reperfusion injury
+is mediated by life extending Akt/FOXO3a/NFkappaB
+survival pathway. J. Agric. Food Chem. 56: 6733¡V
+6739.
+57. Gurusamy N. et al. 2010. Red wine antioxidant resveratrolmodified
+cardiac stem cells regenerate infarcted myocardium.
+J. Cell Mol. Med.14: 2235¡V2239.
+58. Lekli, I. et al. 2009. Co-ordinated autophagy with resveratrol
+and gamma-tocotrienol confers synergetic cardioprotection.
+J. Cell Mol. Med.
+59. Chen, J.C. et al. 2006. Resveratrol suppresses angiogenesis in
+gliomas: evaluation by colorDoppler ultrasound. Anticancer
+Res. 26: 1237¡V1245.
+32 Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences.
+Petrovski et al. Resveratrol in heart health
+60. Khan, A.A. et al. (Resveratrol regulates pathologic angiogenesis
+by a eukaryotic elongation factor-2 kinase-regulated
+pathway. Am. J. Pathol. 177: 481¡V492.
+61. Brakenhielm, E., R. Cao & Y. Cao. 2001. Suppression of angiogenesis,
+tumor growth, andwound healing by resveratrol,
+a natural compound in red wine and grapes. FASEB J. 15:
+1798¡V1800.
+62. Fesus, L., M.A. Demeny & G. Petrovski. Autophagy Shapes
+Inflammation. Antioxid Redox Signal. 2010 Sep 2 [Epub
+ahead of print] doi:10.1089/ars.2010.3485.
+63. Petrovski, G. et al. 2007. Phagocytosis of cells dying
+through autophagy evokes a pro-inflammatory response in
+macrophages. Autophagy 3: 509¡V511.
+64. Lekli, I. et al. Functional recovery of diabetic mouse hearts
+by glutaredoxin-1 gene therapy: role of Akt-FoxO-signaling
+network. Gene Ther. 17: 478¡V485.
+65. Ramadori, G. et al. 2009. Central administration of resveratrol
+improves diet-induced diabetes. Endocrinology 150:
+5326¡V5333.
+66. Lekli, I. et al. 2008. Protective mechanisms of resveratrol
+against ischemia-reperfusion-induced damage in hearts obtained
+from Zucker obese rats: the role of GLUT-4 and endothelin.
+Am. J. Physiol. Heart Circ. Physiol. 294: H859¡V
+H866.
+67. Codogno, P. & A.J. Meijer. 2005. Autophagy and signaling:
+their role in cell survival and cell death. Cell Death Differ.
+12(Suppl 2): 1509¡V1518.
+68. Hayden, M.R. et al. 2005. Type 2 diabetes mellitus as a conformational
+disease. Jop. 6: 287¡V302.
+69. Wiseman, R.L. & W.E. Balch. 2005. A new pharmacology¡V
+drugging stressed folding pathways. Trends Mol. Med. 11:
+347¡V350.
+70. Howitz,K.T. et al. 2003. Smallmolecule activators of sirtuins
+extend Saccharomyces cerevisiae lifespan. Nature 425: 191¡V
+196.
+71. Baur, J.A. & D.A. Sinclair. 2006. Therapeutic potential of
+resveratrol: the in vivo evidence. Nat. Rev. Drug Discov. 5:
+493¡V506.
+72. Mukherjee, S. et al. 2009. Expression of the longevity
+proteins by both red and white wines and their
+cardioprotective components, resveratrol, tyrosol, and
+hydroxytyrosol. Free Radic. Biol. Med. 46: 573¡V
+578.
+73. Pearson, K.J. et al. 2008. Resveratrol delays age-related deterioration
+and mimics transcriptional aspects of dietary
+restriction without extending life span. Cell Metab. 8: 157¡V
+168.
+74. Dillin, A. & J.W. Kelly. 2007. Medicine. The yin-yang of
+sirtuins. Science 317: 461¡V462.
+75. Minor, R.K. et al. Dietary interventions to extend life span
+and health span based on calorie restriction. J. Gerontol. A
+Biol. Sci. Med. Sci. 65: 695¡V703.
+76. Kaeberlein M. Resveratrol and rapamycin: are they antiaging
+drugs? Bioessays 32: 96¡V99.
+77. Weindruch, R. et al. 2001. Microarray profiling of gene expression
+in aging and its alteration by caloric restriction in
+mice. J. Nutr. 131: 918S¡V923S.
+78. Baur, J.A. et al. 2006. Resveratrol improves health and survival
+of mice on a high-calorie diet. Nature 444: 337¡V342.
+79. Valenzano, D.R. et al. 2006. Resveratrol prolongs lifespan
+and retards the onset of age-related markers in a short-lived
+vertebrate. Curr. Biol. 16: 296¡V300.
+80. Partridge, L., S.D. Pletcher &W.Mair. 2005. Dietary restriction,
+mortality trajectories, risk and damage. Mech. Ageing
+Dev. 126: 35¡V41.
+81. Soleas, G.J., E.P. Diamandis & D.M. Goldberg. 1997. Resveratrol:
+a molecule whose time has come? And gone? Clin.
+Biochem. 30: 91¡V113.
+82. Collins, M.A. et al. 2009. Alcohol in moderation, cardioprotection,
+and neuroprotection: epidemiological considerations
+and mechanistic studies. Alcohol Clin. Exp. Res. 33:
+206¡V219.
+83. Chiueh, C.C., T. Andoh & P.B. Chock. 2005. Induction of
+thioredoxin and mitochondrial survival proteins mediates
+preconditioning-induced cardioprotection and neuroprotection.
+Ann. N.Y. Acad. Sci. 1042: 403¡V418.
+84. Mattson, M.P. 2008. Hormesis defined. Ageing Res. Rev. 7:
+1¡V7.
+85. Prickett, C.D. et al. 2004. Alcohol: Friend or Foe? Alcoholic
+Beverage Hormesis for Cataract and Atherosclerosis
+is Related to Plasma Antioxidant Activity. Nonlinearity Biol.
+Toxicol. Med. 2: 353¡V370.
+86. Athar, M. et al. 2009. Multiple molecular targets of resveratrol:
+anti-carcinogenic mechanisms. Arch. Biochem. Biophys.
+486: 95¡V102.
+87. Bishayee, A. 2009. Cancer prevention and treatment with
+resveratrol: fromrodent studies to clinical trials. Cancer Prev.
+Res. (Phila Pa) 2: 409¡V418.
+88. Li, Y. et al. Regulation of microRNAs by natural agents:
+an emerging field in chemoprevention and chemotherapy
+research. Pharm. Res. 27: 1027¡V1041.
+89. Sen, C.K. et al. 2002. Oxygen, oxidants, and antioxidants in
+wound healing: an emerging paradigm. Ann. N.Y. Acad. Sci.
+957: 239¡V249.
+Ann. N.Y. Acad. Sci. 1215 (2011) 22¡V33 c 2011 New York Academy of Sciences. 332249  

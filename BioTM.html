@@ -1,0 +1,92 @@
+<html>
+    <head>
+        <title>BioTM</title>
+        <meta charset="UTF-8">
+        <meta name="viewport" content="width=device-width, initial-scale=1.0">
+        <style type="text/css">
+            .AutoNewline
+            {
+                word-break: break-all;/*必須*/
+            }
+            p { font-family:  "Hiragino Kaku Gothic Pro", "Hiragino kaku Gothic Pro W3", Meiryo, "MS PGothic", sans-serif; }
+            div{ text-align: center; }
+            p { text-align: left; }
+        </style>
+    </head>
+    <body background="img/seigaiha.png" text="black">
+        <div align="center"><font size="6">BioTM display test page</font></div>
+        <hr color="#cc0066" size="5">
+        <a href='Frame.html'>Single paper topic mining system</a><br>
+        <a href='Resveratrol_in_cardiovascular_health_and_disease.txt.html'>Single to Multiple paper topic mining system</a><br>
+        <a href='Zoomable Treemap Template.html'>Multiple paper topic mining system</a><br>
+        <a href='UI-left.html'>The test place</a><br>
+        <a href='article_input_place_CTD.html'><font size="6">Matching word from CTD Test</font></a><p><font color="red" size="5"> Can use but burn user's RAM.</font></p><br>
+        <a href='CTD disease name find.html'>CTD disease name list</a><br>
+        <br><br>
+        <a href='All upper case.html' target="_blank"><font size="6">Right now I am working for</font></a><br>
+        <br>
+        <form id="formTest" method="post" action="NewServlet">
+            Text<textarea name="put_article_text"></textarea>
+            <br>
+            number to selected <input name="min"/>~<input name="max"/>
+            <input type="submit" name="submit" value="sign me up!" />
+            <br><br>
+            TF<textarea id="article" name="my_P" cols="100" style="font-size:15px;font-family:serif; border:3px blue double; margin: 0px; height: 300px; width: 300px;"></textarea>
+            <input type="submit" name="submit" value="sign me up!" />
+        </form>
+        <!-- <form id="formTest" method="post" action="NewServlet">
+ 
+         </form>
+         <form name="myForm">-->
+        <p id="demo">Select File or Text.</p>
+        <!--<a href='D:\Google Drive\BioTM\Single_paper_topic_mining_system\Start to connect.pl'>overlap</a>-->
+        <select name="mySelect" size="1" >
+            <option value="D:\Google Drive\BioTM\Single_paper_topic_mining_system\Start to connect.pl">Single paper topic mining system<!--</option>-->
+            <option value="http://shopping.pchome.com.tw/index/">Single to Multiple paper topic mining system<!--</option>--><!--value值輸入網址會開啟網頁?????????-->
+            <option value="File with texts">Multiple paper topic mining system<!--</option>-->
+        </select>
+        <input type="button" value = "Submit">
+    </form>
+    <br><br>
+    <hr />
+    <iframe height="500" width="500" src="http://127.0.0.1:7038/" scrolling="yes" align="center" frameborder="0" >
+            R 
+        </iframe>
+    <form name="upload" method="post" action="NewServlet" enctype="multipart/form-data" >
+        Link: <input type="file" name="fileplace"/>
+        <input type="submit" value = "Submit" name="js">
+        <p><font size="5">上傳論文群 (目前顯示結果為原本的IDF論文資料群)</p></div>
+        <br>
+        <input id="Asperger" type="radio" name="Datalist" value="Disease">Asperger
+        <input id="Depression" type="radio" name="Datalist" value="Disease">Depression
+        <input id="Insomnia" type="radio" name="Datalist" value="Disease">Insomnia
+        <input id="Redwine" type="radio" name="Datalist" value="Disease">Redwine
+    </form>
+    <br><br>
+    <p><marquee behavior="scroll" bgcolor="yellow" direction="left" scrollamount="20"><font size="7">Main database is comming soooooooooooooooooooooon.</marquee></font></p>
+<img src="img/14671269_639344196239951_7911153360919480997_n.jpg"><br>
+<img src="img/flowchart/ForAll.jpg" width="50%" height="50%">
+
+
+<br><br>
+<script src="javascript/jquery-2.2.0.min.js"></script>
+<hr>
+
+
+<div align="left">
+
+
+    <!--<a href='https://drive.google.com/open?id=0B7-gZdwO8iX8cTJvTE5xSm5MRDA' target="_blank">Single paper topic mining system download place (Perl verison)</a><br>
+    <a href='https://drive.google.com/open?id=0B7-gZdwO8iX8WDVfLUJiVHdrWGs' target="_blank">Single to Multiple paper topic mining system download place(Perl verison)</a><br>
+    <a href='https://drive.google.com/open?id=0B7-gZdwO8iX8LVpXamJnTld5RHM' target="_blank">Multiple paper topic mining system download place(Perl verison)</a><br>
+    -->
+    <br><br><br><br><br></div>
+
+
+
+<p id="AutoNewline"><font size="6">I realize that the hardest place of building a website is not about how to design, it's about how to design <font size="6" color="red" face="verdana">A BEAUTIFUL WEBSITE</font>.<br>By the way, the second harder place is <mark>where to build</mark>.T_T</font></p>
+<br><br><br><br><br><br><br>
+<div id="data"></div>
+
+</body>
+</html>

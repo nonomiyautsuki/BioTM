@@ -1,0 +1,241 @@
+
+Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines
+Deiene Garciaa, Alberto Gomez-Caballeroa, Antonio Guerreirob, M. Aranzazu Goicoleaa,
+ 	 	 	 	 	 	 	 
+Ramon J. Barrioa,?
+ 	 
+a r t i c l e 	i n f o
+Article history:
+Received 26 May 2015
+Received in revised form 6 July 2015
+Accepted 29 July 2015
+Available online xxx
+Keywords:
+Molecularly imprinted polymer
+4-Ethylphenol
+Wine
+Solid phase extraction
+Molecularly imprinted stationary phasea b s t r a c t
+A molecularly imprinted polymer (MIP) based methodology is described here for the determination of compounds that belong to the 4-ethylphenol (4EP) metabolic pathway in red wines. To this end, two MIP materials have been developed: a 4EP MIP as a class-selective material to extract phenols that belong to the 4EP metabolic pathway and a coumaric acid (CA) imprinted polymer as a MIP-based stationary phase capable of selectively separating these phenols on HPLC analysis, obtaining clean chromatograms. 4-vinyl pyridine and ethylene glycol dimethacrylate were respectively used as functional monomer and cross-linker for both MIPs. Once polymer compositions were optimised, the 4EP MIP was packed into SPE cartridges for wine sample clean-up and CA MIP was packed into HPLC columns to chromatographically separate the compounds present in the eluates obtained after SPE extraction. The accuracy of the proposed method was tested spiking wine samples with known concentrations of target compounds and subsequently, analytes were quantified by the standard addition method. Registered mean recoveries ranged from 95.2 to 109.2% and RSD values were below 10% in most cases. The described methodology was found to be suitable for the selective extraction and quantification of the compounds that belong to the 4EP metabolic pathway in red wines with minimal matrix effects and could be undoubtedly exploited to monitor 4EP and its precursors in wines.
+? 2015 Elsevier B.V. All rights reserved.a Department of Analytical Chemistry, Faculty of Pharmacy, University of the Basque Country UPV/EHU, 01006 Vitoria-Gasteiz, Spain b Department of Chemistry, University of Leicester, LE1 7RH, United Kingdom
+
+
+   
+1. Introduction
+   Volatile phenols (VP) are aromatic compounds that, at low levels, contribute positively to wine aroma. They provide spice, leather and smoke aromas as well as different sensory attributes such as bitterness and astringency [1]. In contrast, high concentrations of these compounds are responsible for organoleptic changes in wines, also known as ¡§Brett character¡¨ or ¡§phenolic character¡¨ [2], and in some instances they can lead to wine spoilage [3]. The principal VP contributing to this effect is 4-ethylphenol (4EP) and 4-ethylguaiacol (4EG) and when their total concentration exceeds 600g L?1 the ¡§Brett character¡¨ becomes unacceptable
+ 	 	 	 	 	 	 
+[4]. The indicative sensory threshold values range from 230g L?1
+ 	 	 	 	 	 	 	 	 	 
+to 440g L?1 for 4EP, and from 33g L?1 to 47g L?1 for 4EG
+ 	 	 	 	 	 	 	 	 	 	 	 	 
+[1,2,5¡V8]. Wines containing higher concentrations of these VP have unpleasant odours or off-flavours which have been described as
+
+? Corresponding author. Tel.: +34 945013055; fax: +34 945014351. E-mail address: r.barrio@ehu.es (R.J. Barrio).
+http://dx.doi.org/10.1016/j.chroma.2015.07.103 0021-9673/? 2015 Elsevier B.V. All rights reserved.
+spicy, smoky, mousy, leather, tar, burnt rubber, medicine, horse sweat, stable, barnyard and manure [1,2].
+   VP are present in wines as a result of decarboxylation of hydroxycinnamic acids (HCA), such as p-coumaric acid and ferulic acid, principally by enzymatic activities in the yeasts of the genus Brettanomyces and its teleomorph form Dekkera [5]. Decarboxylation of p-coumaric and ferulic acid is carried out by the enzyme hydroxycinnamate decarboxylase and it leads to the formation of 4-vinylphenol (4VPh) and 4-vinylguaiacol (4VG) respectively. These compounds are transformed into 4EP and 4EG by the enzyme vinylphenol reductase [5,9]. The principal reaction in terms of quantity and efficiency is considered to be the biotransformation of p-coumaric acid into 4VPh and 4EP which is specific of Brettanomyces yeast [1]. These reactions mainly occur during wine maturation, due to the fact that the porous structure of wood casks permits diffusion of small amounts of oxygen which favours the growth of Brettanomyces yeasts during wine aging [1,10]. Besides, this growth coincides with the hydrolysis of tartaric esters of HCA, which are considered as the predominant form of
+HCA in grapes and musts. These esters are slowly hydrolysed during barrel aging thanks to the acidic polar environment of wine and it makes the levels of free HCA increase and, consequently, the final concentration of VP raises [9]. VP production can also take place via an alternative pathway thanks to the esterase activity of Brettanomyces/Dekkera yeast. It has recently been reported that these yeast can hydrolyse ethyl coumarate and therefore they contribute in increasing the final 4EP concentration [11].
+   4VPh and 4VG are the main VP in white wines, whereas 4EP and 4EG are the principal in red ones [12,13]. Although all these compounds can be determined by direct sample analysis [4], sample pretreatment is highly desirable not only to reduce intereferences originating from the complexity of wine matrices but also for analyte preconcentration [7,14] which plays a key role due to the low levels of these targets in wines. In this sense, different sample treatments such as solid phase extraction (SPE) [15,16] or solid phase microextraction (SPME) [17,18] have been widely employed. As an alternative to these methods, more recently, new strategies have been reported including liquid-liquid microextraction [7,14] and stir bar sorptive extraction (SBSE) [19]. Moreover, the QuEChERS methodology has also been applied to the extraction of these targets in different beverages such as beer, wine or fruit juices [4]. Research into new sorbent materials focused on selective extraction of the abovementioned targets would be highly desirable in order to obtain more concentrated and cleaner sample extracts [20] and thereby simplifying to a great extent the subsequent analysis step. In this regard, molecular imprinting [21] could serve as a useful tool to develop selective sorbent materials with high retention capacity [20,22,23].
+   The main objective of the present work was to develop a new type of class-selective materials based on Molecularly Imprinted Polymers (MIP), suitable for monitorisation of compounds of the 4EP metabolic pathway in wine samples. To this end, two strategies are presented here one of which is focused on the development of a class selective sorbent to extract 4EP and its precursors from wine samples and another one that deals with the synthesis of a new stationary phase material for the separation of the extracted compounds by affinity chromatography. The proposed analytical method consists of two steps: the first one where selective extraction/preconcentration on the target compounds is performed by solid-phase extraction using the class selective MIP, and a second step where separation and quantification of 4EP and its precursors is performed via HPLC with minimal interferences and background noise. The combined Molecularly Imprinted Solid Phase (MISPE) protocol with subsequent MIP-based chromatographic separation allows the targeted study of the metabolic pathway of 4EP in a simple and reliable way.
+2. Experimental
+2.1. Chemical and reagents
+   4-ethylphenol (4EP) (99.7%) and 4-ethylguaiacol (?98%) were obtained from Sigma¡VAldrich (Madrid, Spain), coumaric acid ethyl ester (CAEE) (?90%) was purchased from LGC Standards (Barcelona, Spain) and 4-vinylphenol (4VPh) (10% in ethylene glycol) and 4coumaric acid (CA) (?90%) from Cymit Qu?mica (Barcelona, Spain). The cross-linkers trimethylpropane trimethacrylate (TRIM), divinylbenzene (DVB) and ethylene dimethacrylate (EDMA), the initiator 1,1¡¦-azobis(cyclohexanecarbonitrile) (ABCN) and the functional monomer 4-vinylpyridine (4VP) were acquired from Sigma¡VAldrich. Prior to use, 4VP was purified by distillation under vacuum obtaining a colorless liquid which was stored below ?20?C and under nitrogen atmosphere. Mass Spectrometry grade ammonium formate > 99% and formic acid ?98% were acquired from Sigma-Aldrich. Acetonitrile (ACN), methanol (MeOH), dichloromethane (DCM), toluene (TLN) and dimethyl sulfoxide (DMSO) were HPLC grade and were acquired from Scharlab (Barcelona, Spain). Every buffer solution was prepared with ultra-pure water obtained from Elix20 reverse osmosis and Milli-Q water purification systems. All other reagents were analytical grade and used as received.
+2.2. Synthesis of 4-ethylphenol and coumaric acid imprinted polymers
+   4EP imprinted polymers (MIP4EP) were prepared dissolving 0.41 g of 4EP (3.3 mmol), 0.70 g of 4VP (6.7 mmol) and 4 g of EDMA (20 mmol) in 5.11 g of ACN previously degassed with pure nitrogen (1:2:6 template:functional monomer:cross-linker molar ratio). Then, 0.076 g of ABCN was added and the mixture was purged again with pure nitrogen for 1 min.
+   To synthesise CA imprinted polymers (MIPCA), 0.27 g of CA (1.68 mmol), 0.53 g of 4VP (5.04 mmol) and 4 g of EDMA (20 mmol) were dissolved in 4.80 g of previously degassed MeOH (1:3:12) template:functional monomer:cross-linker molar ratio). 0.076 g of ABCN was then added and, finally, the solution was purged with nitrogen for 1 min. Polymerisation of these mixtures was performed using an UVAcube 100 UV lamp (100 W) purchased from Dr. H?nle UV-technology (Gr?felfing, Germany). The solutions were placed in an ice bath and irradiated with UV for 120 min. The resulting polymer monoliths were ground using a Pulverisette 14 mill from Fritsch (Idar-Oberstein, Germany) and wet-sieved in MeOH through 50 and 25 m sieves. Obtained polymers particles (?2 g) were finally dried in an oven at 50?C overnight. Template was removed once the polymer was packed on SPE cartridges or HPLC columns with a 2¡V4mL min?1 MeOH flow until no template could
+ 	 	 	 	 	 	 	 	 	 
+be detected on the eluate by HPLC. The non-imprinted (control) polymers (NIP4EP and NIPCA) were synthesised using the same procedures but in the absence of the template.
+2.3. Packing of SPE cartridges and HPLC columns
+   Dry MIP4EP polymer powders were manually packed in 6 ml empty SPE propylene tubes containing polyethylene frits (Sigma¡VAldrich). A total polymer mass of 500 mg was packed in each tube.
+For HPLC experiments, stainless steel columns of 100 and
+250 mm in length and 4.6 mm in diameter were packed using a Pack in a Box column packing system from Restek (Bellefonte, USA) comprised of a dual piston pump and a 20 mL reservoir. Column packing was performed at a constant flow of 20mL min?1 until a
+ 	 	 	 	 	 	 	 	 	 	 
+stable pressure was observed. Then the flow was decreased to 1 mL min?1 which was maintained constant for another 30min.
+ 	 	 	 	 	 	 
+2.4. Chromatographic evaluation of polymers
+   Liquid chromatography was initially used for imprinting factor (IF) determination and specificity testing of polymers. These experiments were carried out using an Agilent 1200 series HPLC system comprised of a Agilent 1260 infinity binary pump, vacuum degasser and a Rheodyne manual sample injector with a loop of 20 L. The liquid chromatograph was coupled to a diode array detector (DAD) and a fluorescence detector (FD) connected in series. System control and data analysis were provided by the Agilent LC ChemStation software (Agilent Technologies, USA). To evaluate the specificity of the MIP column towards target compounds, the retention factor and the IF of the polymers were calculated.
+   The imprinted factor (IF) was calculated as: IF = KMIP/KNIP where KMIP and KNIP are the retention factors of the analyte in the MIP and the NIP column, respectively. The corresponding retention factors were calculated using the equation, K = (t ? to)/to where (t) and (t0) are the retention time of the analyte and the void volume marker, respectively.
+2.5. Molecularly imprinted solid phase extraction
+   A vacuum manifold from Varian (Palo Alto, USA), connected to a vacuum pump was used for molecularly imprinted solid phase extraction experiments (MISPE). First, each cartridge packed with MIP4EP was washed by percolating 200 mL of MeOH to extract the template from the polymer matrix. Cartridges were then left to dry until use.
+   Before analysis, dry cartridges were first conditioned by percolating 5 mL of MeOH, followed by 5 mL of water containing 12% of ethanol. 5 mL of sample were subsequently loaded and cartridges were then washed with 5 mL of water/ethanol (12%). Then, the sorbent was dried under vacuum (15 mm Hg) for 15 min. Once the cartridges were dry, 4 mL of DCM was percolated for interference clean-up and finally, target compounds were recovered eluting the columns with 5 mL of ACN:MeOH (8:2). Obtained eluates were directly injected in a liquid chromatograph (see Section 2.4) using a MIPCA packed column as stationary phase.
+   Binding capacity of imprinted materials was determined by frontal chromatography. Different solutions of 5mg L?1 4EP were
+ 	 	 	 	 	 	 	 
+prepared in DCM, MeOH and ACN. These solutions were percolated at a constant flow of 1mL min?1 through stainless steel columns
+ 	 	 	 	 	 	 	 	 	 
+packed with the MIP4EP particles. To calculate binding capacities, the following expression was employed: BC (mg analyte/g polymer) = RV(mL) ¡Ñ conc. (mg/mL)/polymer mass (g), as described elsewhere [24¡V26]. The retention volume (RV) was calculated from the inflection points of the sigmoidal curves observed in experimental frontal chromatograms.
+2.6. MIP-based chromatographic separation
+   The final eluates obtained after MISPE were injected in the Agilent 1200 series HPLC-DAD-FD equipment detailed in Section 2.4. Analytes were separated using a stainless steel column of 250 mm in length and 4.6 mm in diameter packed with the MIPCA. Gradient mode separation was applied using ultra-pure water and ACN as the aqueous and the organic solvents respectively. At the beginning of the analysis, the mobile phase consisted of 100% ACN and it was kept constant up to 5 min. Then the organic percentage of the mobile phase was decreased gradually to 98% over 15 min and then, changed to 90% until the end of analysis. DAD signals were registered at 225 nm for 4EP, at 260 nm for 4VPh and at 310 for CAEE and CA. Fluorescence signals were recorded also for 4EP and 4VPh working in multi-excitation mode. Excitation wavelength was 230 nm for 4EP and 260 nm for 4VPh whereas the emission wavelength was set to 320 nm for both compounds.
+   The retention factors (K) of MIP and NIP columns were calculated using the equation, K = (t ? t0)/t0 where (t) and (t0) are the retention times of the analyte and void volume marker, i.e. acetone, respectively. The separation factor (?) was calculated by the following equation: ? = K2/K1 where K2 and K1 are the retention factors of two consecutive chromatographic peaks.
+3. Results and discussion
+3.1. Development of 4-ethylphenol imprinted polymers
+   Two different MIPs were synthesised in this work in order to develop a MIP-based methodology to determine compounds that belong to the 4EP metabolic pathway in wines. The MIP4EP was developed first in order to obtain a class-selective material capable of selectively extracting these phenols from wine matrices. To achieve this goal, a material that could recognise the phenolic group of every target compound was desirable; 4EP was therefore used as template. Different synthesis-related variables that influence final MIP performance were assessed first with the objective of developing a MIP with optimal binding behaviour. In this regard, the type of porogen, the cross-linker, and the template:functional monomer:cross-linker molar ratios were optimised.
+   4VP was selected as functional monomer based on preliminary HPLC experiments carried out with stationary phases made with non-imprinted polymers using 4VP, EGMP, acrylamide, methacrylic acid and itaconic acid as functional monomers and EDMA as cross-linker. It was found that columns packed with 4VP polymers showed higher retention times for 4EP in comparison with other polymers (Fig. S1) in different aprotic solvents tested as mobile phases. Taking into account these results, it was hypothesised that this monomer could establish strong hydrogen-bonding interactions between 4VP and 4EP hydroxyl moieties as well as complementary ¡V stacking between aromatic rings. In addition, pyridine monomers have been proven to provide good results when used for imprinting of other phenolic compounds, as reported before [27¡V35].
+3.2. Porogen selection
+   The effect of porogen polarity on MIP behaviour was evaluated by HPLC using columns packed with MIPs synthesised in ACN, TLN and DCM. Different solvents were employed as mobile phases to test every MIP column. The template:functional monomer:crosslinker (4EP, 4VP and EDMA) molar ratio was set to 1:4:20. As depicted in Fig. 1, MIP columns synthesised in DCM were the ones showing best imprinting factors (IF). The MIP synthesised in TLN behaved similarly to the one synthesised in DCM if rebinding was performed using DCM or MeOH as mobile phase, however, IF was not as good when working in ACN. As it can be deduced from the observed low IF values (Fig. 1a), the most polar solvent, ACN, is the one that led to MIPs with worst binding behaviour towards the template since MIPs synthesised in ACN behaved similarly to the NIP column. Based on the obtained results DCM was chosen as solvent for further experiments.
+3.3. Optimisation of the polymer composition
+   In first instance, the template:functional monomer molar ratio was optimised in order to maximise the MIP performance. Keeping the functional monomer:cross-linker molar ratio constant at 1:3, different imprinted and non-imprinted polymers were synthesised at different template:functional monomer ratios. Resultant materials were evaluated by HPLC using DCM as mobile phase. Best results were obtained using a 1:2 template:functional monomer molar ratio; under these conditions an IF close to 2 was registered (Fig. S2).
+   The cross-linker monomer also plays an important role on MIP performance. It influences the recognition ability of the MIP and physicochemical properties of imprinted materials strongly depend on the cross-linking degree [36]. Depending on the crosslinker nature, it can impart the final polymer with a polar or non-polar character [37] and it is also known to be responsible for a large proportion of the non-specific hydrophobic interactions that are usually present in MIP systems.
+In this part of the work, different amounts of DVB, TRIM and
+
+Fig. 1. Retention times and imprinting factors of 4EP using acetonitrile, methanol and dichloromethane as mobile phases. Columns packed with imprinted and non-imprinted polymers synthesised in (a) acetonitrile, (b) toluene and (c) dichloromethane were used as stationary phase.EDMA were employed to cross-link the adduct formed between 4VP and 4EP. MIPs synthesised in DCM using different functional monomer:cross-linker molar ratios were packed in HPLC columns and evaluated chromatographically. The retentions times and IF were compared with the ones registered using non-imprinted materials. The results are illustrated in Fig. 2 Imprinting factors observed using DVB and EDMA were higher than the ones for TRIM which was discarded for further experimental due to the very low IF obtained. Despite all the optimisation steps, the highest imprinting factors were still around 2, a relatively modest value for a MIP. This can undoubtedly be attributed to the low number of functionalities suitable for imprinting present on the template molecule (a single hydroxyl group) and its weak acidity. Regardless, an IF of 2 can be considered sufficient not only to demonstrate the imprinting effect but also to fulfil the goal of developing a sorbent that successfully extracts the target from the sample matrix. Both DVB and EDMA led to materials with similar IF, however, retention times observed using EDMA were higher, probably due the higher polarity of this cross-linker. Between the two, EDMA was selected as the cross-linker in order to minimise possible unspecific hydrophobic interactions and to make the polymer more ¡¥water compatible¡¦ considering that the final application of the material was to be carried out in wine samples. As IF was highest at this point, a template:functional monomer: cross-linker ratio 1:2:6 was chosen as optimum.
+3.4. Selectivity of the 4-ethylphenol imprinted polymer
+   In order to evaluate the capacity of the developed material to extract compounds belonging to the metabolic pathway of 4EP, the retention of this target and its precursors 4VPh, CA and CAEE was assessed by the MIP4EP. In addition, a compound structurally related to 4EP, was also used to check the capacity of the material to discriminate between the targets and possible interferences. 4-ethylguaiacol (4EG) was selected as a potential interfering
+   
+
+Fig. 2. Retention times and the corresponding IF of 4EP registered with columns packed with MIP and NIP materials synthesised using different template: functional monomer:
+cross-linker ratios. ACN was used as mobile phase in all cases.
+
+Fig. 3. Chromatograms registered after the injection of stock solutions of 10mg L?1 of (a) 4EG, (b) 4EP, (c) CAEE, d) 4VPh and (e) CA. In all cases, a column packed with the
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+MIP4EP material was used as stationary phase and 100% dichloromethane as mobile phase (225 nm).
+   
+compound due to the fact that it is a phenolic compound that does not belong to the 4EP pathway, its structure is similar to 4EP and also because it can be naturally present in wine.
+   The chromatograms shown in Fig. 3 depict the retention times registered using the optimised MIP material as stationary phase and DCM as mobile phase. 4EP was the first to elute (11.1 min). Obtained retention times for 4VPh and CAEE were 16.6 and 19.8 min respectively. 4EP is a smaller and less functionalised molecule than CA, 4VP or CAEE. 4EP has only a hydroxyl polar group, whereas precursors have other polar groups that may be interacting nonspecifically with the polymer. The reason for observing slightly longer retention times with precursors may be attributed to nonspecific hydrogen bonding with randomly distributed functional monomers that may be present in the polymer, outside binding sites. No retention was observed in the MIP column for 4EG and full retention was observed for CA. Even working in 100% ACN as mobile phase, full retention of this compound was observed. Based on the presented results it can be stated that the developed material was successful in retaining selectively target analytes in comparison with a structurally related compound.
+3.5. Development of coumaric acid imprinted polymers
+   As 4EP is a small and poorly functionalised template molecule, resulting MIP was not capable of separating the different compounds of its metabolic pathway chromatographically. Probably, during the synthesis of the MIP, template-monomer adducts were very weak and that was leading to poor imprinting effect with heterogeneous binding site distribution. In this sense, even if the MIP4EP worked successfully for the extraction of 4EP, 4VPh, CAEE and CA, the developed material could not be also used as stationary phase to separate and determine these targets in wine extracts. It would be of great interest to have selective materials that allow for the quantification of these phenolic compounds in wine matrices, since it would help monitoring the levels of 4EP precursors, and thereby taking special actions to avoid its formation during wine ageing. Based on this, a second class-selective MIP was developed in order to make a MIP-based stationary phase for HPLC capable of separating target analytes mentioned above. For this purpose, CA was used as template. It was expected that this template could be capable of establishing stronger adducts with 4VP since CA has an additional carboxylic group to interact with the functional monomer. Also, as demonstrated during chromatographic evaluation (Section 3.1.3), this compound can interact strongly with 4VP polymers. As described in Section 3.1, different parameters that could affect the final outcome were again optimised in order to produce an imprinted material with the best possible characteristics.
+3.6. Porogen selection
+   DMSO and MeOH were tested as solvents to carry out the polymer synthesis. Due to template solubility limitations, other solvents like ACN or DCM could not be employed. Two imprinted polymers and the corresponding non-imprinted ones were synthesised for this study using MeOH or DMSO as porogens. In all cases, CA was used as the template, 4VP as the functional monomer and EDMA as the cross-linker (1:3:12 molar ratio). The polymers were packed in HPLC columns and evaluated by liquid chromatography using ACN as mobile phase. Fig. 4 shows the chromatograms registered with MIPCA materials synthesised using different porogens. Full retention of CA was observed in both MIPCA, in consequence, 15 min after the injection, the mobile phase was changed to 95% of ACN and 5% of MeOH in order to favour the elution of CA.
+   The IF of the DMSO MIPCA was remarkably higher than the one observed for the MeOH MIPCA, 31.05 and 7.89 respectively for CA, what clearly denotes that the binding strength is higher in the DMSO MIP. However, separation of target phenolic compounds
+
+Fig. 4. Chromatograms registered after the injection of stock solutions of 5 mg L?1 of 4EP, 4VPh, CAEE, and CA. Columns packed with the MIP	synthesised in (A) DMSO and
+	 	 	CA	 	 	 	 (B) MeOH as porogen were used as stationary phase (225 nm).
+took place better using the MIPCA polymer synthesised in MeOH. Probably, when using DMSO as porogen, the prepolymerisation template-functional monomer adduct was more stable and consequently, resulting binding site distribution was more homogeneous which resulted in a more selective MIPCA for the target compound and less specific for other phenolic compounds. It was concluded that the MIP prepared in DMSO was less class-specific than the one synthesised with MeOH, therefore, considering that the purpose of imprinting CA was to obtain a polymer capable of separating the different compounds involved in the 4EP metabolic pathway, MeOH was chosen as porogen for further research.
+3.7. Optimisation of the polymer composition
+   In order to determine the best template:functional monomer:cross-linker molar ratio, a series of polymers were synthesised using 4VP as the functional monomer, EDMA as the cross-linker and CA as the template. First, four MIPs, synthesised using 1:2, 1:3, 1:4 and 1:6 template:functional monomer molar ratios, were tested. All these MIPs were synthesised with a constant functional monomer:cross-linker ratio of 1:4. All synthesised imprinted and non-imprinted polymers were chromatographically evaluated using ACN:MeOH 95:5 as mobile phase. Obtained retention times and IF are depicted in Fig. 5a. Best imprinting effect was observed at 1:3 molar ratio.
+   Once selected the template:functional monomer molar ratio, different functional monomer:cross-linker ratios were tested, in this regard, MIPs and NIPs were synthesised using 1:3, 1:4 and 1:5 ratios and they were evaluated by HPLC as described previously. As can be deduced from Fig. 5b, best results were obtained using 1:4 functional monomer:cross-linker molar ratio (1:3:12 template:functional monomer:cross-linker).
+   Once the polymer composition was optimised, the developed material was employed as stationary phase to separate the phenolic compounds that belong to the 4EP metabolic pathway in wines. As illustrated in Fig. 6, baseline separation of all analytes was observed using the MIP column employing conditions detailed in Section 2.6. However, the NIP column was not able to separate target analytes. In order to compare the efficiencies of both columns, retention and separation factors were calculated as described in Section 2.6. From the results illustrated in Table S1, it can be deduced the NIP column practically does not retain 4EP, 4VPh or CAEE, since retention factors were below 1 in all cases. In addition, the retention of CA in the MIP column was higher than in the NIP column. As regards the separation factors, it can be observed in Table S1 that the MIP column provided higher values than the NIP column, thereby demonstrating the goodness of the MIP to separate the target compounds.
+3.8. Optimisation of the MISPE procedure
+   Based on the obtained results in Section 3.2, it might be expected that the MIPCA could serve not only for chromatographic separation of target phenols but also for MISPE of wine samples. However, it was observed that the binding capacity of the MIP4EP was remarkably higher than the one observed for the MIPCA (Fig. S3). Consequently, MIP4EP was used in SPE cartridges for MISPE of
+   
+
+Fig. 5. Retention times and imprinting factors of CA using acetonitrile as mobile phase. Columns packed with imprinted and non-imprinted polymers synthesised using different (A) template: functional monomer and (B) functional monomer: cross-linker ratios were employed.
+
+	Fig. 6. Chromatograms registered with the DAD detector after the injection of stock solutions of 5 mg L?1 of 4EP, 4VPh, CAEE and CA using a MIP	and a NIP	column. In
+                                              	 	CA	CA	 the inset, the signal registered in the fluorescence detector using the same conditions is depicted.
+   
+target analytes as described in Section 2.5 whereas the MIPCA was employed only for HPLC experiments.
+   Initially, the washing and elution steps were optimised in order to minimise non-specific interactions of interfering compounds as well as to obtain maximum analyte recovery. After cartridge activation, 5mL of a solution of 10mg mL?1 of 4EP, 4VPh, CAEE and CA
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 
+prepared in water containing 12% ethanol were percolated through it at constant flow. Next, 5 mL of water containing 12% of ethanol was percolated and then cartridges were washed with different amounts of DCM. Finally, analyte elution was carried out using 5 mL of MeOH. Since the cartridges were to be employed to extract target analytes from red wine samples, the cartridges were washed first with 5 mL of water with 12% ethanol in order to remove wine matrix components from the sorbent bed, thereby removing nonadsorbed or weakly adsorbed polar compounds that may be present in the wine samples. DCM was selected as the washing solvent because among the tested ones, it was the one with lower elution strength for 4EP. Other solvents like ACN or MeOH were also tested for washing, however, as previously stated, poorly functionalised 4EP binds quite weakly to the MIP4EP and consequently polar solvents favour faster elution of the target without properly allowing the removal of interfering compounds. This effect was corroborated measuring the binding capacity of the sorbents by frontal chromatography employing DCM and ACN. It was empirically observed that the capacity of the MIP material was higher in DCM (97.9 mg g?1) than in ACN (31.4mg g?1) or MeOH (18.8mg g?1). In order
+ 	 	 	 	 	 	 	 	 	 	 	 	 
+   
+
+Fig. 7. Recoveries (%) obtained for 4EP, 4VPh, CAEE and CA after eluting the MIP4EP SPE cartridges with (a) 5 mL of different solvents and (b) different volumes of the selected solvent (ACN:MeOH 8:2).
+
+Fig. 8. HPLC-DAD chromatograms registered with final eluates obtained after percolating through MISPE cartridges (a) a red wine sample or (b) a red wine sample spiked with 5mg L?1 of 4EP, 4VPh, CAEE and CA. The MIP material was used as stationary phase in chromatographic experiments. Figure inset shows the chromatograms of the
+	 	 	 	CA	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+   
+same eluates registered in the FD.
+to know the maximum solvent amount that could be employed without analyte loss, a series of experiments were carried out percolating increasing volumes of the washing solvent and measuring the recovery in the final eluates. Recovery percentages recorded with MIP and NIP cartridges after washing them with increasing volumes of DCM are depicted in Fig. S4. Best results comparing MIP to NIP recoveries were observed using 4 mL DCM in the washing step.
+   Concerning the analyte elution step, different solvents like MeOH, ACN and formate buffer (10 mM, pH:3) were tested in order to get maximum analyte recovery. Furthermore, the required solvent volume to get complete analyte elution was also studied. When 100% ACN was used, CA could not be eluted, moreover, 100% aqueous solutions did not show enough elution strength for target analytes. Hence, different ACN:MeOH and ACN:Buffer mixtures were also tested as SPE eluents. Fig. 7a details recovery values for each target analyte after eluting the MISPE cartridges with different solvents. MeOH and ACN:MeOH 8:2 or ACN:buffer (8:2) mixtures were the eluents leading to highest recoveries. ACN:MeOH was chosen for further experiments since final SPE extracts were cleaner using this solvent mixture, probably due to a more selective behaviour of the MIP sorbent in the elution step. Different amounts of this mixture were employed for analyte elution. Calculated recoveries in final eluates are depicted in Fig. 7b. It can be deduced from the figure that 3 mL of eluent are enough to almost completely elute 4EP, 4VPh and CAEE. However, a higher volume is required for a quantitative elution of CA, thus, 5 mL of ACN:MeOH (8:2) were chosen.
+3.9. Method application to red wine samples
+   The effectiveness of the developed method, based on MISPE coupled to MIP-based chromatographic separation of compounds from the 4EP metabolic pathway, was finally investigated in real matrices.
+   Since target compounds can be, to a greater or lesser extent, naturally present in wines, standard addition method was required to quantify these compounds in wine samples. Initially, analytical data were obtained using standard solutions of target compounds. Method dependence to concentration was evaluated loading the MISPE cartridges with stock solutions of 4EP, 4VP, CAEE and CA that ranged from 0.010 to 10mg L?1 prepared in water containing
+ 	 	 	 	 	 	 	 	 	 
+12% of ethanol. The final eluates were analysed by HPLC obtaining a linear dependence of the peak area with concentration in the whole tested range (R 2: 0.9923 and R 2: 0.9901) except for CAEE and
+	 	4EP	4VP	 	 	 	 	 
+CA, whose linearities were comprised between 0.025 and 10 mg
+L?1 (R2: 0.9956) and 0.25¡V10mg L?1 (R2: 0.9865) respectively. The
+ 	 	 	 	 	 	 	 
+instrumental limit of detection (LOD) and limit of quantification (LOQ) were calculated based on the 3/S and 10/S criterion [38] where  is the value of the standard deviation of the blank signal and S the sensitivity value obtained from the calibration slope. The
+LOD and LOQ were found to be 2.63g L?1 and 8.77g L?1 respec-
+ 	 	 	 	 	 	 	 	 	 	 	 
+tively for 4EP, 2.82g L?1 and 9.42g L?1 for 4VPh, 6.81g L?1
+¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@ 	 	 	 	 	 	 	 	 	 	 	 and 22.7g L?1 for CAEE and 66.1g L?1 and 220g L?1 for CA.
+ 	 	 	 	 	 	 	 	 	 	 	 
+   The standard addition method was designed based on previously observed signal dependence with concentration in stock solutions of target analytes. Initially, 5 mL of red wine were percolated through a MIP4EP cartridge as detailed in Section 2.5. Fig. 8a depicts the chromatogram corresponding to the final eluate obtained after MISPE of wine and Fig. 8b shows a chromatogram corresponding to a wine sample spiked with 5mg L?1 of each tar-
+ 	 	 	 	 	 	 	 	 	 	 
+get compound. As can be deduced from the figure, only signals attributable to CA and CAEE were found in the wine sample. Next, in order to quantify found analytes, 3 wine aliquots were spiked with
+1, 2 and 3mg L?1 of CAEE and 10, 20 and 30mg L?1 of CA respec-
+ 	 	 	 	 	 	 	 	 	 	 	 	 	 	 
+tively. MISPE was performed and final eluates were injected in the HPLC. CA and CAEE concentrations in the tested wine sample were found to be 7.07¡Ó0.56mg L?1 and 0.63¡Ó0.09mg L?1 respectively,
+¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@¡@ 	 	 	 	 	 	 	 	 	 	 	 expressed as mean ¡Ó SD (n = 3).
+   In order to test method accuracy, control wine samples were prepared at different concentration levels spiking wine samples
+   
+G Model
+CHROMA-356730; No. of Pages 9ARTICLE IN PRESS	D. Garcia et al. / J. Chromatogr. A xxx (2015) xxx¡Vxxx 	9Table 1
+Summary of validation parameters in non-spiked and spiked wine.Spiked (mg L?1)	Measured (mg L?1)	Recovery (%)	RSD (%)
+ 	 	 	 	 	 	 	 	 
+
+4EP 4VPh CAEE CA 4EP 4VPh CAEE CA 4EP 4VPh CAEE CA 4EP 4VPh CAEE CAns ns Ns ns <LOD <LOD 0.63 ¡Ó 0.09 7.07 ¡Ó 0.56 ¡V ¡V ¡V ¡V ¡V ¡V 14.3 7.90.1 0.1 0.1 1.0 0.095 ¡Ó 0.005 0.099 ¡Ó 0.007 0.72 ¡Ó 0.04 8.28 ¡Ó 0.54 95.2 ¡Ó 5.1 99.2 ¡Ó 7.0 98.0 ¡Ó 6.2 102.6 ¡Ó 6.7 5.3 7.1 5.5 6.50.5 0.5 0.5 5.0 0.52 ¡Ó 0.01 0.51 ¡Ó 0.02 1.23 ¡Ó 0.05 12.35 ¡Ó 0.45 104.6 ¡Ó 3.6 102.5 ¡Ó 4.1 109.2 ¡Ó 8.4 102.4 ¡Ó 5.0 1.9 3.9 4.1 3.6Measured values expressed as mean ¡Ó SD of n = 3 measurements of different wine aliquots.
+   
+ns: non-spiked wine.
+with known amounts of 4EP, 4VP, CAEE and CA. Then, target compounds were determined in control samples following the developed analytical method. Obtained results are summarised in Table 1. Mean recovery ranged from 95.2 to 109.2% and the RSD% were below 10% in most cases confirming the suitability of the method for the quantification of 4EP, 4VPh, CAEE and CA in red wine samples.
+4. Conclusions
+   A new MIP-based methodology is presented here to determine the levels of compounds that belong to the 4EP metabolic pathway in red wines. Two MIP based materials have been successfully synthesised using 4EP and CA respectively as templates. By subsequent optimisation of the conditions for polymer synthesis, a MIP4EP was obtained which could rebind target compounds from red wine samples. Concurrently, a class-selective MIPCA was also obtained capable of separating target phenols by HPLC. Both materials have been employed to develop an analytical methodology that allows for the simple, accurate and selective determination of 4EP, 4VPh, CAEE and CA in red wine matrices with minimal matrix effect.
+Acknowledgments
+   This work was supported by The Spanish Ministry of Economy and Competitiveness (project CTQ2013-47921-P) and the University of The Basque Country UPV/EHU (project US13/10).
+Appendix A. Supplementary data
+   Supplementary data associated with this article can be found, in the online version, at http://dx.doi.org/10.1016/j.chroma.2015.07. 103
+References
+[1] J. Kheir, D. Salameh, P. Strehaiano, C. Brandam, R. Lteif, Eur. Food Res. Technol. 237 (2013) 655¡V671.
+[2] M. Petrozziello, A. Asproudi, M. Guaita, D. Borsa, S. Motta, L. Panero, A. Bosso, Food Chem. 149 (2014) 197¡V202.
+[3] M.P. Sangorrin, V. Garcia, C.A. Lopes, J.S. Saez, C. Martinez, M.A. Ganga, J. Appl. Microbiol. 114 (2013) 1066¡V1074.
+[4] I.M. Valente, C.M. Santos, M.M. Moreira, J.A. Rodrigues, J. Chromatogr. A 1271 (2013) 27¡V32.
+[5] R. Suarez, J.A. Suarez-Lepe, A. Morata, F. Calderon, Food Chem. 102 (2007) 10¡V21.
+[6] M.P. Nikfardjam, B. May, C. Tschiersch, Eur. Food Res. Technol. 230 (2009) 333¡V341.
+[7] I. Carpinteiro, B. Abuin, I. Rodriguez, M. Ramil, R. Cela, J. Chromatogr. A 1229 (2012) 79¡V85.
+[8] S. Benito, F. Palomero, A. Morata, F. Calderon, J.A. Suarez-Lepe, J. Appl. Microbiol. 106 (2009) 1743¡V1751.
+[9] A. Morata, R. Vejarano, G. Ridolfi, S. Benito, F. Palomero, C. Uthurry, W. Tesfaye, C. Gonzalez, J.A. Suarez-Lepe, Enzyme Microb. Technol. 52 (2013) 99¡V104.
+[10] R. Nieto-Rojo, C. Ancin-Azpilicueta, J.J. Garrido, Food Chem. 152 (2014) 399¡V406.
+[11] J.L. Hixson, N.R. Sleep, D.L. Capone, G.M. Elsey, C.D. Curtin, M.A. Sefton, D.K. Taylor, J. Agric. Food. Chem. 60 (2012) 2293¡V2298.
+[12] P. Chatonnet, D. Dubourdieu, J.N. Boidron, M. Pons, J. Sci. Food Agric. 60 (1992) 165¡V178.
+[13] L. Dias, S. Dias, T. Sancho, H. Stender, A. Querol, M. Malfeito-Ferreira, V. Loureiro, Food Microbiol. 20 (2003) 567¡V574.
+[14] C. Pizarro, C. Saenz-Gonzalez, N. Perez-del-Notario, J.M. Gonzalez-Saiz, J. Chromatogr. A 1218 (2011) 1576¡V1584.
+[15] D. Allen, A.D. Bui, N. Cain, G. Rose, M. Downey, Anal. Bioanal. Chem. 405 (2013) 9869¡V9877.
+[16] B.T. Weldegergis, A.M. Crouch, T. Gorecki, A. de Villiers, Anal. Chim. Acta 701 (2011) 98¡V111.
+[17] M.-C. Monje, C. Privat, V. Gastine, F. Nepveu, Anal. Chim. Acta 458 (2002) 111¡V117.
+[18] B. Mendes, J. Goncalves, J.S. Camara, Talanta 88 (2012) 79¡V94.
+[19] C. Franc, F. David, G. de Revel, J. Chromatogr. A 1216 (2009) 3318¡V3327.
+[20] I. Basozabal, A. Gomez-Caballero, G. Diaz-Diaz, A. Guerreiro, S. Gilby, M.A.
+Goicolea, R.J. Barrio, J. Chromatogr. A 1308 (2013) 45¡V51.
+[21] M.J. Whitcombe, N. Kirsch, I.A. Nicholls, J. Mol. Recognit. 27 (2013) 297¡V401.
+[22] A. Gomez-Caballero, A. Guerreiro, K. Karim, S. Piletsky, M.A. Goicolea, R.J. Barrio, Biosens. Bioelectron. 28 (2013) 25¡V32.
+[23] N. Unceta, A. Gomez-Caballero, D. Garcia, G. Diaz, A. Guerreiro, S. Piletsky, M. Aranzazu Goicolea, R.J. Barrio, Talanta 116 (2013) 448¡V453.
+[24] M. Yan, O. Ramstr?m, Molecularly Imprinted Materials: Science and Technology, Marcel Dekker, New York, 2005.
+[25] I. Chianella, K. Karim, E.V. Piletska, C. Preston, S.A. Piletsky, Anal. Chim. Acta 559 (2006) 73¡V78.
+[26] T. Muhammad, L. Cui, W. Jide, E.V. Piletska, A.R. Guerreiro, S.A. Piletsky, Anal.
+Chim. Acta 709 (2012) 98¡V104.
+[27] C. Baggiani, L. Anfossi, C. Giovannoli, Anal. Chim. Acta 591 (2007) 29¡V39.
+[28] E. Caro, R.M. Marce, P.A.G. Cormack, D.C. Sherrington, F. Borrull, J. Chromatogr. A 995 (2003) 233¡V238.
+[29] T. Garde-Cerdan, A. Zalacain, C. Lorenzo, J.L. Alonso, M.R. Salinas, Am. J. Enol. Vitic. 59 (2008) 396¡V400.
+[30] E. Herrero-Hernandez, R. Carabias-Martinez, E. Rodriguez-Gonzalo, Anal. Chim. Acta 650 (2009) 195¡V201.
+[31] N.M. Maier, G. Buttinger, S. Welhartizki, E. Gavioli, W. Lindner, J. Chromatogr. B 804 (2004) 103¡V111.
+[32] N. Masque, R.M. Marce, F. Borrull, P.A. Cormack, D.C. Sherrington, Anal. Chem. 72 (2000) 4122¡V4126.
+[33] B. San Vicente, F. Navarro Villoslada, M. Moreno-Bondi, Anal. Bioanal. Chem.
+380 (2004) 115¡V122.
+[34] H. Sanbe, J. Haginaka, J. Pharm. Biomed. Anal. 30 (2003) 1835¡V1844.
+[35] L.J. Schwarz, B. Danylec, S.J. Harris, R.I. Boysen, M.T.W. Hearn, J. Chromatogr. A 1218 (2011) 2189¡V2195.
+[36] T. Muhammad, Z. Nur, E.V. Piletska, O. Yimit, S.A. Piletsky, Analyst (Cambridge, United Kingdom) 137 (2012) 2623¡V2628.
+[37] F. Horemans, A. Weustenraed, D. Spivak, T.J. Cleij, J. Mol. Recognit. 25 (2012) 344¡V351.
+[38] M. Valc?rcel, Principles of Analytical Chemistry, first ed., Springer, Berlin, 2000.
+G Model
+CHROMA-356730; 	No. of Pages 2	ARTICLE IN PRESS
+2 	D. Garcia et al. / J. Chromatogr. A xxx (2015) xxx¡Vxxx
+   
+G Model
+CHROMA-356730; 	No. of Pages 3	ARTICLE IN PRESS
+	D. Garcia et al. / J. Chromatogr. A xxx (2015) xxx¡Vxxx 	3
+   
+Please cite this article in press as: D. Garcia, et al., Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines, J. Chromatogr. A (2015), http://dx.doi.org/10.1016/j.chroma.2015.07.103
+   
+Please cite this article in press as: D. Garcia, et al., Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines, J. Chromatogr. A (2015), http://dx.doi.org/10.1016/j.chroma.2015.07.103
+   
+G Model
+CHROMA-356730; 	No. of Pages 9	ARTICLE IN PRESS
+xxx (2015) 
+   
+Please cite this article in press as: D. Garcia, et al., Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines, J. Chromatogr. A (2015), http://dx.doi.org/10.1016/j.chroma.2015.07.103
+   
+
+   
+
+   
+Please cite this article in press as: D. Garcia, et al., Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines, J. Chromatogr. A (2015), http://dx.doi.org/10.1016/j.chroma.2015.07.103
+   
+Please cite this article in press as: D. Garcia, et al., Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines, J. Chromatogr. A (2015), http://dx.doi.org/10.1016/j.chroma.2015.07.103
+   
+
+   
+Please cite this article in press as: D. Garcia, et al., Molecularly imprinted polymers as a tool for the study of the 4-ethylphenol metabolic pathway in red wines, J. Chromatogr. A (2015), http://dx.doi.org/10.1016/j.chroma.2015.07.103
+   

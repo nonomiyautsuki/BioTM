@@ -1,0 +1,4202 @@
+[
+	{
+		"key": "26.1152661288132",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "mip",
+		"value": 26.1152661288132
+	},
+	{
+		"key": "16.3220413305083",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "monomer",
+		"value": 16.3220413305083
+	},
+	{
+		"key": "16.0405112132954",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ep",
+		"value": 16.0405112132954
+	},
+	{
+		"key": "15.777973286158",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "template",
+		"value": 15.777973286158
+	},
+	{
+		"key": "15.2339052418077",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "acn",
+		"value": 15.2339052418077
+	},
+	{
+		"key": "15.2339052418077",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "meoh",
+		"value": 15.2339052418077
+	},
+	{
+		"key": "14.6898371974574",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "caee",
+		"value": 14.6898371974574
+	},
+	{
+		"key": "14.3510946264892",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "imprinted",
+		"value": 14.3510946264892
+	},
+	{
+		"key": "13.6017011087569",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "vp",
+		"value": 13.6017011087569
+	},
+	{
+		"key": "13.0576330644066",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "cross",
+		"value": 13.0576330644066
+	},
+	{
+		"key": "12.5135650200563",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "synthesised",
+		"value": 12.5135650200563
+	},
+	{
+		"key": "11.4254289313558",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "linker",
+		"value": 11.4254289313558
+	},
+	{
+		"key": "10.6713267735432",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "functional",
+		"value": 10.6713267735432
+	},
+	{
+		"key": "10.6713267735432",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "polymers",
+		"value": 10.6713267735432
+	},
+	{
+		"key": "10.3372928426552",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "packed",
+		"value": 10.3372928426552
+	},
+	{
+		"key": "9.79322479830496",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "dcm",
+		"value": 9.79322479830496
+	},
+	{
+		"key": "9.24915675395468",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "columns",
+		"value": 9.24915675395468
+	},
+	{
+		"key": "9.19941963236486",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "vph",
+		"value": 9.19941963236486
+	},
+	{
+		"key": "8.70508870960441",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "if",
+		"value": 8.70508870960441
+	},
+	{
+		"key": "8.70508870960441",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "cartridges",
+		"value": 8.70508870960441
+	},
+	{
+		"key": "8.46346606177567",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "polymer",
+		"value": 8.46346606177567
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "mipep",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "molar",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "imprinting",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "registered",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "mipca",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "6.72188964119895",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ca",
+		"value": 6.72188964119895
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "employed",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "chroma",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "mispe",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "edma",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "garcia",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "nip",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "elution",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.51965177941892",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "mobile",
+		"value": 5.51965177941892
+	},
+	{
+		"key": "5.51965177941892",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "molecularly",
+		"value": 5.51965177941892
+	},
+	{
+		"key": "5.51965177941892",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "selective",
+		"value": 5.51965177941892
+	},
+	{
+		"key": "5.15167499412432",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ethylphenol",
+		"value": 5.15167499412432
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "mips",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "eluates",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.78369820882973",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "stationary",
+		"value": 4.78369820882973
+	},
+	{
+		"key": "4.61772292503959",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "metabolic",
+		"value": 4.61772292503959
+	},
+	{
+		"key": "4.3746848763533",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "column",
+		"value": 4.3746848763533
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "xxx",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "coumaric",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.13164682766701",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "chromatogr",
+		"value": 4.13164682766701
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "analytes",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "porogen",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "precursors",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "solvents",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "press",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "spe",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.65320089195595",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "target",
+		"value": 3.65320089195595
+	},
+	{
+		"key": "3.36094482059947",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ml",
+		"value": 3.36094482059947
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "chromatograms",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "cite",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.21481678492124",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "hplc",
+		"value": 3.21481678492124
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "analyte",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ratio",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "3.068688749243",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "pathway",
+		"value": 3.068688749243
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "dx",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ratios",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "polar",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "dmso",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "tool",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "extraction",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.77643267788652",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "wines",
+		"value": 2.77643267788652
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "percolated",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "separate",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "deduced",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "ns",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "separating",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "barrio",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "spain",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "recoveries",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "piletsky",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "sorbent",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "eg",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "optimised",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "capable",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "capacity",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "belong",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "constant",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "solutions",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.19192053517357",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "material",
+		"value": 2.19192053517357
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "suarez",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "dichloromethane",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "chromatographically",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "dvb",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "gomez",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "hca",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "guerreiro",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "percolating",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "pure",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.07535047854901",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "phase",
+		"value": 2.07535047854901
+	},
+	{
+		"key": "2.04579249949533",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "samples",
+		"value": 2.04579249949533
+	},
+	{
+		"key": "1.94430438949036",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "chromatographic",
+		"value": 1.94430438949036
+	},
+	{
+		"key": "1.94430438949036",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "class",
+		"value": 1.94430438949036
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "depicted",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0021967315011115-main.txt",
+		"subregion": "optimisation",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "21.762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "resv",
+		"value": 21.762721774011
+	},
+	{
+		"key": "13.6017011087569",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "exposed",
+		"value": 13.6017011087569
+	},
+	{
+		"key": "12.5135650200563",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "echinobothrida",
+		"value": 12.5135650200563
+	},
+	{
+		"key": "10.8813608870055",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "parasites",
+		"value": 10.8813608870055
+	},
+	{
+		"key": "9.19941963236486",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "apoptosis",
+		"value": 9.19941963236486
+	},
+	{
+		"key": "8.7493697527066",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "resveratrol",
+		"value": 8.7493697527066
+	},
+	{
+		"key": "8.16102066525413",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "parasite",
+		"value": 8.16102066525413
+	},
+	{
+		"key": "7.72751249118648",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "death",
+		"value": 7.72751249118648
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "caspase",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "roy",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "giri",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "condensation",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "parasitology",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.88762856471351",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "exposure",
+		"value": 5.88762856471351
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "stained",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "viability",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.10379902241218",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "membrane",
+		"value": 5.10379902241218
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "nucleus",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "vh",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "mtt",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "photographs",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "raillietina",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.78369820882973",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "chromatin",
+		"value": 4.78369820882973
+	},
+	{
+		"key": "4.41572142353513",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "assay",
+		"value": 4.41572142353513
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "pbs",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "ultrastructural",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "mitochondria",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "apoptotic",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "anthelmintic",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "incubation",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "tunel",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "helminth",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.40253268160812",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "mitochondrial",
+		"value": 3.40253268160812
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "vd",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "mechanism",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "india",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "vitro",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "nucleolus",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "zm",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "caspases",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "nuclei",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "mukherjee",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "microscope",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "showing",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "dna",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cristae",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "tegumental",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "leica",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "dark",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "veterinary",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "saini",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "confirm",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "dapi",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "plants",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "worm",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "active",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "inhibition",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "fragmentation",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "induction",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "nuclear",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "sections",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "rh",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "alterations",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "induced",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "baur",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cestocidal",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "carex",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "programmed",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cervi",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cestode",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "poultry",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "babu",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "micrographs",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cycle",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "outer",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "1.94430438949036",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cancer",
+		"value": 1.94430438949036
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "observations",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "drug",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "enzymes",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "electron",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "incubated",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.74061653039594",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cell",
+		"value": 1.74061653039594
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "complete",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "revealed",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "rhodamine",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "tapeworm",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "dasgupta",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "brown",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "dong",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "transmission",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "pezzuto",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "gg",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "cytochrome",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "involvement",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "arrows",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "setaria",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "chemopreventive",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "nl",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "bertelli",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "1-s2.0-S0034528815300035-main.txt",
+		"subregion": "sinclair",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "35.9084909271182",
+		"region": "ajhhpv126full.txt",
+		"subregion": "bp",
+		"value": 35.9084909271182
+	},
+	{
+		"key": "25.390398185327",
+		"region": "ajhhpv126full.txt",
+		"subregion": "alcohol",
+		"value": 25.390398185327
+	},
+	{
+		"key": "14.1457691531072",
+		"region": "ajhhpv126full.txt",
+		"subregion": "participants",
+		"value": 14.1457691531072
+	},
+	{
+		"key": "13.9831178411946",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hg",
+		"value": 13.9831178411946
+	},
+	{
+		"key": "12.5135650200563",
+		"region": "ajhhpv126full.txt",
+		"subregion": "systolic",
+		"value": 12.5135650200563
+	},
+	{
+		"key": "12.1432339147216",
+		"region": "ajhhpv126full.txt",
+		"subregion": "blood",
+		"value": 12.1432339147216
+	},
+	{
+		"key": "9.79322479830496",
+		"region": "ajhhpv126full.txt",
+		"subregion": "abpm",
+		"value": 9.79322479830496
+	},
+	{
+		"key": "9.79322479830496",
+		"region": "ajhhpv126full.txt",
+		"subregion": "moderate",
+		"value": 9.79322479830496
+	},
+	{
+		"key": "8.70508870960441",
+		"region": "ajhhpv126full.txt",
+		"subregion": "association",
+		"value": 8.70508870960441
+	},
+	{
+		"key": "8.46346606177567",
+		"region": "ajhhpv126full.txt",
+		"subregion": "diabetes",
+		"value": 8.46346606177567
+	},
+	{
+		"key": "8.46346606177567",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hypertension",
+		"value": 8.46346606177567
+	},
+	{
+		"key": "8.16102066525413",
+		"region": "ajhhpv126full.txt",
+		"subregion": "metabolizers",
+		"value": 8.16102066525413
+	},
+	{
+		"key": "8.09548927648108",
+		"region": "ajhhpv126full.txt",
+		"subregion": "intervention",
+		"value": 8.09548927648108
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hours",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "ajhhpv126full.txt",
+		"subregion": "diastolic",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "ajhhpv126full.txt",
+		"subregion": "adhb",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.2556053500081",
+		"region": "ajhhpv126full.txt",
+		"subregion": "baseline",
+		"value": 6.2556053500081
+	},
+	{
+		"key": "5.84512142712952",
+		"region": "ajhhpv126full.txt",
+		"subregion": "pressure",
+		"value": 5.84512142712952
+	},
+	{
+		"key": "5.51965177941892",
+		"region": "ajhhpv126full.txt",
+		"subregion": "randomized",
+		"value": 5.51965177941892
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "ajhhpv126full.txt",
+		"subregion": "israel",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "ajhhpv126full.txt",
+		"subregion": "ambulatory",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hypertens",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "ajhhpv126full.txt",
+		"subregion": "variant",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "ajhhpv126full.txt",
+		"subregion": "ci",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.15167499412432",
+		"region": "ajhhpv126full.txt",
+		"subregion": "fast",
+		"value": 5.15167499412432
+	},
+	{
+		"key": "5.15167499412432",
+		"region": "ajhhpv126full.txt",
+		"subregion": "months",
+		"value": 5.15167499412432
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "ajhhpv126full.txt",
+		"subregion": "slow",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "ajhhpv126full.txt",
+		"subregion": "women",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "ajhhpv126full.txt",
+		"subregion": "pulse",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.78369820882973",
+		"region": "ajhhpv126full.txt",
+		"subregion": "intake",
+		"value": 4.78369820882973
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "ajhhpv126full.txt",
+		"subregion": "american",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "ajhhpv126full.txt",
+		"subregion": "men",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "ajhhpv126full.txt",
+		"subregion": "pm",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "ajhhpv126full.txt",
+		"subregion": "morning",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "ajhhpv126full.txt",
+		"subregion": "dehydrogenase",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.09158499899066",
+		"region": "ajhhpv126full.txt",
+		"subregion": "consumption",
+		"value": 4.09158499899066
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "ajhhpv126full.txt",
+		"subregion": "center",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "ajhhpv126full.txt",
+		"subregion": "negev",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "ajhhpv126full.txt",
+		"subregion": "antihypertensive",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "ajhhpv126full.txt",
+		"subregion": "observational",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "ajhhpv126full.txt",
+		"subregion": "month",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "ajhhpv126full.txt",
+		"subregion": "medical",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "ajhhpv126full.txt",
+		"subregion": "patients",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "ajhhpv126full.txt",
+		"subregion": "genetic",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.65320089195595",
+		"region": "ajhhpv126full.txt",
+		"subregion": "ethanol",
+		"value": 3.65320089195595
+	},
+	{
+		"key": "3.64557073029442",
+		"region": "ajhhpv126full.txt",
+		"subregion": "mineral",
+		"value": 3.64557073029442
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "ajhhpv126full.txt",
+		"subregion": "heart",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "ajhhpv126full.txt",
+		"subregion": "mj",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "ajhhpv126full.txt",
+		"subregion": "metabolizing",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "ajhhpv126full.txt",
+		"subregion": "assigned",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "ajhhpv126full.txt",
+		"subregion": "stampfer",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "ajhhpv126full.txt",
+		"subregion": "metabolism",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "ajhhpv126full.txt",
+		"subregion": "day",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "cascade",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "medications",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "systematic",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hypotensive",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "rimm",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hemoglobin",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "randomization",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "drink",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "ajhhpv126full.txt",
+		"subregion": "dinner",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "ajhhpv126full.txt",
+		"subregion": "acetaldehyde",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "ajhhpv126full.txt",
+		"subregion": "gene",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "ajhhpv126full.txt",
+		"subregion": "disease",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "population",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "measured",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "term",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "monitoring",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "coronary",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "mediterranean",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "ajhhpv126full.txt",
+		"subregion": "ac",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.19192053517357",
+		"region": "ajhhpv126full.txt",
+		"subregion": "trial",
+		"value": 2.19192053517357
+	},
+	{
+		"key": "2.18734243817665",
+		"region": "ajhhpv126full.txt",
+		"subregion": "risk",
+		"value": 2.18734243817665
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "shai",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "transient",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "circulation",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "polymorphisms",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "prospective",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "genotypes",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "beverage",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "individuals",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "soroka",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "willett",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "abstainers",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "rs",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "wc",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "homozygous",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "entire",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "relationship",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "cuff",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "tt",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "hour",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "ajhhpv126full.txt",
+		"subregion": "midnight",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "ajhhpv126full.txt",
+		"subregion": "body",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "ajhhpv126full.txt",
+		"subregion": "consumers",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "ajhhpv126full.txt",
+		"subregion": "drinking",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "ajhhpv126full.txt",
+		"subregion": "difference",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "ajhhpv126full.txt",
+		"subregion": "short",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "ajhhpv126full.txt",
+		"subregion": "daily",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "33.1881507053668",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "ovalbumin",
+		"value": 33.1881507053668
+	},
+	{
+		"key": "25.571198084463",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "ng",
+		"value": 25.571198084463
+	},
+	{
+		"key": "23.9389939514121",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "casein",
+		"value": 23.9389939514121
+	},
+	{
+		"key": "19.8707464059081",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "fining",
+		"value": 19.8707464059081
+	},
+	{
+		"key": "16.8661093748585",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "antibodies",
+		"value": 16.8661093748585
+	},
+	{
+		"key": "15.2339052418077",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "hl",
+		"value": 15.2339052418077
+	},
+	{
+		"key": "13.0576330644066",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "vaud",
+		"value": 13.0576330644066
+	},
+	{
+		"key": "10.3372928426552",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "traces",
+		"value": 10.3372928426552
+	},
+	{
+		"key": "9.79322479830496",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "western",
+		"value": 9.79322479830496
+	},
+	{
+		"key": "9.56739641765945",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "filtration",
+		"value": 9.56739641765945
+	},
+	{
+		"key": "9.56739641765945",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "residual",
+		"value": 9.56739641765945
+	},
+	{
+		"key": "9.56739641765945",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "ch",
+		"value": 9.56739641765945
+	},
+	{
+		"key": "9.24915675395468",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "allergenic",
+		"value": 9.24915675395468
+	},
+	{
+		"key": "9.19941963236486",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "protein",
+		"value": 9.19941963236486
+	},
+	{
+		"key": "8.70508870960441",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "precipitation",
+		"value": 8.70508870960441
+	},
+	{
+		"key": "8.70508870960441",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "blotting",
+		"value": 8.70508870960441
+	},
+	{
+		"key": "8.09548927648108",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "milk",
+		"value": 8.09548927648108
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "fine",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "7.16027374823366",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "samples",
+		"value": 7.16027374823366
+	},
+	{
+		"key": "6.80506536321624",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "proteins",
+		"value": 6.80506536321624
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "chasselas",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "fined",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "swiss",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "canton",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "allergen",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.2556053500081",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "residues",
+		"value": 6.2556053500081
+	},
+	{
+		"key": "5.69899339145128",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "wines",
+		"value": 5.69899339145128
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "precipitated",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "coarse",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.15167499412432",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "reference",
+		"value": 5.15167499412432
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "band",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "elisa",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "ovocol",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.82222517738185",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "quantification",
+		"value": 4.82222517738185
+	},
+	{
+		"key": "4.67609714170362",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "agents",
+		"value": 4.67609714170362
+	},
+	{
+		"key": "4.41572142353513",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "af",
+		"value": 4.41572142353513
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "official",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "skim",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "noir",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "pinot",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "regulation",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.88860877898071",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "anti",
+		"value": 3.88860877898071
+	},
+	{
+		"key": "3.88860877898071",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "spiked",
+		"value": 3.88860877898071
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "gel",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "bottled",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "allergens",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "protoclar",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "visible",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "regulations",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "accessed",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "estimated",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "european",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "precise",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "sterile",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "search",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "nr",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "monaci",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "losito",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "valais",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "rad",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "caseins",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "bio",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "merlot",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "egg",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "loaded",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "limit",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "switzerland",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "dosage",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "immunoblot",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "immunoblotting",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "allergic",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "gamay",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "service",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "blot",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "weber",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "mattarozzi",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "federal",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "du",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "reasons",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "easily",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "technique",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "blank",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "analyzed",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "volumes",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.34313763707146",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "sample",
+		"value": 2.34313763707146
+	},
+	{
+		"key": "2.33804857085181",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "gl",
+		"value": 2.33804857085181
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "pa",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "specificity",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "quantitative",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "efficient",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "bands",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "interestingly",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "allergy",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.19192053517357",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "detected",
+		"value": 2.19192053517357
+	},
+	{
+		"key": "2.18734243817665",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "methanol",
+		"value": 2.18734243817665
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "deckwart",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "des",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "duplicates",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "oenology",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Meyer_et_al-2015-Journal_of_Food_Science.txt",
+		"subregion": "ordonnance",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "65.2881653220331",
+		"region": "molecules-20-14312.txt",
+		"subregion": "pani",
+		"value": 65.2881653220331
+	},
+	{
+		"key": "27.2302821118",
+		"region": "molecules-20-14312.txt",
+		"subregion": "eg",
+		"value": 27.2302821118
+	},
+	{
+		"key": "25.571198084463",
+		"region": "molecules-20-14312.txt",
+		"subregion": "pml",
+		"value": 25.571198084463
+	},
+	{
+		"key": "17.4987395054132",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ep",
+		"value": 17.4987395054132
+	},
+	{
+		"key": "13.6151410559",
+		"region": "molecules-20-14312.txt",
+		"subregion": "es",
+		"value": 13.6151410559
+	},
+	{
+		"key": "13.6151410559",
+		"region": "molecules-20-14312.txt",
+		"subregion": "eb",
+		"value": 13.6151410559
+	},
+	{
+		"key": "11.0393035588378",
+		"region": "molecules-20-14312.txt",
+		"subregion": "polymers",
+		"value": 11.0393035588378
+	},
+	{
+		"key": "11.0393035588378",
+		"region": "molecules-20-14312.txt",
+		"subregion": "volatile",
+		"value": 11.0393035588378
+	},
+	{
+		"key": "10.3372928426552",
+		"region": "molecules-20-14312.txt",
+		"subregion": "polyaniline",
+		"value": 10.3372928426552
+	},
+	{
+		"key": "6.6235821353027",
+		"region": "molecules-20-14312.txt",
+		"subregion": "removal",
+		"value": 6.6235821353027
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "molecules-20-14312.txt",
+		"subregion": "contact",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "molecules-20-14312.txt",
+		"subregion": "phenolics",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.88762856471351",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ga",
+		"value": 5.88762856471351
+	},
+	{
+		"key": "5.88762856471351",
+		"region": "molecules-20-14312.txt",
+		"subregion": "mc",
+		"value": 5.88762856471351
+	},
+	{
+		"key": "5.58987511978477",
+		"region": "molecules-20-14312.txt",
+		"subregion": "pl",
+		"value": 5.58987511978477
+	},
+	{
+		"key": "5.51965177941892",
+		"region": "molecules-20-14312.txt",
+		"subregion": "polymer",
+		"value": 5.51965177941892
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "molecules-20-14312.txt",
+		"subregion": "base",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "molecules-20-14312.txt",
+		"subregion": "charts",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "molecules-20-14312.txt",
+		"subregion": "pareto",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "molecules-20-14312.txt",
+		"subregion": "methylcatechol",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.2377130346689",
+		"region": "molecules-20-14312.txt",
+		"subregion": "phenols",
+		"value": 4.2377130346689
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ethylguaiacol",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ethylphenol",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "molecules-20-14312.txt",
+		"subregion": "gallic",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "molecules-20-14312.txt",
+		"subregion": "brettanomyces",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "emeraldine",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "emeraldin",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "whilst",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "salt",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "standardized",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "talca",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "molecules-20-14312.txt",
+		"subregion": "surfaces",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "molecules-20-14312.txt",
+		"subregion": "solutions",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "molecules-20-14312.txt",
+		"subregion": "models",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "molecules-20-14312.txt",
+		"subregion": "estimated",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "molecules-20-14312.txt",
+		"subregion": "treatments",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.87871195411637",
+		"region": "molecules-20-14312.txt",
+		"subregion": "concentration",
+		"value": 2.87871195411637
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "molecules-20-14312.txt",
+		"subregion": "degrees",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "molecules-20-14312.txt",
+		"subregion": "freedom",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "molecules-20-14312.txt",
+		"subregion": "folin",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "molecules-20-14312.txt",
+		"subregion": "utalca",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "molecules-20-14312.txt",
+		"subregion": "capacity",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "molecules-20-14312.txt",
+		"subregion": "interaction",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ab",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ranged",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "molecules-20-14312.txt",
+		"subregion": "affinity",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "sorption",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "alexandre",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "chile",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "simplified",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "laurie",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "characterization",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "molecules-20-14312.txt",
+		"subregion": "carrasco",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.04579249949533",
+		"region": "molecules-20-14312.txt",
+		"subregion": "solution",
+		"value": 2.04579249949533
+	},
+	{
+		"key": "2.0084036889184",
+		"region": "molecules-20-14312.txt",
+		"subregion": "model",
+		"value": 2.0084036889184
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "molecules-20-14312.txt",
+		"subregion": "trials",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "molecules-20-14312.txt",
+		"subregion": "character",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "molecules-20-14312.txt",
+		"subregion": "quechers",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.74061653039594",
+		"region": "molecules-20-14312.txt",
+		"subregion": "retention",
+		"value": 1.74061653039594
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "molecules-20-14312.txt",
+		"subregion": "statistically",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "molecules-20-14312.txt",
+		"subregion": "molecules",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "molecules-20-14312.txt",
+		"subregion": "spiked",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "molecules-20-14312.txt",
+		"subregion": "dad",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "molecules-20-14312.txt",
+		"subregion": "confidence",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "amine",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "trapping",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "universidad",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "imine",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "chassagne",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "nchez",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "bruxellensis",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "polyanaline",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "retained",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "varied",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "merck",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "darmstadt",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ciocalteu",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.63220413305083",
+		"region": "molecules-20-14312.txt",
+		"subregion": "psa",
+		"value": 1.63220413305083
+	},
+	{
+		"key": "1.60740839246062",
+		"region": "molecules-20-14312.txt",
+		"subregion": "wines",
+		"value": 1.60740839246062
+	},
+	{
+		"key": "1.60740839246062",
+		"region": "molecules-20-14312.txt",
+		"subregion": "percentage",
+		"value": 1.60740839246062
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "john",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "coefficients",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "sodium",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "cl",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "capable",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "phenol",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "critical",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "santos",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "equations",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "sensory",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "explained",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "vinylphenol",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.47190714117838",
+		"region": "molecules-20-14312.txt",
+		"subregion": "optimization",
+		"value": 1.47190714117838
+	},
+	{
+		"key": "1.46128035678238",
+		"region": "molecules-20-14312.txt",
+		"subregion": "ml",
+		"value": 1.46128035678238
+	},
+	{
+		"key": "1.46128035678238",
+		"region": "molecules-20-14312.txt",
+		"subregion": "treated",
+		"value": 1.46128035678238
+	},
+	{
+		"key": "1.45822829211777",
+		"region": "molecules-20-14312.txt",
+		"subregion": "extraction",
+		"value": 1.45822829211777
+	},
+	{
+		"key": "1.45822829211777",
+		"region": "molecules-20-14312.txt",
+		"subregion": "blue",
+		"value": 1.45822829211777
+	},
+	{
+		"key": "1.31515232110414",
+		"region": "molecules-20-14312.txt",
+		"subregion": "samples",
+		"value": 1.31515232110414
+	},
+	{
+		"key": "1.21519024343147",
+		"region": "molecules-20-14312.txt",
+		"subregion": "instance",
+		"value": 1.21519024343147
+	},
+	{
+		"key": "1.21519024343147",
+		"region": "molecules-20-14312.txt",
+		"subregion": "microbiol",
+		"value": 1.21519024343147
+	},
+	{
+		"key": "37.6708975463756",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "resveratrol",
+		"value": 37.6708975463756
+	},
+	{
+		"key": "17.2949089088459",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "autophagy",
+		"value": 17.2949089088459
+	},
+	{
+		"key": "15.455024982373",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "heart",
+		"value": 15.455024982373
+	},
+	{
+		"key": "15.2339052418077",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cardiac",
+		"value": 15.2339052418077
+	},
+	{
+		"key": "11.4254289313558",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "stem",
+		"value": 11.4254289313558
+	},
+	{
+		"key": "11.4072803441324",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cells",
+		"value": 11.4072803441324
+	},
+	{
+		"key": "11.4072803441324",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "stress",
+		"value": 11.4072803441324
+	},
+	{
+		"key": "9.93537320295405",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "survival",
+		"value": 9.93537320295405
+	},
+	{
+		"key": "8.09548927648108",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "protein",
+		"value": 8.09548927648108
+	},
+	{
+		"key": "7.61695262090386",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "adaptive",
+		"value": 7.61695262090386
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "endothelial",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "induce",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "redox",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cardioprotection",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "6.2556053500081",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "induced",
+		"value": 6.2556053500081
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "no",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "hearts",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cardioprotective",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "sirt",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "regeneration",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "acad",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "petrovski",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "ann",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "injury",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.10379902241218",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "doses",
+		"value": 5.10379902241218
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "myocardium",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "pc",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.89661239915248",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "ischemic",
+		"value": 4.89661239915248
+	},
+	{
+		"key": "4.78369820882973",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "death",
+		"value": 4.78369820882973
+	},
+	{
+		"key": "4.41572142353513",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "rats",
+		"value": 4.41572142353513
+	},
+	{
+		"key": "4.41572142353513",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "function",
+		"value": 4.41572142353513
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "kinase",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "span",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "mtor",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "autophagic",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "proliferation",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.13164682766701",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "expression",
+		"value": 4.13164682766701
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "enhanced",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "genes",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "ischemia",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "reperfusion",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "vegf",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "intracellular",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "induction",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "calorie",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "atherosclerosis",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "et",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "obesity",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "ventricular",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "signaling",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "inflammation",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "oxidative",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "hormesis",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "benefits",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "hormetic",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "akt",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "environment",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cardiovascular",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "pathways",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "mice",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "therapy",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "life",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "mediated",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "action",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.91645658423553",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "proteins",
+		"value": 2.91645658423553
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "lysosomal",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "aggregation",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "maintaining",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "improved",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "myocardial",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "infarct",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "attenuated",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "rat",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "improvement",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "evidenced",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "phosphorylation",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "lad",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "infracted",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.67341853554924",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "academy",
+		"value": 2.67341853554924
+	},
+	{
+		"key": "2.63030464220828",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "response",
+		"value": 2.63030464220828
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "insulin",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "diabetes",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "york",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "disease",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.20924405781024",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cell",
+		"value": 2.20924405781024
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "blood",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "angiogenesis",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "oil",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "longevity",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "apoptosis",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "hypertension",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "alcohol",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.19192053517357",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "factor",
+		"value": 2.19192053517357
+	},
+	{
+		"key": "2.18734243817665",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "restriction",
+		"value": 2.18734243817665
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "resistant",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cvds",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "cytosolic",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "plaque",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "extracellular",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Resveratrol_in_cardiovascular_health_and_disease.txt",
+		"subregion": "potentiate",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "38.4000116924345",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "extraction",
+		"value": 38.4000116924345
+	},
+	{
+		"key": "16.3220413305083",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "flavonoids",
+		"value": 16.3220413305083
+	},
+	{
+		"key": "14.7190714117838",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "organic",
+		"value": 14.7190714117838
+	},
+	{
+		"key": "11.9694969757061",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "anthocyanins",
+		"value": 11.9694969757061
+	},
+	{
+		"key": "11.9694969757061",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "flavan",
+		"value": 11.9694969757061
+	},
+	{
+		"key": "11.0393035588378",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "glucoside",
+		"value": 11.0393035588378
+	},
+	{
+		"key": "10.9367121908832",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "temperature",
+		"value": 10.9367121908832
+	},
+	{
+		"key": "10.8813608870055",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "modifier",
+		"value": 10.8813608870055
+	},
+	{
+		"key": "10.8813608870055",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "diglucoside",
+		"value": 10.8813608870055
+	},
+	{
+		"key": "9.64445035476371",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "solvent",
+		"value": 9.64445035476371
+	},
+	{
+		"key": "9.24915675395468",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ols",
+		"value": 9.24915675395468
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "uae",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "cyanidin",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "7.07288457655358",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ultrasound",
+		"value": 7.07288457655358
+	},
+	{
+		"key": "6.99155892059729",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "optimal",
+		"value": 6.99155892059729
+	},
+	{
+		"key": "6.52881653220331",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "procyanidin",
+		"value": 6.52881653220331
+	},
+	{
+		"key": "5.98474848785303",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "desirability",
+		"value": 5.98474848785303
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "flavonol",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "yield",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "glucuronide",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "delphinidin",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.44068044350276",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "peonidin",
+		"value": 5.44068044350276
+	},
+	{
+		"key": "5.34683707109848",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "acetonitrile",
+		"value": 5.34683707109848
+	},
+	{
+		"key": "5.15167499412432",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "quercetin",
+		"value": 5.15167499412432
+	},
+	{
+		"key": "5.11448124873833",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "grape",
+		"value": 5.11448124873833
+	},
+	{
+		"key": "5.10379902241218",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ratio",
+		"value": 5.10379902241218
+	},
+	{
+		"key": "4.86076097372589",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "solid",
+		"value": 4.86076097372589
+	},
+	{
+		"key": "4.78369820882973",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "skin",
+		"value": 4.78369820882973
+	},
+	{
+		"key": "4.61772292503959",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "individual",
+		"value": 4.61772292503959
+	},
+	{
+		"key": "4.41572142353513",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "malvidin",
+		"value": 4.41572142353513
+	},
+	{
+		"key": "4.41572142353513",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "skins",
+		"value": 4.41572142353513
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "myricetin",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "glycosides",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.3525443548022",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "zagreb",
+		"value": 4.3525443548022
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "supporting",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "optimisation",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "4.04774463824054",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "duration",
+		"value": 4.04774463824054
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "fgc",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "rsm",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "anthocyanin",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.80847631045193",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "fc",
+		"value": 3.80847631045193
+	},
+	{
+		"key": "3.67976785294594",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "assisted",
+		"value": 3.67976785294594
+	},
+	{
+		"key": "3.64557073029442",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "methodology",
+		"value": 3.64557073029442
+	},
+	{
+		"key": "3.40253268160812",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "recovery",
+		"value": 3.40253268160812
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "appropriate",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "formic",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.31179106765135",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "solvents",
+		"value": 3.31179106765135
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "extractions",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ultrasonic",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "kaempferol",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "epigallocatechin",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "glc",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "wiley",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.26440826610165",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "gallocatechin",
+		"value": 3.26440826610165
+	},
+	{
+		"key": "3.21481678492124",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "percentage",
+		"value": 3.21481678492124
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "extracts",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "3.15949463292183",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "steps",
+		"value": 3.15949463292183
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "predicted",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "epicatechin",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "longer",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.94381428235676",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ac",
+		"value": 2.94381428235676
+	},
+	{
+		"key": "2.92256071356476",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "xc",
+		"value": 2.92256071356476
+	},
+	{
+		"key": "2.77643267788652",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ml",
+		"value": 2.77643267788652
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "vivc",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "maturity",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.72034022175138",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "croatia",
+		"value": 2.72034022175138
+	},
+	{
+		"key": "2.57583749706216",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "catechin",
+		"value": 2.57583749706216
+	},
+	{
+		"key": "2.43038048686294",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "range",
+		"value": 2.43038048686294
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "responses",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "rutin",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "constant",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.20786071176757",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "analysed",
+		"value": 2.20786071176757
+	},
+	{
+		"key": "2.19192053517357",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "response",
+		"value": 2.19192053517357
+	},
+	{
+		"key": "2.19192053517357",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ethanol",
+		"value": 2.19192053517357
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "tomaz",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "dglc",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "flavonols",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "bbd",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "sonication",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "glycoside",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "sons",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "vilkhu",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "ol",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "fld",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "completed",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "flavonoid",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "copyright",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "majority",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.1762721774011",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "cavitation",
+		"value": 2.1762721774011
+	},
+	{
+		"key": "2.04579249949533",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "acetone",
+		"value": 2.04579249949533
+	},
+	{
+		"key": "1.94430438949036",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "three",
+		"value": 1.94430438949036
+	},
+	{
+		"key": "1.94430438949036",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "design",
+		"value": 1.94430438949036
+	},
+	{
+		"key": "1.89966446381709",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "step",
+		"value": 1.89966446381709
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "temperatures",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "rsd",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "function",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "transfer",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.83988392647297",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "tannins",
+		"value": 1.83988392647297
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "examined",
+		"value": 1.70126634080406
+	},
+	{
+		"key": "1.70126634080406",
+		"region": "Tomaz_et_al-2015-Phytochemical_Analysis.txt",
+		"subregion": "contents",
+		"value": 1.70126634080406
+	}
+]
