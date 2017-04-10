@@ -1,7 +1,7 @@
 #print "\n\n\t\####### Welcome to the word counting software ####### \n\n";
 
 print "Please input the reporter:";
-$TEXTfile='Single_article_mode\\temp.txt';
+$TEXTfile='temp.txt';
 $TEXTfile=~s/\"//g;#要是路徑有空格，路徑外部會用""套住，導致路徑字串無法啟動
 chomp $TEXTfile;
 unless (open(TEXT,$TEXTfile) ) {
@@ -75,7 +75,7 @@ $htmlEnd ='];
 	# $merged[$i] =~s/\d//g;#刪除所有單一數字
 # }
 
-open (PROTO,">Single_article_mode\\RawCloud.html")||die "File open error!";
+open (PROTO,">RawCloud.html")||die "File open error!";
 
 printf PROTO ($htmlStart);
 

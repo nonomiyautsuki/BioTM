@@ -1,5 +1,5 @@
 print "Please input the reporter:";
-$textfile="Single_article_mode\\temp.txt";
+$textfile="temp.txt";
 $textfile=~s/\"//g;#要是路徑有空格，路徑外部會用""套住，導致路徑字串無法啟動
 
 chomp $textfile;#去除變數中的換行字元(並非文章中)
@@ -12009,7 +12009,7 @@ $htmlEnd ='		]
 </body>
 </html>';
 
-open (MATCH,">Single_article_mode\\cross diseases databace.html")||die "File open error!";
+open (MATCH,">cross diseases databace.html")||die "File open error!";
 printf MATCH ($htmlStart);
 $count=1;
 

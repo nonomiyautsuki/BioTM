@@ -1,5 +1,5 @@
 #print "Please input the reporter:";
-$textfile="Single_article_mode\\temp.txt";#空白路徑問題無法解決，要由底下的code複合才可
+$textfile="temp.txt";#空白路徑問題無法解決，要由底下的code複合才可
 $textfile=~s/\"//g;#要是路徑有空格，路徑外部會用""套住，導致路徑字串無法啟動
 
 chomp $textfile;#去除變數中的換行字元(並非文章中)
@@ -115,7 +115,7 @@ $htmlEnd ='		]
 
 
 
-open (proto,">Single_article_mode\\All upper case to d3pie.html")||die "File open error!";
+open (proto,">All upper case to d3pie.html")||die "File open error!";
 printf proto ($htmlStart);
 $count=1;
 

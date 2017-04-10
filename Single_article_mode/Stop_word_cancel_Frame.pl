@@ -1373,7 +1373,7 @@ for($i=0;$i<@merged;$i++){
 
 		
 		
-open (proto,">Single_article_mode\\temp.txt")||die "File open error!";
+open (proto,">temp.txt")||die "File open error!";
 printf proto ($merged);
 	
 for($i=0;$i<@merged;$i++){
