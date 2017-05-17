@@ -182,13 +182,13 @@
 	{
 		"key": "7.00336125345279",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "chamber",
+		"subregion": "tdmps",
 		"value": 7.00336125345279
 	},
 	{
 		"key": "7.00336125345279",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "tdmps",
+		"subregion": "chamber",
 		"value": 7.00336125345279
 	},
 	{
@@ -266,13 +266,13 @@
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "cluster",
+		"subregion": "dec",
 		"value": 5.56302500767287
 	},
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "dec",
+		"subregion": "cluster",
 		"value": 5.56302500767287
 	},
 	{
@@ -296,13 +296,13 @@
 	{
 		"key": "5.22917865346936",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "pollution",
+		"subregion": "chemical",
 		"value": 5.22917865346936
 	},
 	{
 		"key": "5.22917865346936",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "chemical",
+		"subregion": "pollution",
 		"value": 5.22917865346936
 	},
 	{
@@ -338,12 +338,6 @@
 	{
 		"key": "4.66890750230186",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "mobility",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "sharp",
 		"value": 4.66890750230186
 	},
@@ -354,16 +348,16 @@
 		"value": 4.66890750230186
 	},
 	{
+		"key": "4.66890750230186",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "mobility",
+		"value": 4.66890750230186
+	},
+	{
 		"key": "4.59251227076224",
 		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "zhang",
 		"value": 4.59251227076224
-	},
-	{
-		"key": "4.51191911597954",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "enhanced",
-		"value": 4.51191911597954
 	},
 	{
 		"key": "4.51191911597954",
@@ -378,10 +372,10 @@
 		"value": 4.51191911597954
 	},
 	{
-		"key": "4.4504200061383",
+		"key": "4.51191911597954",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "ch",
-		"value": 4.4504200061383
+		"subregion": "enhanced",
+		"value": 4.51191911597954
 	},
 	{
 		"key": "4.4504200061383",
@@ -392,7 +386,7 @@
 	{
 		"key": "4.4504200061383",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "sizes",
+		"subregion": "ch",
 		"value": 4.4504200061383
 	},
 	{
@@ -414,6 +408,12 @@
 		"value": 4.4504200061383
 	},
 	{
+		"key": "4.4504200061383",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "sizes",
+		"value": 4.4504200061383
+	},
+	{
 		"key": "4.38120373669055",
 		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "concentration",
@@ -422,13 +422,13 @@
 	{
 		"key": "4.10174465089049",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "episode",
+		"subregion": "soa",
 		"value": 4.10174465089049
 	},
 	{
 		"key": "4.10174465089049",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "soa",
+		"subregion": "episode",
 		"value": 4.10174465089049
 	},
 	{
@@ -446,13 +446,13 @@
 	{
 		"key": "3.91338994363176",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "river",
+		"subregion": "beijing",
 		"value": 3.91338994363176
 	},
 	{
 		"key": "3.91338994363176",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "beijing",
+		"subregion": "river",
 		"value": 3.91338994363176
 	},
 	{
@@ -470,6 +470,12 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "inorganics",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "ppb",
 		"value": 3.89075625191822
 	},
@@ -482,25 +488,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "nov",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "calibration",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "fitted",
+		"subregion": "nov",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "inorganics",
+		"subregion": "fitted",
 		"value": 3.89075625191822
 	},
 	{
@@ -512,26 +512,14 @@
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "xc",
+		"subregion": "transported",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "transported",
+		"subregion": "xc",
 		"value": 3.33781500460372
-	},
-	{
-		"key": "3.28139572071239",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "largest",
-		"value": 3.28139572071239
-	},
-	{
-		"key": "3.28139572071239",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "events",
-		"value": 3.28139572071239
 	},
 	{
 		"key": "3.28139572071239",
@@ -542,8 +530,26 @@
 	{
 		"key": "3.28139572071239",
 		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "largest",
+		"value": 3.28139572071239
+	},
+	{
+		"key": "3.28139572071239",
+		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "volatility",
 		"value": 3.28139572071239
+	},
+	{
+		"key": "3.28139572071239",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "events",
+		"value": 3.28139572071239
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "hua",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
@@ -560,25 +566,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "analyzer",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "maap",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "ce",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "hua",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "automatic",
+		"subregion": "canagaratna",
 		"value": 3.11260500153457
 	},
 	{
@@ -590,13 +590,13 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "station",
+		"subregion": "ce",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "analyzer",
+		"subregion": "automatic",
 		"value": 3.11260500153457
 	},
 	{
@@ -746,7 +746,7 @@
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "tianjin",
+		"subregion": "height",
 		"value": 5.56302500767287
 	},
 	{
@@ -758,7 +758,7 @@
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "height",
+		"subregion": "tianjin",
 		"value": 5.56302500767287
 	},
 	{
@@ -770,13 +770,13 @@
 	{
 		"key": "5.4470587526855",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "simulated",
+		"subregion": "xhs",
 		"value": 5.4470587526855
 	},
 	{
 		"key": "5.4470587526855",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "xhs",
+		"subregion": "simulated",
 		"value": 5.4470587526855
 	},
 	{
@@ -812,7 +812,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "module",
+		"subregion": "southerly",
 		"value": 4.66890750230186
 	},
 	{
@@ -824,7 +824,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "southerly",
+		"subregion": "module",
 		"value": 4.66890750230186
 	},
 	{
@@ -848,13 +848,13 @@
 	{
 		"key": "4.4504200061383",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "transported",
+		"subregion": "modeling",
 		"value": 4.4504200061383
 	},
 	{
 		"key": "4.4504200061383",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "modeling",
+		"subregion": "transported",
 		"value": 4.4504200061383
 	},
 	{
@@ -902,12 +902,6 @@
 	{
 		"key": "3.89411750537101",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "accumulation",
-		"value": 3.89411750537101
-	},
-	{
-		"key": "3.89411750537101",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "tang",
 		"value": 3.89411750537101
 	},
@@ -932,19 +926,19 @@
 	{
 		"key": "3.89411750537101",
 		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "accumulation",
+		"value": 3.89411750537101
+	},
+	{
+		"key": "3.89411750537101",
+		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "apportionment",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "handan",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "shijiazhuang",
+		"subregion": "altitude",
 		"value": 3.89075625191822
 	},
 	{
@@ -956,19 +950,25 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "altitude",
+		"subregion": "shijiazhuang",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "bj",
+		"subregion": "handan",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "xingtai",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "bj",
 		"value": 3.89075625191822
 	},
 	{
@@ -986,13 +986,19 @@
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "aged",
+		"subregion": "reached",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "gaseous",
+		"subregion": "geophys",
+		"value": 3.33781500460372
+	},
+	{
+		"key": "3.33781500460372",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "aged",
 		"value": 3.33781500460372
 	},
 	{
@@ -1010,7 +1016,7 @@
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "reached",
+		"subregion": "gaseous",
 		"value": 3.33781500460372
 	},
 	{
@@ -1020,21 +1026,15 @@
 		"value": 3.33781500460372
 	},
 	{
-		"key": "3.33781500460372",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "geophys",
-		"value": 3.33781500460372
-	},
-	{
 		"key": "3.28139572071239",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "secondary",
+		"subregion": "meteorological",
 		"value": 3.28139572071239
 	},
 	{
 		"key": "3.28139572071239",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "meteorological",
+		"subregion": "secondary",
 		"value": 3.28139572071239
 	},
 	{
@@ -1046,37 +1046,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "prediction",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "mix",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "tagging",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "nested",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "web",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "reproduced",
+		"subregion": "controls",
 		"value": 3.11260500153457
 	},
 	{
@@ -1088,19 +1058,49 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "hengshui",
+		"subregion": "prediction",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "controls",
+		"subregion": "reproduced",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "mountains",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "tagging",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "web",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "nested",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "mix",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "hengshui",
 		"value": 3.11260500153457
 	},
 	{
@@ -1112,25 +1112,25 @@
 	{
 		"key": "2.87122125562335",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "episodes",
+		"subregion": "deposition",
 		"value": 2.87122125562335
 	},
 	{
 		"key": "2.87122125562335",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "deposition",
+		"subregion": "episodes",
 		"value": 2.87122125562335
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "profile",
+		"subregion": "emitted",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "emitted",
+		"subregion": "profile",
 		"value": 2.78151250383644
 	},
 	{
@@ -1166,12 +1166,6 @@
 	{
 		"key": "2.4610467905343",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "hn",
-		"value": 2.4610467905343
-	},
-	{
-		"key": "2.4610467905343",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "province",
 		"value": 2.4610467905343
 	},
@@ -1182,9 +1176,15 @@
 		"value": 2.4610467905343
 	},
 	{
+		"key": "2.4610467905343",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "hn",
+		"value": 2.4610467905343
+	},
+	{
 		"key": "2.40823996531185",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "production",
+		"subregion": "wind",
 		"value": 2.40823996531185
 	},
 	{
@@ -1196,7 +1196,7 @@
 	{
 		"key": "2.40823996531185",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "wind",
+		"subregion": "production",
 		"value": 2.40823996531185
 	},
 	{
@@ -1250,13 +1250,13 @@
 	{
 		"key": "16.3411762580565",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "inhibitor",
+		"subregion": "qtl",
 		"value": 16.3411762580565
 	},
 	{
 		"key": "16.3411762580565",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "qtl",
+		"subregion": "inhibitor",
 		"value": 16.3411762580565
 	},
 	{
@@ -1328,13 +1328,13 @@
 	{
 		"key": "9.33781500460372",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "kda",
+		"subregion": "ye",
 		"value": 9.33781500460372
 	},
 	{
 		"key": "9.33781500460372",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "ye",
+		"subregion": "kda",
 		"value": 9.33781500460372
 	},
 	{
@@ -1346,13 +1346,13 @@
 	{
 		"key": "8.55966375422008",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "brewing",
+		"subregion": "cme",
 		"value": 8.55966375422008
 	},
 	{
 		"key": "8.55966375422008",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "cme",
+		"subregion": "brewing",
 		"value": 8.55966375422008
 	},
 	{
@@ -1370,25 +1370,25 @@
 	{
 		"key": "7.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "mloc_",
-		"value": 7.78151250383644
-	},
-	{
-		"key": "7.78151250383644",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "morex_contig_",
 		"value": 7.78151250383644
 	},
 	{
 		"key": "7.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "growing",
+		"subregion": "genetic",
 		"value": 7.78151250383644
 	},
 	{
 		"key": "7.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "genetic",
+		"subregion": "mloc_",
+		"value": 7.78151250383644
+	},
+	{
+		"key": "7.78151250383644",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "growing",
 		"value": 7.78151250383644
 	},
 	{
@@ -1412,12 +1412,6 @@
 	{
 		"key": "6.22521000306915",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "agric",
-		"value": 6.22521000306915
-	},
-	{
-		"key": "6.22521000306915",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "lc",
 		"value": 6.22521000306915
 	},
@@ -1428,9 +1422,15 @@
 		"value": 6.22521000306915
 	},
 	{
+		"key": "6.22521000306915",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "agric",
+		"value": 6.22521000306915
+	},
+	{
 		"key": "5.74244251124669",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "stability",
+		"subregion": "markers",
 		"value": 5.74244251124669
 	},
 	{
@@ -1442,7 +1442,7 @@
 	{
 		"key": "5.74244251124669",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "markers",
+		"subregion": "stability",
 		"value": 5.74244251124669
 	},
 	{
@@ -1460,25 +1460,25 @@
 	{
 		"key": "5.00672250690558",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "genes",
+		"subregion": "xc",
 		"value": 5.00672250690558
 	},
 	{
 		"key": "5.00672250690558",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "xc",
+		"subregion": "genes",
 		"value": 5.00672250690558
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "proteomics",
+		"subregion": "chromosome",
 		"value": 4.66890750230186
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "hordeum",
+		"subregion": "genotypes",
 		"value": 4.66890750230186
 	},
 	{
@@ -1490,49 +1490,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "indel",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "yeast",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "bands",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "colloidal",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "trait",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "polymorphism",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "malting",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "chromosome",
 		"value": 4.66890750230186
 	},
 	{
@@ -1544,7 +1502,49 @@
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "genotypes",
+		"subregion": "polymorphism",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "yeast",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "indel",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "bands",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "hordeum",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "malting",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "colloidal",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "proteomics",
 		"value": 4.66890750230186
 	},
 	{
@@ -1574,7 +1574,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "micro",
+		"subregion": "haploid",
 		"value": 3.89075625191822
 	},
 	{
@@ -1586,7 +1586,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "haploid",
+		"subregion": "micro",
 		"value": 3.89075625191822
 	},
 	{
@@ -1604,13 +1604,13 @@
 	{
 		"key": "3.33781500460372",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "genome",
+		"subregion": "bp",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "bp",
+		"subregion": "genome",
 		"value": 3.33781500460372
 	},
 	{
@@ -1628,7 +1628,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "candidate",
+		"subregion": "dai",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "methanol",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "hydrophobic",
 		"value": 3.11260500153457
 	},
 	{
@@ -1640,31 +1652,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "inhibitors",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "ly",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "baticmd",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "allelic",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "agriculture",
+		"subregion": "brew",
 		"value": 3.11260500153457
 	},
 	{
@@ -1676,7 +1664,43 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "brew",
+		"subregion": "agriculture",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "allelic",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "inhibitors",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "baticmd",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "glyceraldehyde",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "chloroform",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "candidate",
 		"value": 3.11260500153457
 	},
 	{
@@ -1694,31 +1718,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "glyceraldehyde",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "methanol",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "chloroform",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "dai",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "hydrophobic",
+		"subregion": "ly",
 		"value": 3.11260500153457
 	},
 	{
@@ -1742,19 +1742,19 @@
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
+		"subregion": "sample",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "12864_2015_Article_1683.txt",
 		"subregion": "seed",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "loci",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "sample",
+		"subregion": "software",
 		"value": 2.78151250383644
 	},
 	{
@@ -1766,7 +1766,7 @@
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "software",
+		"subregion": "loci",
 		"value": 2.78151250383644
 	},
 	{
@@ -1988,13 +1988,13 @@
 	{
 		"key": "7.00336125345279",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "submicron",
+		"subregion": "chamber",
 		"value": 7.00336125345279
 	},
 	{
 		"key": "7.00336125345279",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "chamber",
+		"subregion": "submicron",
 		"value": 7.00336125345279
 	},
 	{
@@ -2066,13 +2066,13 @@
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "cluster",
+		"subregion": "dec",
 		"value": 5.56302500767287
 	},
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "dec",
+		"subregion": "cluster",
 		"value": 5.56302500767287
 	},
 	{
@@ -2084,13 +2084,13 @@
 	{
 		"key": "5.33226804615764",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "transport",
+		"subregion": "delta",
 		"value": 5.33226804615764
 	},
 	{
 		"key": "5.33226804615764",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "delta",
+		"subregion": "transport",
 		"value": 5.33226804615764
 	},
 	{
@@ -2120,13 +2120,13 @@
 	{
 		"key": "4.8164799306237",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "lin",
+		"subregion": "nox",
 		"value": 4.8164799306237
 	},
 	{
 		"key": "4.8164799306237",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "nox",
+		"subregion": "lin",
 		"value": 4.8164799306237
 	},
 	{
@@ -2162,12 +2162,6 @@
 	{
 		"key": "4.51191911597954",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "enhanced",
-		"value": 4.51191911597954
-	},
-	{
-		"key": "4.51191911597954",
-		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "emissions",
 		"value": 4.51191911597954
 	},
@@ -2176,6 +2170,30 @@
 		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "capacity",
 		"value": 4.51191911597954
+	},
+	{
+		"key": "4.51191911597954",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "enhanced",
+		"value": 4.51191911597954
+	},
+	{
+		"key": "4.4504200061383",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "combustion",
+		"value": 4.4504200061383
+	},
+	{
+		"key": "4.4504200061383",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "ch",
+		"value": 4.4504200061383
+	},
+	{
+		"key": "4.4504200061383",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "geophys",
+		"value": 4.4504200061383
 	},
 	{
 		"key": "4.4504200061383",
@@ -2192,25 +2210,7 @@
 	{
 		"key": "4.4504200061383",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "ch",
-		"value": 4.4504200061383
-	},
-	{
-		"key": "4.4504200061383",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "combustion",
-		"value": 4.4504200061383
-	},
-	{
-		"key": "4.4504200061383",
-		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "sizes",
-		"value": 4.4504200061383
-	},
-	{
-		"key": "4.4504200061383",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "geophys",
 		"value": 4.4504200061383
 	},
 	{
@@ -2222,13 +2222,13 @@
 	{
 		"key": "4.10174465089049",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "episode",
+		"subregion": "soa",
 		"value": 4.10174465089049
 	},
 	{
 		"key": "4.10174465089049",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "soa",
+		"subregion": "episode",
 		"value": 4.10174465089049
 	},
 	{
@@ -2246,13 +2246,13 @@
 	{
 		"key": "3.91338994363176",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "river",
+		"subregion": "beijing",
 		"value": 3.91338994363176
 	},
 	{
 		"key": "3.91338994363176",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "beijing",
+		"subregion": "river",
 		"value": 3.91338994363176
 	},
 	{
@@ -2282,7 +2282,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "jimenez",
+		"subregion": "calibration",
 		"value": 3.89075625191822
 	},
 	{
@@ -2294,13 +2294,13 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "calibration",
+		"subregion": "fitted",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "fitted",
+		"subregion": "jimenez",
 		"value": 3.89075625191822
 	},
 	{
@@ -2330,13 +2330,13 @@
 	{
 		"key": "3.28139572071239",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "volatility",
+		"subregion": "largest",
 		"value": 3.28139572071239
 	},
 	{
 		"key": "3.28139572071239",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "largest",
+		"subregion": "volatility",
 		"value": 3.28139572071239
 	},
 	{
@@ -2348,37 +2348,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "station",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "cho",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "analyzer",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "canagaratna",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "bay",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "trajectories",
 		"value": 3.11260500153457
 	},
 	{
@@ -2390,13 +2360,43 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
-		"subregion": "ce",
+		"subregion": "hua",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "trajectories",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "bay",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "canagaratna",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0048969715303016-main.txt",
 		"subregion": "automatic",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "cho",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0048969715303016-main.txt",
+		"subregion": "ce",
 		"value": 3.11260500153457
 	},
 	{
@@ -2468,25 +2468,25 @@
 	{
 		"key": "10.1159662549874",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "hcb",
+		"subregion": "sia",
 		"value": 10.1159662549874
 	},
 	{
 		"key": "10.1159662549874",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "sia",
+		"subregion": "hcb",
 		"value": 10.1159662549874
 	},
 	{
 		"key": "9.43401269704813",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "atmos",
+		"subregion": "local",
 		"value": 9.43401269704813
 	},
 	{
 		"key": "9.43401269704813",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "local",
+		"subregion": "atmos",
 		"value": 9.43401269704813
 	},
 	{
@@ -2552,13 +2552,13 @@
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "hourly",
+		"subregion": "height",
 		"value": 5.56302500767287
 	},
 	{
 		"key": "5.56302500767287",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "height",
+		"subregion": "hourly",
 		"value": 5.56302500767287
 	},
 	{
@@ -2570,6 +2570,12 @@
 	{
 		"key": "5.4470587526855",
 		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "xhs",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "provinces",
 		"value": 5.4470587526855
 	},
@@ -2577,12 +2583,6 @@
 		"key": "5.4470587526855",
 		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "simulated",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "xhs",
 		"value": 5.4470587526855
 	},
 	{
@@ -2612,13 +2612,13 @@
 	{
 		"key": "4.66890750230186",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "module",
+		"subregion": "cangzhou",
 		"value": 4.66890750230186
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "southerly",
+		"subregion": "module",
 		"value": 4.66890750230186
 	},
 	{
@@ -2630,7 +2630,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "cangzhou",
+		"subregion": "southerly",
 		"value": 4.66890750230186
 	},
 	{
@@ -2648,12 +2648,6 @@
 	{
 		"key": "4.4504200061383",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "modeling",
-		"value": 4.4504200061383
-	},
-	{
-		"key": "4.4504200061383",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "transported",
 		"value": 4.4504200061383
 	},
@@ -2661,6 +2655,12 @@
 		"key": "4.4504200061383",
 		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "southern",
+		"value": 4.4504200061383
+	},
+	{
+		"key": "4.4504200061383",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "modeling",
 		"value": 4.4504200061383
 	},
 	{
@@ -2702,18 +2702,6 @@
 	{
 		"key": "3.89411750537101",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "boundary",
-		"value": 3.89411750537101
-	},
-	{
-		"key": "3.89411750537101",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "tang",
-		"value": 3.89411750537101
-	},
-	{
-		"key": "3.89411750537101",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "accumulation",
 		"value": 3.89411750537101
 	},
@@ -2736,6 +2724,18 @@
 		"value": 3.89411750537101
 	},
 	{
+		"key": "3.89411750537101",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "boundary",
+		"value": 3.89411750537101
+	},
+	{
+		"key": "3.89411750537101",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "tang",
+		"value": 3.89411750537101
+	},
+	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "shijiazhuang",
@@ -2744,19 +2744,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "handan",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "presents",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "shaded",
 		"value": 3.89075625191822
 	},
 	{
@@ -2774,7 +2762,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "handan",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "altitude",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "shaded",
 		"value": 3.89075625191822
 	},
 	{
@@ -2786,19 +2786,13 @@
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "gaseous",
-		"value": 3.33781500460372
-	},
-	{
-		"key": "3.33781500460372",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "bc",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "aged",
+		"subregion": "gaseous",
 		"value": 3.33781500460372
 	},
 	{
@@ -2810,13 +2804,19 @@
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "geophys",
+		"subregion": "slow",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "slow",
+		"subregion": "aged",
+		"value": 3.33781500460372
+	},
+	{
+		"key": "3.33781500460372",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "geophys",
 		"value": 3.33781500460372
 	},
 	{
@@ -2846,25 +2846,31 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "web",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "tagging",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "nested",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "prediction",
+		"subregion": "hengshui",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "mix",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "nested",
 		"value": 3.11260500153457
 	},
 	{
@@ -2882,25 +2888,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "legend",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "hengshui",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "1-s2.0-S0269749117302993-main.txt",
 		"subregion": "reproduced",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "web",
+		"subregion": "prediction",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "legend",
 		"value": 3.11260500153457
 	},
 	{
@@ -2924,13 +2924,7 @@
 	{
 		"key": "2.78151250383644",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "emitted",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "profile",
+		"subregion": "precursors",
 		"value": 2.78151250383644
 	},
 	{
@@ -2942,13 +2936,19 @@
 	{
 		"key": "2.78151250383644",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "precursors",
+		"subregion": "jd",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "jd",
+		"subregion": "profile",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "1-s2.0-S0269749117302993-main.txt",
+		"subregion": "emitted",
 		"value": 2.78151250383644
 	},
 	{
@@ -2972,25 +2972,25 @@
 	{
 		"key": "2.4610467905343",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "located",
+		"subregion": "province",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.4610467905343",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "province",
+		"subregion": "located",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.40823996531185",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "production",
+		"subregion": "wind",
 		"value": 2.40823996531185
 	},
 	{
 		"key": "2.40823996531185",
 		"region": "1-s2.0-S0269749117302993-main.txt",
-		"subregion": "wind",
+		"subregion": "production",
 		"value": 2.40823996531185
 	},
 	{
@@ -3050,13 +3050,13 @@
 	{
 		"key": "16.3411762580565",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "inhibitor",
+		"subregion": "qtl",
 		"value": 16.3411762580565
 	},
 	{
 		"key": "16.3411762580565",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "qtl",
+		"subregion": "inhibitor",
 		"value": 16.3411762580565
 	},
 	{
@@ -3068,13 +3068,13 @@
 	{
 		"key": "14.7848737572892",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "trypsin",
+		"subregion": "amylase",
 		"value": 14.7848737572892
 	},
 	{
 		"key": "14.7848737572892",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "amylase",
+		"subregion": "trypsin",
 		"value": 14.7848737572892
 	},
 	{
@@ -3116,13 +3116,13 @@
 	{
 		"key": "10.1159662549874",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "file",
+		"subregion": "controlling",
 		"value": 10.1159662549874
 	},
 	{
 		"key": "10.1159662549874",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "controlling",
+		"subregion": "file",
 		"value": 10.1159662549874
 	},
 	{
@@ -3146,12 +3146,6 @@
 	{
 		"key": "8.55966375422008",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "brewing",
-		"value": 8.55966375422008
-	},
-	{
-		"key": "8.55966375422008",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "cme",
 		"value": 8.55966375422008
 	},
@@ -3159,6 +3153,12 @@
 		"key": "8.55966375422008",
 		"region": "12864_2015_Article_1683.txt",
 		"subregion": "ebc",
+		"value": 8.55966375422008
+	},
+	{
+		"key": "8.55966375422008",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "brewing",
 		"value": 8.55966375422008
 	},
 	{
@@ -3176,12 +3176,6 @@
 	{
 		"key": "7.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "morex_contig_",
-		"value": 7.78151250383644
-	},
-	{
-		"key": "7.78151250383644",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "growing",
 		"value": 7.78151250383644
 	},
@@ -3189,6 +3183,12 @@
 		"key": "7.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
 		"subregion": "genetic",
+		"value": 7.78151250383644
+	},
+	{
+		"key": "7.78151250383644",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "morex_contig_",
 		"value": 7.78151250383644
 	},
 	{
@@ -3212,13 +3212,13 @@
 	{
 		"key": "6.22521000306915",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "agric",
+		"subregion": "lc",
 		"value": 6.22521000306915
 	},
 	{
 		"key": "6.22521000306915",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "lc",
+		"subregion": "agric",
 		"value": 6.22521000306915
 	},
 	{
@@ -3230,7 +3230,7 @@
 	{
 		"key": "5.74244251124669",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "stability",
+		"subregion": "markers",
 		"value": 5.74244251124669
 	},
 	{
@@ -3242,7 +3242,7 @@
 	{
 		"key": "5.74244251124669",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "markers",
+		"subregion": "stability",
 		"value": 5.74244251124669
 	},
 	{
@@ -3260,55 +3260,19 @@
 	{
 		"key": "5.00672250690558",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "genes",
+		"subregion": "xc",
 		"value": 5.00672250690558
 	},
 	{
 		"key": "5.00672250690558",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "xc",
+		"subregion": "genes",
 		"value": 5.00672250690558
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "hordeum",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "proteomics",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "vulgare",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "indel",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "bands",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "yeast",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "colloidal",
 		"value": 4.66890750230186
 	},
 	{
@@ -3320,13 +3284,13 @@
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "polymorphism",
+		"subregion": "wort",
 		"value": 4.66890750230186
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "malting",
+		"subregion": "polymorphism",
 		"value": 4.66890750230186
 	},
 	{
@@ -3338,13 +3302,49 @@
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "wort",
+		"subregion": "genotypes",
 		"value": 4.66890750230186
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "genotypes",
+		"subregion": "colloidal",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "malting",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "proteomics",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "indel",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "yeast",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "hordeum",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "bands",
 		"value": 4.66890750230186
 	},
 	{
@@ -3428,7 +3428,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "candidate",
+		"subregion": "methanol",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "dai",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "hydrophobic",
 		"value": 3.11260500153457
 	},
 	{
@@ -3440,43 +3452,13 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "inhibitors",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "ly",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "allelic",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "baticmd",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "agriculture",
+		"subregion": "brew",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
 		"subregion": "phosphate",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "brew",
 		"value": 3.11260500153457
 	},
 	{
@@ -3494,13 +3476,43 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
+		"subregion": "dehydrogenase",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "ly",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "agriculture",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "allelic",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "inhibitors",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "12864_2015_Article_1683.txt",
 		"subregion": "glyceraldehyde",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "methanol",
+		"subregion": "baticmd",
 		"value": 3.11260500153457
 	},
 	{
@@ -3512,19 +3524,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "hydrophobic",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "dai",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "dehydrogenase",
+		"subregion": "candidate",
 		"value": 3.11260500153457
 	},
 	{
@@ -3536,25 +3536,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "pcr",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "12864_2015_Article_1683.txt",
 		"subregion": "seed",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "loci",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "12864_2015_Article_1683.txt",
-		"subregion": "season",
+		"subregion": "pcr",
 		"value": 2.78151250383644
 	},
 	{
@@ -3566,13 +3554,25 @@
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
+		"subregion": "phenotypic",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "12864_2015_Article_1683.txt",
+		"subregion": "loci",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "12864_2015_Article_1683.txt",
 		"subregion": "software",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "12864_2015_Article_1683.txt",
-		"subregion": "phenotypic",
+		"subregion": "season",
 		"value": 2.78151250383644
 	},
 	{
@@ -3710,13 +3710,13 @@
 	{
 		"key": "7.00336125345279",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "penicillium",
+		"subregion": "yamamoto",
 		"value": 7.00336125345279
 	},
 	{
 		"key": "7.00336125345279",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "yamamoto",
+		"subregion": "penicillium",
 		"value": 7.00336125345279
 	},
 	{
@@ -3728,7 +3728,7 @@
 	{
 		"key": "6.22521000306915",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "epicoccum",
+		"subregion": "communities",
 		"value": 6.22521000306915
 	},
 	{
@@ -3740,7 +3740,7 @@
 	{
 		"key": "6.22521000306915",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "communities",
+		"subregion": "epicoccum",
 		"value": 6.22521000306915
 	},
 	{
@@ -3770,18 +3770,6 @@
 	{
 		"key": "5.4470587526855",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "ascomycota",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "emericella",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "fmicb-07-00487.txt",
 		"subregion": "frontiersin",
 		"value": 5.4470587526855
 	},
@@ -3789,6 +3777,18 @@
 		"key": "5.4470587526855",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "frontiers",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "ascomycota",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "emericella",
 		"value": 5.4470587526855
 	},
 	{
@@ -3800,19 +3800,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "fusarium",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "basidiomycota",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "allergenic",
+		"subregion": "chao",
 		"value": 4.66890750230186
 	},
 	{
@@ -3824,19 +3812,31 @@
 	{
 		"key": "4.66890750230186",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "chao",
+		"subregion": "fusarium",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "allergenic",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "basidiomycota",
 		"value": 4.66890750230186
 	},
 	{
 		"key": "4.4504200061383",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "spores",
+		"subregion": "pcr",
 		"value": 4.4504200061383
 	},
 	{
 		"key": "4.4504200061383",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "pcr",
+		"subregion": "spores",
 		"value": 4.4504200061383
 	},
 	{
@@ -3854,19 +3854,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "throughput",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "womack",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "dannemiller",
+		"subregion": "mycosphaerella",
 		"value": 3.89075625191822
 	},
 	{
@@ -3878,7 +3866,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "trametes",
+		"subregion": "its",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "dannemiller",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "malassezia",
 		"value": 3.89075625191822
 	},
 	{
@@ -3902,13 +3902,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "mycosphaerella",
+		"subregion": "throughput",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "barnes",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "trametes",
 		"value": 3.89075625191822
 	},
 	{
@@ -3926,13 +3932,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "malassezia",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "its",
+		"subregion": "womack",
 		"value": 3.89075625191822
 	},
 	{
@@ -3956,6 +3956,12 @@
 	{
 		"key": "3.33781500460372",
 		"region": "fmicb-07-00487.txt",
+		"subregion": "release",
+		"value": 3.33781500460372
+	},
+	{
+		"key": "3.33781500460372",
+		"region": "fmicb-07-00487.txt",
 		"subregion": "matters",
 		"value": 3.33781500460372
 	},
@@ -3966,15 +3972,9 @@
 		"value": 3.33781500460372
 	},
 	{
-		"key": "3.33781500460372",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "release",
-		"value": 3.33781500460372
-	},
-	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "chaetomium",
+		"subregion": "hyphodiscus",
 		"value": 3.11260500153457
 	},
 	{
@@ -3986,73 +3986,13 @@
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "hyphodiscus",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "barcode",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "kong",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "rodr",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "pleosporales",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "capnodiales",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "haas",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "microbiol",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
 		"subregion": "fimetariella",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "qiime",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "emerson",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "guez",
+		"subregion": "davidiella",
 		"value": 3.11260500153457
 	},
 	{
@@ -4070,7 +4010,49 @@
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "genus",
+		"subregion": "assembled",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "guez",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "microbiol",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "rodr",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "chaetomium",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "haas",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "barcode",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "capnodiales",
 		"value": 3.11260500153457
 	},
 	{
@@ -4082,7 +4064,31 @@
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "assembled",
+		"subregion": "pleosporales",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "emerson",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "kong",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "qiime",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "genus",
 		"value": 3.11260500153457
 	},
 	{
@@ -4092,28 +4098,10 @@
 		"value": 3.11260500153457
 	},
 	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "davidiella",
-		"value": 3.11260500153457
-	},
-	{
 		"key": "3.01029995663981",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "figure",
 		"value": 3.01029995663981
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "april",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "bp",
-		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
@@ -4134,6 +4122,18 @@
 		"value": 2.78151250383644
 	},
 	{
+		"key": "2.78151250383644",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "bp",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "april",
+		"value": 2.78151250383644
+	},
+	{
 		"key": "2.78043765928605",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "wang",
@@ -4148,25 +4148,25 @@
 	{
 		"key": "2.68525390313292",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "particulate",
+		"subregion": "composition",
 		"value": 2.68525390313292
 	},
 	{
 		"key": "2.68525390313292",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "composition",
+		"subregion": "particulate",
 		"value": 2.68525390313292
 	},
 	{
 		"key": "2.4610467905343",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "hong",
+		"subregion": "sampling",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.4610467905343",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "types",
+		"subregion": "hong",
 		"value": 2.4610467905343
 	},
 	{
@@ -4178,25 +4178,25 @@
 	{
 		"key": "2.4610467905343",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "sampling",
+		"subregion": "types",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "flammulina",
+		"subregion": "dispersal",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "bowers",
+		"subregion": "bacterial",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "tilletiopsis",
+		"subregion": "spacer",
 		"value": 2.33445375115093
 	},
 	{
@@ -4238,13 +4238,13 @@
 	{
 		"key": "10.894117505371",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "tnc",
+		"subregion": "staining",
 		"value": 10.894117505371
 	},
 	{
 		"key": "10.894117505371",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "staining",
+		"subregion": "tnc",
 		"value": 10.894117505371
 	},
 	{
@@ -4274,7 +4274,7 @@
 	{
 		"key": "7.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "florida",
+		"subregion": "technique",
 		"value": 7.78151250383644
 	},
 	{
@@ -4286,13 +4286,13 @@
 	{
 		"key": "7.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "techniques",
+		"subregion": "florida",
 		"value": 7.78151250383644
 	},
 	{
 		"key": "7.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "technique",
+		"subregion": "techniques",
 		"value": 7.78151250383644
 	},
 	{
@@ -4340,7 +4340,13 @@
 	{
 		"key": "5.4470587526855",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "myofibroblasts",
+		"subregion": "color",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "grader",
 		"value": 5.4470587526855
 	},
 	{
@@ -4352,19 +4358,13 @@
 	{
 		"key": "5.4470587526855",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "myofibroblasts",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "appearance",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "color",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "grader",
 		"value": 5.4470587526855
 	},
 	{
@@ -4382,7 +4382,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "rabbits",
+		"subregion": "versus",
 		"value": 4.66890750230186
 	},
 	{
@@ -4394,13 +4394,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "versus",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "migration",
+		"subregion": "rabbits",
 		"value": 4.66890750230186
 	},
 	{
@@ -4413,6 +4407,12 @@
 		"key": "4.66890750230186",
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "imaging",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "migration",
 		"value": 4.66890750230186
 	},
 	{
@@ -4430,31 +4430,19 @@
 	{
 		"key": "3.89411750537101",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "loci",
+		"subregion": "keratectomy",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89411750537101",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "keratectomy",
+		"subregion": "loci",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "zone",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "normalization",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "gainesville",
 		"value": 3.89075625191822
 	},
 	{
@@ -4466,19 +4454,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "gainesville",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "zone",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "graded",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "reepithelialization",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "progression",
 		"value": 3.89075625191822
 	},
 	{
@@ -4490,7 +4478,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "reepithelialization",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "gibson",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "progression",
 		"value": 3.89075625191822
 	},
 	{
@@ -4508,13 +4508,13 @@
 	{
 		"key": "3.33781500460372",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "laser",
+		"subregion": "ophthalmol",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "ophthalmol",
+		"subregion": "laser",
 		"value": 3.33781500460372
 	},
 	{
@@ -4522,6 +4522,24 @@
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "lens",
 		"value": 3.28139572071239
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "schultz",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "anesthetized",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "bausch",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
@@ -4538,55 +4556,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "collagen",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "lomb",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "fibrosis",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "schultz",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "rabbit",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "emt",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "reproducibility",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "anesthetized",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "camera",
+		"subregion": "confocal",
 		"value": 3.11260500153457
 	},
 	{
@@ -4604,25 +4574,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "reproducibility",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "intensity",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "imaged",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "anti",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "iovs",
+		"subregion": "emt",
 		"value": 3.11260500153457
 	},
 	{
@@ -4640,7 +4604,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "bausch",
+		"subregion": "camera",
 		"value": 3.11260500153457
 	},
 	{
@@ -4652,13 +4616,49 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "rabbit",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "lomb",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "imaged",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "collagen",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "iovs",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "fibrosis",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "hutcheon",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "confocal",
+		"subregion": "anti",
 		"value": 3.11260500153457
 	},
 	{
@@ -4676,31 +4676,7 @@
 	{
 		"key": "2.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "stroma",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "proliferation",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "underlying",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "test",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "apparent",
 		"value": 2.78151250383644
 	},
 	{
@@ -4712,13 +4688,37 @@
 	{
 		"key": "2.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "subject",
+		"subregion": "apparent",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "stroma",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "test",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "proliferation",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "phototherapeutic",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "subject",
 		"value": 2.78151250383644
 	},
 	{
@@ -4742,43 +4742,19 @@
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "tuli",
+		"subregion": "sketch",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "postwounding",
+		"subregion": "regressed",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "currently",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "retina",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "shortly",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "mohan",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "side",
+		"subregion": "spreads",
 		"value": 2.33445375115093
 	},
 	{
@@ -4790,13 +4766,37 @@
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "wounding",
+		"subregion": "variances",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "tuli",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "microscope",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "digital",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "flash",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "interface",
 		"value": 2.33445375115093
 	},
 	{
@@ -4892,25 +4892,25 @@
 	{
 		"key": "3.89075625191822",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "adults",
+		"subregion": "squamous",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "squamous",
+		"subregion": "adults",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.69157018580144",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "incidence",
+		"subregion": "cohorts",
 		"value": 3.69157018580144
 	},
 	{
 		"key": "3.69157018580144",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "cohorts",
+		"subregion": "incidence",
 		"value": 3.69157018580144
 	},
 	{
@@ -4928,12 +4928,6 @@
 	{
 		"key": "3.28139572071239",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "smoking",
-		"value": 3.28139572071239
-	},
-	{
-		"key": "3.28139572071239",
-		"region": "jtd-07-10-E412.txt",
 		"subregion": "epidemiological",
 		"value": 3.28139572071239
 	},
@@ -4941,6 +4935,12 @@
 		"key": "3.28139572071239",
 		"region": "jtd-07-10-E412.txt",
 		"subregion": "adverse",
+		"value": 3.28139572071239
+	},
+	{
+		"key": "3.28139572071239",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "smoking",
 		"value": 3.28139572071239
 	},
 	{
@@ -4952,37 +4952,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "worldwide",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "yorifuji",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "fruit",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "mice",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
 		"subregion": "oncol",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "decades",
 		"value": 3.11260500153457
 	},
 	{
@@ -4994,7 +4964,31 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "worldwide",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "confounding",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "mice",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "fruit",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "decades",
 		"value": 3.11260500153457
 	},
 	{
@@ -5004,10 +4998,10 @@
 		"value": 3.11260500153457
 	},
 	{
-		"key": "2.87122125562335",
+		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "cell",
-		"value": 2.87122125562335
+		"subregion": "yorifuji",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "2.87122125562335",
@@ -5016,33 +5010,15 @@
 		"value": 2.87122125562335
 	},
 	{
-		"key": "2.78151250383644",
+		"key": "2.87122125562335",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "perspect",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "raaschou",
-		"value": 2.78151250383644
+		"subregion": "cell",
+		"value": 2.87122125562335
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-07-10-E412.txt",
 		"subregion": "prospective",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "men",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "pope",
 		"value": 2.78151250383644
 	},
 	{
@@ -5054,14 +5030,32 @@
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "raaschou",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "men",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "follow",
 		"value": 2.78151250383644
 	},
 	{
-		"key": "2.4610467905343",
+		"key": "2.78151250383644",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "relationship",
-		"value": 2.4610467905343
+		"subregion": "pope",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "perspect",
+		"value": 2.78151250383644
 	},
 	{
 		"key": "2.4610467905343",
@@ -5070,27 +5064,15 @@
 		"value": 2.4610467905343
 	},
 	{
-		"key": "2.33445375115093",
+		"key": "2.4610467905343",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "danish",
-		"value": 2.33445375115093
+		"subregion": "relationship",
+		"value": 2.4610467905343
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-07-10-E412.txt",
 		"subregion": "burden",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "prev",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "carcinogenic",
 		"value": 2.33445375115093
 	},
 	{
@@ -5102,7 +5084,25 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "prev",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "consumption",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "carcinogenic",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "benefits",
 		"value": 2.33445375115093
 	},
 	{
@@ -5114,7 +5114,7 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "benefits",
+		"subregion": "danish",
 		"value": 2.33445375115093
 	},
 	{
@@ -5126,13 +5126,13 @@
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "suppl",
+		"subregion": "nanjing",
 		"value": 2.22521000306915
 	},
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "nanjing",
+		"subregion": "suppl",
 		"value": 2.22521000306915
 	},
 	{
@@ -5168,7 +5168,7 @@
 	{
 		"key": "1.80617997398389",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "nox",
+		"subregion": "factor",
 		"value": 1.80617997398389
 	},
 	{
@@ -5180,7 +5180,7 @@
 	{
 		"key": "1.80617997398389",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "factor",
+		"subregion": "nox",
 		"value": 1.80617997398389
 	},
 	{
@@ -5204,19 +5204,13 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "inhalation",
+		"subregion": "respir",
 		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "carcinoma",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "dockery",
+		"subregion": "wide",
 		"value": 1.66890750230186
 	},
 	{
@@ -5228,13 +5222,13 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "respir",
+		"subregion": "carcinoma",
 		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "iarc",
+		"subregion": "yong",
 		"value": 1.66890750230186
 	},
 	{
@@ -5252,13 +5246,7 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "wide",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "pj",
+		"subregion": "iarc",
 		"value": 1.66890750230186
 	},
 	{
@@ -5270,14 +5258,20 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "yong",
+		"subregion": "inhalation",
 		"value": 1.66890750230186
 	},
 	{
-		"key": "1.66280616700012",
+		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "environ",
-		"value": 1.66280616700012
+		"subregion": "dockery",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "pj",
+		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66280616700012",
@@ -5286,21 +5280,15 @@
 		"value": 1.66280616700012
 	},
 	{
-		"key": "1.6406978603562",
+		"key": "1.66280616700012",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "ci",
-		"value": 1.6406978603562
+		"subregion": "environ",
+		"value": 1.66280616700012
 	},
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "suggested",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "oxidative",
+		"subregion": "dis",
 		"value": 1.6406978603562
 	},
 	{
@@ -5318,7 +5306,49 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "suggested",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "oxidative",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "tobacco",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "ci",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "thorac",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "shi",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "diseases",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "death",
 		"value": 1.6406978603562
 	},
 	{
@@ -5340,36 +5370,6 @@
 		"value": 1.6406978603562
 	},
 	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "death",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "shi",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "tobacco",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "thorac",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "dis",
-		"value": 1.6406978603562
-	},
-	{
 		"key": "1.5836249209525",
 		"region": "jtd-07-10-E412.txt",
 		"subregion": "china",
@@ -5384,19 +5384,19 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "insights",
+		"subregion": "rt",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "challenges",
+		"subregion": "passageway",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "nzli",
+		"subregion": "urgent",
 		"value": 1.55630250076729
 	},
 	{
@@ -5432,13 +5432,13 @@
 	{
 		"key": "9.33781500460372",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "pulmonary",
+		"subregion": "exacerbation",
 		"value": 9.33781500460372
 	},
 	{
 		"key": "9.33781500460372",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "exacerbation",
+		"subregion": "pulmonary",
 		"value": 9.33781500460372
 	},
 	{
@@ -5462,7 +5462,7 @@
 	{
 		"key": "6.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "ros",
+		"subregion": "diesel",
 		"value": 6.22521000306915
 	},
 	{
@@ -5474,7 +5474,7 @@
 	{
 		"key": "6.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "diesel",
+		"subregion": "ros",
 		"value": 6.22521000306915
 	},
 	{
@@ -5534,13 +5534,13 @@
 	{
 		"key": "3.89075625191822",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "cu",
+		"subregion": "wheezing",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "wheezing",
+		"subregion": "cu",
 		"value": 3.89075625191822
 	},
 	{
@@ -5594,43 +5594,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "healthy",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
 		"subregion": "ni",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "triggers",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "ren",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "zn",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "preventive",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "changchun",
 		"value": 3.11260500153457
 	},
 	{
@@ -5646,10 +5610,40 @@
 		"value": 3.11260500153457
 	},
 	{
-		"key": "2.87122125562335",
+		"key": "3.11260500153457",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "include",
-		"value": 2.87122125562335
+		"subregion": "zn",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "healthy",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "ren",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "triggers",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "changchun",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "preventive",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "2.87122125562335",
@@ -5658,9 +5652,15 @@
 		"value": 2.87122125562335
 	},
 	{
+		"key": "2.87122125562335",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "include",
+		"value": 2.87122125562335
+	},
+	{
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "combustion",
+		"subregion": "room",
 		"value": 2.78151250383644
 	},
 	{
@@ -5678,7 +5678,7 @@
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "room",
+		"subregion": "combustion",
 		"value": 2.78151250383644
 	},
 	{
@@ -5708,6 +5708,12 @@
 	{
 		"key": "2.40823996531185",
 		"region": "jtd-08-01-E1.txt",
+		"subregion": "contribute",
+		"value": 2.40823996531185
+	},
+	{
+		"key": "2.40823996531185",
+		"region": "jtd-08-01-E1.txt",
 		"subregion": "lung",
 		"value": 2.40823996531185
 	},
@@ -5718,21 +5724,21 @@
 		"value": 2.40823996531185
 	},
 	{
-		"key": "2.40823996531185",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "contribute",
-		"value": 2.40823996531185
-	},
-	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "jg",
+		"subregion": "steel",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "toxicology",
+		"subregion": "obstructive",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "chest",
 		"value": 2.33445375115093
 	},
 	{
@@ -5744,7 +5750,19 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "deoxyguanosine",
+		"subregion": "activation",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "hydroxy",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "ghio",
 		"value": 2.33445375115093
 	},
 	{
@@ -5768,13 +5786,13 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "obstructive",
+		"subregion": "toxicology",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "activation",
+		"subregion": "jg",
 		"value": 2.33445375115093
 	},
 	{
@@ -5786,19 +5804,7 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "chest",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "steel",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "hydroxy",
+		"subregion": "deoxyguanosine",
 		"value": 2.33445375115093
 	},
 	{
@@ -5808,27 +5814,9 @@
 		"value": 2.33445375115093
 	},
 	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "ghio",
-		"value": 2.33445375115093
-	},
-	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "toxicity",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "wear",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "induced",
+		"subregion": "perspect",
 		"value": 2.22521000306915
 	},
 	{
@@ -5846,13 +5834,19 @@
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "dyspnea",
+		"subregion": "cars",
 		"value": 2.22521000306915
 	},
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "cars",
+		"subregion": "radicals",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "toxicity",
 		"value": 2.22521000306915
 	},
 	{
@@ -5864,7 +5858,13 @@
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "perspect",
+		"subregion": "dyspnea",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "induced",
 		"value": 2.22521000306915
 	},
 	{
@@ -5882,13 +5882,13 @@
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "masks",
+		"subregion": "wear",
 		"value": 2.22521000306915
 	},
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "radicals",
+		"subregion": "masks",
 		"value": 2.22521000306915
 	},
 	{
@@ -5906,7 +5906,7 @@
 	{
 		"key": "2.10720996964787",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "prevent",
+		"subregion": "acute",
 		"value": 2.10720996964787
 	},
 	{
@@ -5918,14 +5918,8 @@
 	{
 		"key": "2.10720996964787",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "acute",
+		"subregion": "prevent",
 		"value": 2.10720996964787
-	},
-	{
-		"key": "2.05087232544525",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "road",
-		"value": 2.05087232544525
 	},
 	{
 		"key": "2.05087232544525",
@@ -5946,10 +5940,22 @@
 		"value": 2.05087232544525
 	},
 	{
+		"key": "2.05087232544525",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "road",
+		"value": 2.05087232544525
+	},
+	{
 		"key": "1.82116865909537",
 		"region": "jtd-08-01-E1.txt",
 		"subregion": "ambient",
 		"value": 1.82116865909537
+	},
+	{
+		"key": "1.80617997398389",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "med",
+		"value": 1.80617997398389
 	},
 	{
 		"key": "1.80617997398389",
@@ -5961,12 +5967,6 @@
 		"key": "1.80617997398389",
 		"region": "jtd-08-01-E1.txt",
 		"subregion": "reactions",
-		"value": 1.80617997398389
-	},
-	{
-		"key": "1.80617997398389",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "med",
 		"value": 1.80617997398389
 	},
 	{
@@ -5990,13 +5990,13 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "injury",
+		"subregion": "subjects",
 		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "atkinson",
+		"subregion": "allergy",
 		"value": 1.66890750230186
 	},
 	{
@@ -6020,13 +6020,13 @@
 	{
 		"key": "3.89411750537101",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "activities",
+		"subregion": "indoors",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89411750537101",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "indoors",
+		"subregion": "activities",
 		"value": 3.89411750537101
 	},
 	{
@@ -6038,19 +6038,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "za",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E75.txt",
 		"subregion": "niosh",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "liver",
+		"subregion": "zhi",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "za",
 		"value": 3.11260500153457
 	},
 	{
@@ -6062,7 +6062,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "zhi",
+		"subregion": "liver",
 		"value": 3.11260500153457
 	},
 	{
@@ -6074,13 +6074,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "protection",
+		"subregion": "masks",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "masks",
+		"subregion": "protection",
 		"value": 2.78151250383644
 	},
 	{
@@ -6098,19 +6098,7 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "lifestyles",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "face",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "minimizing",
+		"subregion": "deficiency",
 		"value": 2.33445375115093
 	},
 	{
@@ -6122,7 +6110,19 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "deficiency",
+		"subregion": "face",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "lifestyles",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "minimizing",
 		"value": 2.33445375115093
 	},
 	{
@@ -6134,13 +6134,13 @@
 	{
 		"key": "1.97860813915057",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "pollution",
+		"subregion": "health",
 		"value": 1.97860813915057
 	},
 	{
 		"key": "1.97860813915057",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "health",
+		"subregion": "pollution",
 		"value": 1.97860813915057
 	},
 	{
@@ -6176,31 +6176,19 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E75.txt",
+		"subregion": "drinking",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "oxygen",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
 		"subregion": "wash",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "ym",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "lifestyle",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "xi",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "intake",
 		"value": 1.66890750230186
 	},
 	{
@@ -6218,13 +6206,25 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "drinking",
+		"subregion": "intake",
 		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "oxygen",
+		"subregion": "lifestyle",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "xi",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "ym",
 		"value": 1.66890750230186
 	},
 	{
@@ -6236,19 +6236,13 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "energy",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-08-01-E75.txt",
 		"subregion": "indoor",
 		"value": 1.6406978603562
 	},
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "diseases",
+		"subregion": "dis",
 		"value": 1.6406978603562
 	},
 	{
@@ -6260,121 +6254,25 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
+		"subregion": "diseases",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-08-01-E75.txt",
 		"subregion": "thorac",
 		"value": 1.6406978603562
 	},
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "dis",
+		"subregion": "energy",
 		"value": 1.6406978603562
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "pdf",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "dp",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "hill",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "cdc",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "cavity",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "nasal",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "curb",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "suzhou",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "literatures",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "conjunctivitis",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "micrometers",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "eating",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "eds",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "principles",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "conservation",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "respirators",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "kasper",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "cardiology",
+		"subregion": "ny",
 		"value": 1.55630250076729
 	},
 	{
@@ -6386,7 +6284,31 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "mcgraw",
+		"subregion": "affiliated",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "kasper",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "literatures",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "cavity",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "pdf",
 		"value": 1.55630250076729
 	},
 	{
@@ -6398,13 +6320,31 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "braunwald",
+		"subregion": "mcgraw",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "affiliated",
+		"subregion": "dp",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "nasal",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "principles",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "micrometers",
 		"value": 1.55630250076729
 	},
 	{
@@ -6416,7 +6356,19 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "ny",
+		"subregion": "division",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "hill",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "conjunctivitis",
 		"value": 1.55630250076729
 	},
 	{
@@ -6428,7 +6380,19 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "dl",
+		"subregion": "braunwald",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "cdc",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "suzhou",
 		"value": 1.55630250076729
 	},
 	{
@@ -6440,19 +6404,19 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "fauci",
+		"subregion": "eds",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "advised",
+		"subregion": "dl",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "harrison",
+		"subregion": "curb",
 		"value": 1.55630250076729
 	},
 	{
@@ -6464,19 +6428,55 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "division",
+		"subregion": "respirators",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "eating",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "cardiology",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "advised",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "conservation",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "harrison",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "fauci",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.50514997831991",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "outdoor",
+		"subregion": "effective",
 		"value": 1.50514997831991
 	},
 	{
 		"key": "1.50514997831991",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "effective",
+		"subregion": "outdoor",
 		"value": 1.50514997831991
 	},
 	{
@@ -6494,24 +6494,6 @@
 	{
 		"key": "1.23052339526715",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "rights",
-		"value": 1.23052339526715
-	},
-	{
-		"key": "1.23052339526715",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "xue",
-		"value": 1.23052339526715
-	},
-	{
-		"key": "1.23052339526715",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "susceptible",
-		"value": 1.23052339526715
-	},
-	{
-		"key": "1.23052339526715",
-		"region": "jtd-08-01-E75.txt",
 		"subregion": "reserved",
 		"value": 1.23052339526715
 	},
@@ -6524,14 +6506,26 @@
 	{
 		"key": "1.23052339526715",
 		"region": "jtd-08-01-E75.txt",
+		"subregion": "xue",
+		"value": 1.23052339526715
+	},
+	{
+		"key": "1.23052339526715",
+		"region": "jtd-08-01-E75.txt",
 		"subregion": "simple",
 		"value": 1.23052339526715
 	},
 	{
-		"key": "1.20411998265592",
+		"key": "1.23052339526715",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "patients",
-		"value": 1.20411998265592
+		"subregion": "rights",
+		"value": 1.23052339526715
+	},
+	{
+		"key": "1.23052339526715",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "susceptible",
+		"value": 1.23052339526715
 	},
 	{
 		"key": "1.20411998265592",
@@ -6548,37 +6542,25 @@
 	{
 		"key": "1.20411998265592",
 		"region": "jtd-08-01-E75.txt",
+		"subregion": "patients",
+		"value": 1.20411998265592
+	},
+	{
+		"key": "1.20411998265592",
+		"region": "jtd-08-01-E75.txt",
 		"subregion": "journal",
 		"value": 1.20411998265592
 	},
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "exercise",
+		"subregion": "cooking",
 		"value": 1.11260500153457
 	},
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "ways",
-		"value": 1.11260500153457
-	},
-	{
-		"key": "1.11260500153457",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "suffered",
-		"value": 1.11260500153457
-	},
-	{
-		"key": "1.11260500153457",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "internal",
-		"value": 1.11260500153457
-	},
-	{
-		"key": "1.11260500153457",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "lasting",
+		"subregion": "york",
 		"value": 1.11260500153457
 	},
 	{
@@ -6590,13 +6572,31 @@
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "referred",
+		"subregion": "lasting",
 		"value": 1.11260500153457
 	},
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "absorb",
+		"subregion": "suffered",
+		"value": 1.11260500153457
+	},
+	{
+		"key": "1.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "wearing",
+		"value": 1.11260500153457
+	},
+	{
+		"key": "1.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "yong",
+		"value": 1.11260500153457
+	},
+	{
+		"key": "1.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "traditional",
 		"value": 1.11260500153457
 	},
 	{
@@ -6686,12 +6686,6 @@
 	{
 		"key": "9.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "cdva",
-		"value": 9.33781500460372
-	},
-	{
-		"key": "9.33781500460372",
-		"region": "WangWangWang.txt",
 		"subregion": "prevalence",
 		"value": 9.33781500460372
 	},
@@ -6702,10 +6696,10 @@
 		"value": 9.33781500460372
 	},
 	{
-		"key": "8.55966375422008",
+		"key": "9.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "effi",
-		"value": 8.55966375422008
+		"subregion": "cdva",
+		"value": 9.33781500460372
 	},
 	{
 		"key": "8.55966375422008",
@@ -6714,10 +6708,10 @@
 		"value": 8.55966375422008
 	},
 	{
-		"key": "7.78823501074202",
+		"key": "8.55966375422008",
 		"region": "WangWangWang.txt",
-		"subregion": "follow",
-		"value": 7.78823501074202
+		"subregion": "effi",
+		"value": 8.55966375422008
 	},
 	{
 		"key": "7.78823501074202",
@@ -6726,16 +6720,28 @@
 		"value": 7.78823501074202
 	},
 	{
-		"key": "7.78151250383644",
+		"key": "7.78823501074202",
 		"region": "WangWangWang.txt",
-		"subregion": "udva",
-		"value": 7.78151250383644
+		"subregion": "follow",
+		"value": 7.78823501074202
 	},
 	{
 		"key": "7.78151250383644",
 		"region": "WangWangWang.txt",
 		"subregion": "crs",
 		"value": 7.78151250383644
+	},
+	{
+		"key": "7.78151250383644",
+		"region": "WangWangWang.txt",
+		"subregion": "udva",
+		"value": 7.78151250383644
+	},
+	{
+		"key": "7.00336125345279",
+		"region": "WangWangWang.txt",
+		"subregion": "cacy",
+		"value": 7.00336125345279
 	},
 	{
 		"key": "7.00336125345279",
@@ -6746,7 +6752,7 @@
 	{
 		"key": "7.00336125345279",
 		"region": "WangWangWang.txt",
-		"subregion": "subjective",
+		"subregion": "retreatment",
 		"value": 7.00336125345279
 	},
 	{
@@ -6758,13 +6764,7 @@
 	{
 		"key": "7.00336125345279",
 		"region": "WangWangWang.txt",
-		"subregion": "cacy",
-		"value": 7.00336125345279
-	},
-	{
-		"key": "7.00336125345279",
-		"region": "WangWangWang.txt",
-		"subregion": "retreatment",
+		"subregion": "subjective",
 		"value": 7.00336125345279
 	},
 	{
@@ -6788,7 +6788,7 @@
 	{
 		"key": "6.22521000306915",
 		"region": "WangWangWang.txt",
-		"subregion": "military",
+		"subregion": "force",
 		"value": 6.22521000306915
 	},
 	{
@@ -6800,7 +6800,7 @@
 	{
 		"key": "6.22521000306915",
 		"region": "WangWangWang.txt",
-		"subregion": "force",
+		"subregion": "military",
 		"value": 6.22521000306915
 	},
 	{
@@ -6812,25 +6812,25 @@
 	{
 		"key": "5.4470587526855",
 		"region": "WangWangWang.txt",
-		"subregion": "acuity",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "WangWangWang.txt",
 		"subregion": "logmar",
 		"value": 5.4470587526855
 	},
 	{
 		"key": "5.4470587526855",
 		"region": "WangWangWang.txt",
-		"subregion": "postoperatively",
+		"subregion": "acuity",
 		"value": 5.4470587526855
 	},
 	{
 		"key": "5.4470587526855",
 		"region": "WangWangWang.txt",
 		"subregion": "records",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "WangWangWang.txt",
+		"subregion": "postoperatively",
 		"value": 5.4470587526855
 	},
 	{
@@ -6842,20 +6842,14 @@
 	{
 		"key": "5.00672250690558",
 		"region": "WangWangWang.txt",
-		"subregion": "ophthalmol",
+		"subregion": "equivalent",
 		"value": 5.00672250690558
 	},
 	{
 		"key": "5.00672250690558",
 		"region": "WangWangWang.txt",
-		"subregion": "equivalent",
+		"subregion": "ophthalmol",
 		"value": 5.00672250690558
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "WangWangWang.txt",
-		"subregion": "aviators",
-		"value": 4.66890750230186
 	},
 	{
 		"key": "4.66890750230186",
@@ -6867,6 +6861,12 @@
 		"key": "4.66890750230186",
 		"region": "WangWangWang.txt",
 		"subregion": "aerospace",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "WangWangWang.txt",
+		"subregion": "aviators",
 		"value": 4.66890750230186
 	},
 	{
@@ -6902,7 +6902,7 @@
 	{
 		"key": "3.89411750537101",
 		"region": "WangWangWang.txt",
-		"subregion": "selection",
+		"subregion": "contact",
 		"value": 3.89411750537101
 	},
 	{
@@ -6914,55 +6914,19 @@
 	{
 		"key": "3.89411750537101",
 		"region": "WangWangWang.txt",
-		"subregion": "contact",
+		"subregion": "postsurgery",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89411750537101",
 		"region": "WangWangWang.txt",
-		"subregion": "postsurgery",
+		"subregion": "selection",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "WangWangWang.txt",
-		"subregion": "armed",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "wk",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "service",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
 		"subregion": "delivered",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "forces",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "ingenta",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "nornal",
 		"value": 3.89075625191822
 	},
 	{
@@ -6974,7 +6938,43 @@
 	{
 		"key": "3.89075625191822",
 		"region": "WangWangWang.txt",
+		"subregion": "armed",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "forces",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "service",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "nornal",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "wk",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
 		"subregion": "signifi",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "ingenta",
 		"value": 3.89075625191822
 	},
 	{
@@ -6998,14 +6998,20 @@
 	{
 		"key": "3.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "safety",
+		"subregion": "laser",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "laser",
+		"subregion": "safety",
 		"value": 3.33781500460372
+	},
+	{
+		"key": "3.28139572071239",
+		"region": "WangWangWang.txt",
+		"subregion": "error",
+		"value": 3.28139572071239
 	},
 	{
 		"key": "3.28139572071239",
@@ -7020,15 +7026,9 @@
 		"value": 3.28139572071239
 	},
 	{
-		"key": "3.28139572071239",
-		"region": "WangWangWang.txt",
-		"subregion": "error",
-		"value": 3.28139572071239
-	},
-	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "outcome",
+		"subregion": "centre",
 		"value": 3.11260500153457
 	},
 	{
@@ -7040,13 +7040,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "myopes",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "myopic",
+		"subregion": "wong",
 		"value": 3.11260500153457
 	},
 	{
@@ -7058,25 +7052,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "fi",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "centre",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
 		"subregion": "cylindrical",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "graph",
+		"subregion": "myopes",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "sponge",
 		"value": 3.11260500153457
 	},
 	{
@@ -7088,20 +7076,26 @@
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "wong",
+		"subregion": "graph",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "sponge",
+		"subregion": "fi",
 		"value": 3.11260500153457
 	},
 	{
-		"key": "2.87122125562335",
+		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "worse",
-		"value": 2.87122125562335
+		"subregion": "myopic",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "outcome",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "2.87122125562335",
@@ -7110,15 +7104,15 @@
 		"value": 2.87122125562335
 	},
 	{
-		"key": "2.78151250383644",
+		"key": "2.87122125562335",
 		"region": "WangWangWang.txt",
-		"subregion": "mar",
-		"value": 2.78151250383644
+		"subregion": "worse",
+		"value": 2.87122125562335
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "WangWangWang.txt",
-		"subregion": "av",
+		"subregion": "achieved",
 		"value": 2.78151250383644
 	},
 	{
@@ -7130,7 +7124,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "WangWangWang.txt",
-		"subregion": "achieved",
+		"subregion": "mar",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "WangWangWang.txt",
+		"subregion": "av",
 		"value": 2.78151250383644
 	},
 	{
@@ -7154,26 +7154,14 @@
 	{
 		"key": "2.4610467905343",
 		"region": "WangWangWang.txt",
-		"subregion": "copyright",
+		"subregion": "space",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.4610467905343",
 		"region": "WangWangWang.txt",
-		"subregion": "space",
+		"subregion": "copyright",
 		"value": 2.4610467905343
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "WangWangWang.txt",
-		"subregion": "eligibility",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "WangWangWang.txt",
-		"subregion": "snellen",
-		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
@@ -7184,19 +7172,31 @@
 	{
 		"key": "2.33445375115093",
 		"region": "WangWangWang.txt",
-		"subregion": "nah",
+		"subregion": "defi",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "WangWangWang.txt",
-		"subregion": "meet",
+		"subregion": "wh",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "WangWangWang.txt",
-		"subregion": "corrected",
+		"subregion": "accuracy",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "WangWangWang.txt",
+		"subregion": "mel",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "WangWangWang.txt",
+		"subregion": "recruitment",
 		"value": 2.33445375115093
 	},
 	{
@@ -7328,13 +7328,13 @@
 	{
 		"key": "6.22521000306915",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "communities",
+		"subregion": "microbiology",
 		"value": 6.22521000306915
 	},
 	{
 		"key": "6.22521000306915",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "microbiology",
+		"subregion": "communities",
 		"value": 6.22521000306915
 	},
 	{
@@ -7352,13 +7352,13 @@
 	{
 		"key": "5.56302500767287",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "atmosenv",
+		"subregion": "sample",
 		"value": 5.56302500767287
 	},
 	{
 		"key": "5.56302500767287",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "sample",
+		"subregion": "atmosenv",
 		"value": 5.56302500767287
 	},
 	{
@@ -7400,6 +7400,12 @@
 	{
 		"key": "4.66890750230186",
 		"region": "fmicb-07-00487.txt",
+		"subregion": "fusarium",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "fmicb-07-00487.txt",
 		"subregion": "chao",
 		"value": 4.66890750230186
 	},
@@ -7419,12 +7425,6 @@
 		"key": "4.66890750230186",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "basidiomycota",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "fusarium",
 		"value": 4.66890750230186
 	},
 	{
@@ -7454,13 +7454,19 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "its",
+		"subregion": "nigrospora",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "talaromyces",
+		"subregion": "dannemiller",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "its",
 		"value": 3.89075625191822
 	},
 	{
@@ -7472,19 +7478,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "culturable",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "barnes",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "rittenour",
+		"subregion": "orders",
 		"value": 3.89075625191822
 	},
 	{
@@ -7496,25 +7490,25 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "orders",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "schizophyllum",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "fmicb-07-00487.txt",
 		"subregion": "trametes",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "nigrospora",
+		"subregion": "barnes",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "talaromyces",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "culturable",
 		"value": 3.89075625191822
 	},
 	{
@@ -7526,7 +7520,13 @@
 	{
 		"key": "3.89075625191822",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "dannemiller",
+		"subregion": "schizophyllum",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "rittenour",
 		"value": 3.89075625191822
 	},
 	{
@@ -7556,6 +7556,12 @@
 	{
 		"key": "3.33781500460372",
 		"region": "fmicb-07-00487.txt",
+		"subregion": "matters",
+		"value": 3.33781500460372
+	},
+	{
+		"key": "3.33781500460372",
+		"region": "fmicb-07-00487.txt",
 		"subregion": "release",
 		"value": 3.33781500460372
 	},
@@ -7566,51 +7572,9 @@
 		"value": 3.33781500460372
 	},
 	{
-		"key": "3.33781500460372",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "matters",
-		"value": 3.33781500460372
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "oedocephalum",
-		"value": 3.11260500153457
-	},
-	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "davidiella",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "spore",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "genus",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "assembled",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "sporisorium",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "guez",
 		"value": 3.11260500153457
 	},
 	{
@@ -7622,61 +7586,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "emerson",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "qiime",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "microbiol",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "fimetariella",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "haas",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "capnodiales",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "pleosporales",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "kong",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "barcode",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "rodr",
+		"subregion": "sporisorium",
 		"value": 3.11260500153457
 	},
 	{
@@ -7688,13 +7598,103 @@
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
+		"subregion": "fimetariella",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
 		"subregion": "caporaso",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "fmicb-07-00487.txt",
+		"subregion": "qiime",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "oedocephalum",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "genus",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "rodr",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "guez",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "microbiol",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "assembled",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
 		"subregion": "chaetomium",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "spore",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "capnodiales",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "barcode",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "haas",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "kong",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "emerson",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "pleosporales",
 		"value": 3.11260500153457
 	},
 	{
@@ -7724,13 +7724,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "bp",
+		"subregion": "april",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "april",
+		"subregion": "bp",
 		"value": 2.78151250383644
 	},
 	{
@@ -7766,6 +7766,12 @@
 	{
 		"key": "2.4610467905343",
 		"region": "fmicb-07-00487.txt",
+		"subregion": "hong",
+		"value": 2.4610467905343
+	},
+	{
+		"key": "2.4610467905343",
+		"region": "fmicb-07-00487.txt",
 		"subregion": "atmosphere",
 		"value": 2.4610467905343
 	},
@@ -7776,18 +7782,6 @@
 		"value": 2.4610467905343
 	},
 	{
-		"key": "2.4610467905343",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "hong",
-		"value": 2.4610467905343
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "fmicb-07-00487.txt",
-		"subregion": "fastpfu",
-		"value": 2.33445375115093
-	},
-	{
 		"key": "2.33445375115093",
 		"region": "fmicb-07-00487.txt",
 		"subregion": "diagram",
@@ -7796,7 +7790,13 @@
 	{
 		"key": "2.33445375115093",
 		"region": "fmicb-07-00487.txt",
-		"subregion": "ustilago",
+		"subregion": "bjerkandera",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "fmicb-07-00487.txt",
+		"subregion": "illumina",
 		"value": 2.33445375115093
 	},
 	{
@@ -7826,13 +7826,13 @@
 	{
 		"key": "14.0067225069056",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "margin",
+		"subregion": "sma",
 		"value": 14.0067225069056
 	},
 	{
 		"key": "14.0067225069056",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "sma",
+		"subregion": "margin",
 		"value": 14.0067225069056
 	},
 	{
@@ -7850,13 +7850,13 @@
 	{
 		"key": "10.1159662549874",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "spread",
+		"subregion": "images",
 		"value": 10.1159662549874
 	},
 	{
 		"key": "10.1159662549874",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "images",
+		"subregion": "spread",
 		"value": 10.1159662549874
 	},
 	{
@@ -7880,13 +7880,13 @@
 	{
 		"key": "7.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "technique",
+		"subregion": "florida",
 		"value": 7.78151250383644
 	},
 	{
 		"key": "7.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "florida",
+		"subregion": "technique",
 		"value": 7.78151250383644
 	},
 	{
@@ -7940,6 +7940,12 @@
 	{
 		"key": "5.4470587526855",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "appearance",
+		"value": 5.4470587526855
+	},
+	{
+		"key": "5.4470587526855",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "myofibroblasts",
 		"value": 5.4470587526855
 	},
@@ -7952,19 +7958,13 @@
 	{
 		"key": "5.4470587526855",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "appearance",
+		"subregion": "grader",
 		"value": 5.4470587526855
 	},
 	{
 		"key": "5.4470587526855",
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "color",
-		"value": 5.4470587526855
-	},
-	{
-		"key": "5.4470587526855",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "grader",
 		"value": 5.4470587526855
 	},
 	{
@@ -7976,19 +7976,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "versus",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "migration",
-		"value": 4.66890750230186
-	},
-	{
-		"key": "4.66890750230186",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "subepithelial",
 		"value": 4.66890750230186
 	},
 	{
@@ -8000,7 +7988,7 @@
 	{
 		"key": "4.66890750230186",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "scar",
+		"subregion": "subepithelial",
 		"value": 4.66890750230186
 	},
 	{
@@ -8013,6 +8001,18 @@
 		"key": "4.66890750230186",
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "native",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "versus",
+		"value": 4.66890750230186
+	},
+	{
+		"key": "4.66890750230186",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "scar",
 		"value": 4.66890750230186
 	},
 	{
@@ -8030,37 +8030,19 @@
 	{
 		"key": "3.89411750537101",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "keratectomy",
+		"subregion": "loci",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89411750537101",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "loci",
+		"subregion": "keratectomy",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "graded",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "reepithelialization",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "progression",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "pattern",
 		"value": 3.89075625191822
 	},
 	{
@@ -8072,13 +8054,25 @@
 	{
 		"key": "3.89075625191822",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "reepithelialization",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "pattern",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "zone",
 		"value": 3.89075625191822
 	},
 	{
 		"key": "3.89075625191822",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "normalization",
+		"subregion": "graded",
 		"value": 3.89075625191822
 	},
 	{
@@ -8094,15 +8088,21 @@
 		"value": 3.89075625191822
 	},
 	{
+		"key": "3.89075625191822",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "normalization",
+		"value": 3.89075625191822
+	},
+	{
 		"key": "3.33781500460372",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "ophthalmol",
+		"subregion": "laser",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.33781500460372",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "healing",
+		"subregion": "ophthalmol",
 		"value": 3.33781500460372
 	},
 	{
@@ -8114,7 +8114,7 @@
 	{
 		"key": "3.33781500460372",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "laser",
+		"subregion": "healing",
 		"value": 3.33781500460372
 	},
 	{
@@ -8122,6 +8122,90 @@
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "lens",
 		"value": 3.28139572071239
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "anti",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "bed",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "hutcheon",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "collagen",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "iovs",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "fibrosis",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "imaged",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "lomb",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "pixel",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "camera",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "rabbit",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "intensification",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "macrophotographs",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "intensity",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
@@ -8138,13 +8222,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "anesthetized",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "camera",
+		"subregion": "wounded",
 		"value": 3.11260500153457
 	},
 	{
@@ -8156,79 +8234,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "wounded",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "intensity",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "imaged",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "anti",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "iovs",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "macrophotographs",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "intensification",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "bausch",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "pixel",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "hutcheon",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "confocal",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "bed",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "ae",
 		"value": 3.11260500153457
 	},
 	{
@@ -8240,31 +8246,25 @@
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "collagen",
+		"subregion": "ae",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "lomb",
+		"subregion": "anesthetized",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "fibrosis",
+		"subregion": "bausch",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "schultz",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "rabbit",
 		"value": 3.11260500153457
 	},
 	{
@@ -8276,7 +8276,31 @@
 	{
 		"key": "2.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "subject",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "proliferation",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "phototherapeutic",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "test",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "stroma",
 		"value": 2.78151250383644
 	},
 	{
@@ -8294,30 +8318,6 @@
 	{
 		"key": "2.78151250383644",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "subject",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "phototherapeutic",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "stroma",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "proliferation",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "underlying",
 		"value": 2.78151250383644
 	},
@@ -8330,49 +8330,43 @@
 	{
 		"key": "2.4610467905343",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "surgery",
+		"subregion": "set",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.4610467905343",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "set",
+		"subregion": "surgery",
 		"value": 2.4610467905343
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "interface",
+		"subregion": "mohan",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "regressed",
+		"subregion": "manual",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "occur",
+		"subregion": "record",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "lasik",
+		"subregion": "ablated",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "variances",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "slide",
+		"subregion": "side",
 		"value": 2.33445375115093
 	},
 	{
@@ -8384,19 +8378,25 @@
 	{
 		"key": "2.33445375115093",
 		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "slide",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "occur",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
+		"subregion": "postwounding",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "i1552-5783-54-7-4776.txt",
 		"subregion": "photographic",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "spreads",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "i1552-5783-54-7-4776.txt",
-		"subregion": "sketch",
 		"value": 2.33445375115093
 	},
 	{
@@ -8534,13 +8534,13 @@
 	{
 		"key": "3.28139572071239",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "adverse",
+		"subregion": "smoking",
 		"value": 3.28139572071239
 	},
 	{
 		"key": "3.28139572071239",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "smoking",
+		"subregion": "adverse",
 		"value": 3.28139572071239
 	},
 	{
@@ -8552,37 +8552,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "mice",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "oncol",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
 		"subregion": "evidences",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "stronger",
+		"subregion": "yorifuji",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "decades",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "confounding",
+		"subregion": "mice",
 		"value": 3.11260500153457
 	},
 	{
@@ -8594,20 +8576,32 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "confounding",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "decades",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "oncol",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "worldwide",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "yorifuji",
+		"subregion": "stronger",
 		"value": 3.11260500153457
-	},
-	{
-		"key": "2.87122125562335",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "traffic",
-		"value": 2.87122125562335
 	},
 	{
 		"key": "2.87122125562335",
@@ -8616,16 +8610,10 @@
 		"value": 2.87122125562335
 	},
 	{
-		"key": "2.78151250383644",
+		"key": "2.87122125562335",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "nielsen",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "follow",
-		"value": 2.78151250383644
+		"subregion": "traffic",
+		"value": 2.87122125562335
 	},
 	{
 		"key": "2.78151250383644",
@@ -8642,7 +8630,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "prospective",
+		"subregion": "follow",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "raaschou",
 		"value": 2.78151250383644
 	},
 	{
@@ -8654,7 +8648,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "raaschou",
+		"subregion": "nielsen",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "prospective",
 		"value": 2.78151250383644
 	},
 	{
@@ -8672,13 +8672,7 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "kashima",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "burden",
+		"subregion": "cancers",
 		"value": 2.33445375115093
 	},
 	{
@@ -8690,19 +8684,13 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "carcinogenic",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "prev",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-07-10-E412.txt",
 		"subregion": "consumption",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "carcinogenic",
 		"value": 2.33445375115093
 	},
 	{
@@ -8714,19 +8702,31 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "cancers",
+		"subregion": "burden",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "prev",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "kashima",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "suppl",
+		"subregion": "biomarkers",
 		"value": 2.22521000306915
 	},
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "biomarkers",
+		"subregion": "suppl",
 		"value": 2.22521000306915
 	},
 	{
@@ -8768,12 +8768,6 @@
 	{
 		"key": "1.80617997398389",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "factor",
-		"value": 1.80617997398389
-	},
-	{
-		"key": "1.80617997398389",
-		"region": "jtd-07-10-E412.txt",
 		"subregion": "nox",
 		"value": 1.80617997398389
 	},
@@ -8781,6 +8775,12 @@
 		"key": "1.80617997398389",
 		"region": "jtd-07-10-E412.txt",
 		"subregion": "med",
+		"value": 1.80617997398389
+	},
+	{
+		"key": "1.80617997398389",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "factor",
 		"value": 1.80617997398389
 	},
 	{
@@ -8804,37 +8804,7 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "wide",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
 		"subregion": "pj",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "iarc",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "thorax",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "hr",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "yong",
 		"value": 1.66890750230186
 	},
 	{
@@ -8846,7 +8816,7 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "dockery",
+		"subregion": "iarc",
 		"value": 1.66890750230186
 	},
 	{
@@ -8858,7 +8828,19 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "carcinoma",
+		"subregion": "hr",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "thorax",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "dockery",
 		"value": 1.66890750230186
 	},
 	{
@@ -8870,14 +8852,26 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "wide",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "respir",
 		"value": 1.66890750230186
 	},
 	{
-		"key": "1.66280616700012",
+		"key": "1.66890750230186",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "environ",
-		"value": 1.66280616700012
+		"subregion": "yong",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "carcinoma",
+		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66280616700012",
@@ -8886,22 +8880,10 @@
 		"value": 1.66280616700012
 	},
 	{
-		"key": "1.6406978603562",
+		"key": "1.66280616700012",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "strong",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "carcinogenicity",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "shi",
-		"value": 1.6406978603562
+		"subregion": "environ",
+		"value": 1.66280616700012
 	},
 	{
 		"key": "1.6406978603562",
@@ -8918,13 +8900,25 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "shi",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "strong",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "animal",
 		"value": 1.6406978603562
 	},
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "thorac",
+		"subregion": "carcinogenicity",
 		"value": 1.6406978603562
 	},
 	{
@@ -8936,19 +8930,7 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "dis",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "oxidative",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-07-10-E412.txt",
-		"subregion": "suggested",
+		"subregion": "thorac",
 		"value": 1.6406978603562
 	},
 	{
@@ -8960,7 +8942,25 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-07-10-E412.txt",
+		"subregion": "dis",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
 		"subregion": "linked",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "suggested",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-07-10-E412.txt",
+		"subregion": "oxidative",
 		"value": 1.6406978603562
 	},
 	{
@@ -8984,19 +8984,19 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "survival",
+		"subregion": "compelling",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "colleagues",
+		"subregion": "carcinomas",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-07-10-E412.txt",
-		"subregion": "frequency",
+		"subregion": "additionally",
 		"value": 1.55630250076729
 	},
 	{
@@ -9032,13 +9032,13 @@
 	{
 		"key": "9.33781500460372",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "exacerbation",
+		"subregion": "pulmonary",
 		"value": 9.33781500460372
 	},
 	{
 		"key": "9.33781500460372",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "pulmonary",
+		"subregion": "exacerbation",
 		"value": 9.33781500460372
 	},
 	{
@@ -9068,13 +9068,13 @@
 	{
 		"key": "6.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "diesel",
+		"subregion": "ros",
 		"value": 6.22521000306915
 	},
 	{
 		"key": "6.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "ros",
+		"subregion": "diesel",
 		"value": 6.22521000306915
 	},
 	{
@@ -9194,6 +9194,18 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E1.txt",
+		"subregion": "ren",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "triggers",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
 		"subregion": "changchun",
 		"value": 3.11260500153457
 	},
@@ -9206,19 +9218,7 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "valley",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
 		"subregion": "jilin",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "ren",
 		"value": 3.11260500153457
 	},
 	{
@@ -9230,26 +9230,20 @@
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E1.txt",
+		"subregion": "healthy",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "jtd-08-01-E1.txt",
 		"subregion": "ni",
 		"value": 3.11260500153457
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "triggers",
+		"subregion": "valley",
 		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "healthy",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "2.87122125562335",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "airborne",
-		"value": 2.87122125562335
 	},
 	{
 		"key": "2.87122125562335",
@@ -9258,16 +9252,10 @@
 		"value": 2.87122125562335
 	},
 	{
-		"key": "2.78151250383644",
+		"key": "2.87122125562335",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "room",
-		"value": 2.78151250383644
-	},
-	{
-		"key": "2.78151250383644",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "free",
-		"value": 2.78151250383644
+		"subregion": "airborne",
+		"value": 2.87122125562335
 	},
 	{
 		"key": "2.78151250383644",
@@ -9279,6 +9267,18 @@
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E1.txt",
 		"subregion": "combustion",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "free",
+		"value": 2.78151250383644
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "room",
 		"value": 2.78151250383644
 	},
 	{
@@ -9308,7 +9308,7 @@
 	{
 		"key": "2.40823996531185",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "contribute",
+		"subregion": "lung",
 		"value": 2.40823996531185
 	},
 	{
@@ -9320,19 +9320,13 @@
 	{
 		"key": "2.40823996531185",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "lung",
+		"subregion": "contribute",
 		"value": 2.40823996531185
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "steel",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "hydroxy",
+		"subregion": "deoxyguanosine",
 		"value": 2.33445375115093
 	},
 	{
@@ -9344,19 +9338,7 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "ghio",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "activation",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "obstructive",
+		"subregion": "jg",
 		"value": 2.33445375115093
 	},
 	{
@@ -9368,13 +9350,25 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "chest",
+		"subregion": "sulphate",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "cr",
+		"subregion": "activation",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "hydroxy",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "ghio",
 		"value": 2.33445375115093
 	},
 	{
@@ -9386,19 +9380,13 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
+		"subregion": "cr",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E1.txt",
 		"subregion": "cough",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "jg",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "deoxyguanosine",
 		"value": 2.33445375115093
 	},
 	{
@@ -9410,56 +9398,20 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "sulphate",
+		"subregion": "steel",
 		"value": 2.33445375115093
 	},
 	{
-		"key": "2.22521000306915",
+		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "masks",
-		"value": 2.22521000306915
+		"subregion": "obstructive",
+		"value": 2.33445375115093
 	},
 	{
-		"key": "2.22521000306915",
+		"key": "2.33445375115093",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "radicals",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "carcinogenesis",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "dyspnea",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "oc",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "perspect",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "cars",
-		"value": 2.22521000306915
-	},
-	{
-		"key": "2.22521000306915",
-		"region": "jtd-08-01-E1.txt",
-		"subregion": "mask",
-		"value": 2.22521000306915
+		"subregion": "chest",
+		"value": 2.33445375115093
 	},
 	{
 		"key": "2.22521000306915",
@@ -9476,7 +9428,43 @@
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
+		"subregion": "masks",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
 		"subregion": "induced",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "mask",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "toxicity",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "oc",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "dyspnea",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "perspect",
 		"value": 2.22521000306915
 	},
 	{
@@ -9488,7 +9476,19 @@
 	{
 		"key": "2.22521000306915",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "toxicity",
+		"subregion": "carcinogenesis",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "cars",
+		"value": 2.22521000306915
+	},
+	{
+		"key": "2.22521000306915",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "radicals",
 		"value": 2.22521000306915
 	},
 	{
@@ -9506,12 +9506,6 @@
 	{
 		"key": "2.10720996964787",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "acute",
-		"value": 2.10720996964787
-	},
-	{
-		"key": "2.10720996964787",
-		"region": "jtd-08-01-E1.txt",
 		"subregion": "carbon",
 		"value": 2.10720996964787
 	},
@@ -9519,6 +9513,12 @@
 		"key": "2.10720996964787",
 		"region": "jtd-08-01-E1.txt",
 		"subregion": "prevent",
+		"value": 2.10720996964787
+	},
+	{
+		"key": "2.10720996964787",
+		"region": "jtd-08-01-E1.txt",
+		"subregion": "acute",
 		"value": 2.10720996964787
 	},
 	{
@@ -9530,7 +9530,7 @@
 	{
 		"key": "2.05087232544525",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "fe",
+		"subregion": "road",
 		"value": 2.05087232544525
 	},
 	{
@@ -9542,7 +9542,7 @@
 	{
 		"key": "2.05087232544525",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "road",
+		"subregion": "fe",
 		"value": 2.05087232544525
 	},
 	{
@@ -9560,25 +9560,25 @@
 	{
 		"key": "1.80617997398389",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "reactions",
+		"subregion": "areas",
 		"value": 1.80617997398389
 	},
 	{
 		"key": "1.80617997398389",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "areas",
+		"subregion": "reactions",
 		"value": 1.80617997398389
 	},
 	{
 		"key": "1.71103855956065",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "role",
+		"subregion": "human",
 		"value": 1.71103855956065
 	},
 	{
 		"key": "1.71103855956065",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "human",
+		"subregion": "role",
 		"value": 1.71103855956065
 	},
 	{
@@ -9590,13 +9590,13 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "reactive",
+		"subregion": "allergic",
 		"value": 1.66890750230186
 	},
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E1.txt",
-		"subregion": "radical",
+		"subregion": "recommended",
 		"value": 1.66890750230186
 	},
 	{
@@ -9680,13 +9680,13 @@
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "outdoors",
+		"subregion": "protection",
 		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "protection",
+		"subregion": "outdoors",
 		"value": 2.78151250383644
 	},
 	{
@@ -9698,13 +9698,7 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "lifestyles",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "minimizing",
+		"subregion": "deficiency",
 		"value": 2.33445375115093
 	},
 	{
@@ -9716,13 +9710,19 @@
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "deficiency",
+		"subregion": "lifestyles",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "jtd-08-01-E75.txt",
 		"subregion": "face",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "minimizing",
 		"value": 2.33445375115093
 	},
 	{
@@ -9746,20 +9746,14 @@
 	{
 		"key": "1.92491837950573",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "disease",
+		"subregion": "weather",
 		"value": 1.92491837950573
 	},
 	{
 		"key": "1.92491837950573",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "weather",
+		"subregion": "disease",
 		"value": 1.92491837950573
-	},
-	{
-		"key": "1.80617997398389",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "clean",
-		"value": 1.80617997398389
 	},
 	{
 		"key": "1.80617997398389",
@@ -9768,39 +9762,15 @@
 		"value": 1.80617997398389
 	},
 	{
-		"key": "1.66890750230186",
+		"key": "1.80617997398389",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "lifestyle",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "ym",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "xi",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "matters",
-		"value": 1.66890750230186
+		"subregion": "clean",
+		"value": 1.80617997398389
 	},
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E75.txt",
 		"subregion": "wash",
-		"value": 1.66890750230186
-	},
-	{
-		"key": "1.66890750230186",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "drinking",
 		"value": 1.66890750230186
 	},
 	{
@@ -9812,7 +9782,13 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "skin",
+		"subregion": "drinking",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "matters",
 		"value": 1.66890750230186
 	},
 	{
@@ -9824,31 +9800,37 @@
 	{
 		"key": "1.66890750230186",
 		"region": "jtd-08-01-E75.txt",
+		"subregion": "lifestyle",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
 		"subregion": "intake",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "skin",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "xi",
+		"value": 1.66890750230186
+	},
+	{
+		"key": "1.66890750230186",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "ym",
 		"value": 1.66890750230186
 	},
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "indoor",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-08-01-E75.txt",
 		"subregion": "thoracic",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "energy",
-		"value": 1.6406978603562
-	},
-	{
-		"key": "1.6406978603562",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "thorac",
 		"value": 1.6406978603562
 	},
 	{
@@ -9860,7 +9842,7 @@
 	{
 		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "basis",
+		"subregion": "indoor",
 		"value": 1.6406978603562
 	},
 	{
@@ -9870,15 +9852,27 @@
 		"value": 1.6406978603562
 	},
 	{
-		"key": "1.55630250076729",
+		"key": "1.6406978603562",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "principles",
-		"value": 1.55630250076729
+		"subregion": "basis",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "thorac",
+		"value": 1.6406978603562
+	},
+	{
+		"key": "1.6406978603562",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "energy",
+		"value": 1.6406978603562
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "conservation",
+		"subregion": "cavity",
 		"value": 1.55630250076729
 	},
 	{
@@ -9890,115 +9884,7 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "suzhou",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "eating",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "eds",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "micrometers",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "conjunctivitis",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "nasal",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "cavity",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "curb",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "cdc",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "hill",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "pdf",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "dp",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "division",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "fauci",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "resistance",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "harrison",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "advised",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "ny",
-		"value": 1.55630250076729
-	},
-	{
-		"key": "1.55630250076729",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "cod",
+		"subregion": "kasper",
 		"value": 1.55630250076729
 	},
 	{
@@ -10010,19 +9896,43 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "soochow",
+		"subregion": "epa",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "dl",
+		"subregion": "ny",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "as",
+		"subregion": "pdf",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "micrometers",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "principles",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "nasal",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "dp",
 		"value": 1.55630250076729
 	},
 	{
@@ -10034,25 +9944,43 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "cardiology",
+		"subregion": "scaled",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "epa",
+		"subregion": "conjunctivitis",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "respirators",
+		"subregion": "hill",
 		"value": 1.55630250076729
 	},
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "kasper",
+		"subregion": "division",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "cod",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "suzhou",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "cdc",
 		"value": 1.55630250076729
 	},
 	{
@@ -10064,14 +9992,80 @@
 	{
 		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "scaled",
+		"subregion": "as",
 		"value": 1.55630250076729
 	},
 	{
-		"key": "1.50514997831991",
+		"key": "1.55630250076729",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "outdoor",
-		"value": 1.50514997831991
+		"subregion": "resistance",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "respirators",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "curb",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "dl",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "eds",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "soochow",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "cardiology",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "eating",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "fauci",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "harrison",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "conservation",
+		"value": 1.55630250076729
+	},
+	{
+		"key": "1.55630250076729",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "advised",
+		"value": 1.55630250076729
 	},
 	{
 		"key": "1.50514997831991",
@@ -10080,10 +10074,10 @@
 		"value": 1.50514997831991
 	},
 	{
-		"key": "1.28327891967049",
+		"key": "1.50514997831991",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "exposure",
-		"value": 1.28327891967049
+		"subregion": "outdoor",
+		"value": 1.50514997831991
 	},
 	{
 		"key": "1.28327891967049",
@@ -10092,9 +10086,15 @@
 		"value": 1.28327891967049
 	},
 	{
+		"key": "1.28327891967049",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "exposure",
+		"value": 1.28327891967049
+	},
+	{
 		"key": "1.23052339526715",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "rights",
+		"subregion": "reserved",
 		"value": 1.23052339526715
 	},
 	{
@@ -10106,19 +10106,13 @@
 	{
 		"key": "1.23052339526715",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "simple",
-		"value": 1.23052339526715
-	},
-	{
-		"key": "1.23052339526715",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "reserved",
-		"value": 1.23052339526715
-	},
-	{
-		"key": "1.23052339526715",
-		"region": "jtd-08-01-E75.txt",
 		"subregion": "xue",
+		"value": 1.23052339526715
+	},
+	{
+		"key": "1.23052339526715",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "simple",
 		"value": 1.23052339526715
 	},
 	{
@@ -10128,10 +10122,10 @@
 		"value": 1.23052339526715
 	},
 	{
-		"key": "1.20411998265592",
+		"key": "1.23052339526715",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "patients",
-		"value": 1.20411998265592
+		"subregion": "rights",
+		"value": 1.23052339526715
 	},
 	{
 		"key": "1.20411998265592",
@@ -10142,37 +10136,25 @@
 	{
 		"key": "1.20411998265592",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "journal",
+		"subregion": "sufficient",
 		"value": 1.20411998265592
 	},
 	{
 		"key": "1.20411998265592",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "sufficient",
+		"subregion": "patients",
+		"value": 1.20411998265592
+	},
+	{
+		"key": "1.20411998265592",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "journal",
 		"value": 1.20411998265592
 	},
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "absorb",
-		"value": 1.11260500153457
-	},
-	{
-		"key": "1.11260500153457",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "sunlight",
-		"value": 1.11260500153457
-	},
-	{
-		"key": "1.11260500153457",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "wearing",
-		"value": 1.11260500153457
-	},
-	{
-		"key": "1.11260500153457",
-		"region": "jtd-08-01-E75.txt",
-		"subregion": "centers",
+		"subregion": "lasting",
 		"value": 1.11260500153457
 	},
 	{
@@ -10184,19 +10166,37 @@
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "referred",
+		"subregion": "york",
 		"value": 1.11260500153457
 	},
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "lasting",
+		"subregion": "cooking",
 		"value": 1.11260500153457
 	},
 	{
 		"key": "1.11260500153457",
 		"region": "jtd-08-01-E75.txt",
-		"subregion": "internal",
+		"subregion": "traditional",
+		"value": 1.11260500153457
+	},
+	{
+		"key": "1.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "yong",
+		"value": 1.11260500153457
+	},
+	{
+		"key": "1.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "wearing",
+		"value": 1.11260500153457
+	},
+	{
+		"key": "1.11260500153457",
+		"region": "jtd-08-01-E75.txt",
+		"subregion": "suffered",
 		"value": 1.11260500153457
 	},
 	{
@@ -10244,13 +10244,13 @@
 	{
 		"key": "15.576470021484",
 		"region": "WangWangWang.txt",
-		"subregion": "corneal",
+		"subregion": "refractive",
 		"value": 15.576470021484
 	},
 	{
 		"key": "15.576470021484",
 		"region": "WangWangWang.txt",
-		"subregion": "refractive",
+		"subregion": "corneal",
 		"value": 15.576470021484
 	},
 	{
@@ -10286,13 +10286,13 @@
 	{
 		"key": "9.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "cdva",
+		"subregion": "postoperative",
 		"value": 9.33781500460372
 	},
 	{
 		"key": "9.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "postoperative",
+		"subregion": "cdva",
 		"value": 9.33781500460372
 	},
 	{
@@ -10316,20 +10316,14 @@
 	{
 		"key": "7.78823501074202",
 		"region": "WangWangWang.txt",
-		"subregion": "visual",
+		"subregion": "follow",
 		"value": 7.78823501074202
 	},
 	{
 		"key": "7.78823501074202",
 		"region": "WangWangWang.txt",
-		"subregion": "follow",
+		"subregion": "visual",
 		"value": 7.78823501074202
-	},
-	{
-		"key": "7.78151250383644",
-		"region": "WangWangWang.txt",
-		"subregion": "crs",
-		"value": 7.78151250383644
 	},
 	{
 		"key": "7.78151250383644",
@@ -10338,10 +10332,10 @@
 		"value": 7.78151250383644
 	},
 	{
-		"key": "7.00336125345279",
+		"key": "7.78151250383644",
 		"region": "WangWangWang.txt",
-		"subregion": "cacy",
-		"value": 7.00336125345279
+		"subregion": "crs",
+		"value": 7.78151250383644
 	},
 	{
 		"key": "7.00336125345279",
@@ -10352,13 +10346,19 @@
 	{
 		"key": "7.00336125345279",
 		"region": "WangWangWang.txt",
-		"subregion": "underwent",
+		"subregion": "subjective",
 		"value": 7.00336125345279
 	},
 	{
 		"key": "7.00336125345279",
 		"region": "WangWangWang.txt",
-		"subregion": "subjective",
+		"subregion": "cacy",
+		"value": 7.00336125345279
+	},
+	{
+		"key": "7.00336125345279",
+		"region": "WangWangWang.txt",
+		"subregion": "underwent",
 		"value": 7.00336125345279
 	},
 	{
@@ -10388,12 +10388,6 @@
 	{
 		"key": "6.22521000306915",
 		"region": "WangWangWang.txt",
-		"subregion": "force",
-		"value": 6.22521000306915
-	},
-	{
-		"key": "6.22521000306915",
-		"region": "WangWangWang.txt",
 		"subregion": "cumulative",
 		"value": 6.22521000306915
 	},
@@ -10401,6 +10395,12 @@
 		"key": "6.22521000306915",
 		"region": "WangWangWang.txt",
 		"subregion": "military",
+		"value": 6.22521000306915
+	},
+	{
+		"key": "6.22521000306915",
+		"region": "WangWangWang.txt",
+		"subregion": "force",
 		"value": 6.22521000306915
 	},
 	{
@@ -10412,13 +10412,13 @@
 	{
 		"key": "5.4470587526855",
 		"region": "WangWangWang.txt",
-		"subregion": "postoperatively",
+		"subregion": "records",
 		"value": 5.4470587526855
 	},
 	{
 		"key": "5.4470587526855",
 		"region": "WangWangWang.txt",
-		"subregion": "logmar",
+		"subregion": "postoperatively",
 		"value": 5.4470587526855
 	},
 	{
@@ -10430,7 +10430,7 @@
 	{
 		"key": "5.4470587526855",
 		"region": "WangWangWang.txt",
-		"subregion": "records",
+		"subregion": "logmar",
 		"value": 5.4470587526855
 	},
 	{
@@ -10454,13 +10454,13 @@
 	{
 		"key": "4.66890750230186",
 		"region": "WangWangWang.txt",
-		"subregion": "intended",
+		"subregion": "aviators",
 		"value": 4.66890750230186
 	},
 	{
 		"key": "4.66890750230186",
 		"region": "WangWangWang.txt",
-		"subregion": "aviators",
+		"subregion": "intended",
 		"value": 4.66890750230186
 	},
 	{
@@ -10502,13 +10502,13 @@
 	{
 		"key": "3.89411750537101",
 		"region": "WangWangWang.txt",
-		"subregion": "selection",
+		"subregion": "postsurgery",
 		"value": 3.89411750537101
 	},
 	{
 		"key": "3.89411750537101",
 		"region": "WangWangWang.txt",
-		"subregion": "postsurgery",
+		"subregion": "selection",
 		"value": 3.89411750537101
 	},
 	{
@@ -10526,43 +10526,7 @@
 	{
 		"key": "3.89075625191822",
 		"region": "WangWangWang.txt",
-		"subregion": "forces",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "delivered",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
 		"subregion": "service",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "wk",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "armed",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "signifi",
-		"value": 3.89075625191822
-	},
-	{
-		"key": "3.89075625191822",
-		"region": "WangWangWang.txt",
-		"subregion": "cant",
 		"value": 3.89075625191822
 	},
 	{
@@ -10574,7 +10538,43 @@
 	{
 		"key": "3.89075625191822",
 		"region": "WangWangWang.txt",
+		"subregion": "wk",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
 		"subregion": "ingenta",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "signifi",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "delivered",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "armed",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "cant",
+		"value": 3.89075625191822
+	},
+	{
+		"key": "3.89075625191822",
+		"region": "WangWangWang.txt",
+		"subregion": "forces",
 		"value": 3.89075625191822
 	},
 	{
@@ -10586,7 +10586,7 @@
 	{
 		"key": "3.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "pilot",
+		"subregion": "safety",
 		"value": 3.33781500460372
 	},
 	{
@@ -10604,13 +10604,13 @@
 	{
 		"key": "3.33781500460372",
 		"region": "WangWangWang.txt",
-		"subregion": "safety",
+		"subregion": "pilot",
 		"value": 3.33781500460372
 	},
 	{
 		"key": "3.28139572071239",
 		"region": "WangWangWang.txt",
-		"subregion": "stability",
+		"subregion": "error",
 		"value": 3.28139572071239
 	},
 	{
@@ -10622,49 +10622,13 @@
 	{
 		"key": "3.28139572071239",
 		"region": "WangWangWang.txt",
-		"subregion": "error",
+		"subregion": "stability",
 		"value": 3.28139572071239
 	},
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "myopic",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "myopes",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "preoperatively",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "outcome",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "sponge",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
 		"subregion": "rgp",
-		"value": 3.11260500153457
-	},
-	{
-		"key": "3.11260500153457",
-		"region": "WangWangWang.txt",
-		"subregion": "wong",
 		"value": 3.11260500153457
 	},
 	{
@@ -10676,7 +10640,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "cylindrical",
+		"subregion": "fi",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "myopic",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "outcome",
 		"value": 3.11260500153457
 	},
 	{
@@ -10688,7 +10664,19 @@
 	{
 		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "fi",
+		"subregion": "preoperatively",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "cylindrical",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "wong",
 		"value": 3.11260500153457
 	},
 	{
@@ -10698,16 +10686,34 @@
 		"value": 3.11260500153457
 	},
 	{
-		"key": "2.87122125562335",
+		"key": "3.11260500153457",
 		"region": "WangWangWang.txt",
-		"subregion": "republic",
-		"value": 2.87122125562335
+		"subregion": "myopes",
+		"value": 3.11260500153457
+	},
+	{
+		"key": "3.11260500153457",
+		"region": "WangWangWang.txt",
+		"subregion": "sponge",
+		"value": 3.11260500153457
 	},
 	{
 		"key": "2.87122125562335",
 		"region": "WangWangWang.txt",
 		"subregion": "worse",
 		"value": 2.87122125562335
+	},
+	{
+		"key": "2.87122125562335",
+		"region": "WangWangWang.txt",
+		"subregion": "republic",
+		"value": 2.87122125562335
+	},
+	{
+		"key": "2.78151250383644",
+		"region": "WangWangWang.txt",
+		"subregion": "healing",
+		"value": 2.78151250383644
 	},
 	{
 		"key": "2.78151250383644",
@@ -10728,10 +10734,10 @@
 		"value": 2.78151250383644
 	},
 	{
-		"key": "2.78151250383644",
+		"key": "2.56655783934097",
 		"region": "WangWangWang.txt",
-		"subregion": "healing",
-		"value": 2.78151250383644
+		"subregion": "better",
+		"value": 2.56655783934097
 	},
 	{
 		"key": "2.56655783934097",
@@ -10740,10 +10746,10 @@
 		"value": 2.56655783934097
 	},
 	{
-		"key": "2.56655783934097",
+		"key": "2.4610467905343",
 		"region": "WangWangWang.txt",
-		"subregion": "better",
-		"value": 2.56655783934097
+		"subregion": "copyright",
+		"value": 2.4610467905343
 	},
 	{
 		"key": "2.4610467905343",
@@ -10758,45 +10764,39 @@
 		"value": 2.4610467905343
 	},
 	{
-		"key": "2.4610467905343",
-		"region": "WangWangWang.txt",
-		"subregion": "copyright",
-		"value": 2.4610467905343
-	},
-	{
 		"key": "2.33445375115093",
 		"region": "WangWangWang.txt",
-		"subregion": "excluded",
+		"subregion": "snellen",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "WangWangWang.txt",
-		"subregion": "asians",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "WangWangWang.txt",
-		"subregion": "aeromedical",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "WangWangWang.txt",
-		"subregion": "defi",
-		"value": 2.33445375115093
-	},
-	{
-		"key": "2.33445375115093",
-		"region": "WangWangWang.txt",
-		"subregion": "gan",
+		"subregion": "randomized",
 		"value": 2.33445375115093
 	},
 	{
 		"key": "2.33445375115093",
 		"region": "WangWangWang.txt",
 		"subregion": "undergoing",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "WangWangWang.txt",
+		"subregion": "meet",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "WangWangWang.txt",
+		"subregion": "post",
+		"value": 2.33445375115093
+	},
+	{
+		"key": "2.33445375115093",
+		"region": "WangWangWang.txt",
+		"subregion": "protocol",
 		"value": 2.33445375115093
 	}
 ]

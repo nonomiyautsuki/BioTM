@@ -24,7 +24,7 @@ for($i=0;$i<@word;$i++){
 }#對目標檔案內的字元以空格和換行為界線進行排序
 
 	
-@merged = sort @merged;#以字母順序進行再排序
+#@merged = sort @merged;#以字母順序進行再排序
 	#print @merged;
 	
 		
