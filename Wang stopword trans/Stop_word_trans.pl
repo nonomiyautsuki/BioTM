@@ -66,23 +66,37 @@ foreach my $i (@StopWords){
 }
 
 my $allword = scalar(@merged) ;
+print  $allword ;
 #不需要的Stopword
 
-open (proto,">WordListAndTF.csv")||die "File open error!";
+#open (proto,">WordListAndTF.csv")||die "File open error!";
+#print "\nStart the Key\n";
+#my %keys;
+#printf proto("hkuguhkuhkuhukhuihkuh\n");
+#close (proto)||die "File open error!";
+# for my $key(@merged){
+	# print $key;
+	# if($toRemove{$key} || $key=~/\d/ || $key !~ /\D/ || $key=~ /\n/)
+	# {
+		# printf proto ("$toRemove{$key} , $key , $key/$allword")
+	# }
+	# else{
+		# printf proto ("$toRemove{$key} , $key , $key/$allword")
+	# }
+	
+# }
 
-my %toRemove;
-
-my %Hash = @merged;
 
 
 
-foreach my $key(@merged){
-	if(toRemove{$key} || $key=~/\d/ || $key !=~ /\D/ || $key=~ /\n/)
-	{
-		print proto ("toRemove{$key}\,$key\,$key/$allword")
-	}
-}
+close (proto)
 
 
-close (proto);
+print "\nEnd the Key\n";
+#foreach $key (keys %keys) {
+#print "$keys{$key}\n";}
+#foreach $value (values %keys)
+#while(($key,$value)=each %keys)
+
+
 exit;
